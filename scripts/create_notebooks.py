@@ -1,27 +1,14 @@
-"""Create the three beginner-friendly Phase 1 notebooks.
-
-Run this file only when the notebook templates need to be rebuilt. The notebooks
-themselves contain all analysis code and can be opened and run normally.
-"""
-
 from pathlib import Path
-
 import nbformat as nbf
-
 
 ROOT = Path(__file__).resolve().parents[1]
 NOTEBOOKS = ROOT / "notebooks"
 NOTEBOOKS.mkdir(exist_ok=True)
 
-
 def markdown(text):
     return nbf.v4.new_markdown_cell(text.strip())
-
-
 def code(text):
     return nbf.v4.new_code_cell(text.strip())
-
-
 def save_notebook(filename, title, cells):
     notebook = nbf.v4.new_notebook()
     notebook["cells"] = [markdown(f"# {title}")] + cells
@@ -46,7 +33,6 @@ import os
 PROJECT_ROOT = Path.cwd()
 if PROJECT_ROOT.name == "notebooks":
     PROJECT_ROOT = PROJECT_ROOT.parent
-
 DATA_RAW = PROJECT_ROOT / "data" / "raw"
 DATA_PROCESSED = PROJECT_ROOT / "data" / "processed"
 IMAGES = PROJECT_ROOT / "images"

@@ -1,0 +1,7 @@
+check,count
+starting_rows,20229
+missing_sentiment_rows,0
+empty_text_rows,113
+conflicting_label_rows,106
+duplicate_rows,520
+final_rows,19490

@@ -1,0 +1,17 @@
+Data Science Project: Phase 1 Instructions
+Hi everyone,
+Phase 1 of the project is due on 10th November. This phase covers all the work on the data, before any modeling starts. By the deadline, you should have:
+Data cleaning: missing values, duplicates, outliers and inconsistent formats handled
+EDA: complete, with clear visualizations
+Insights: everything you learned from the data, written down clearly (trends, correlations, distributions, class imbalance, anything useful for modeling)
+Normalization/scaling: done, if your data needs it
+What your GitHub repo should contain
+README.md with the project title and a short description, the problem statement, your dataset details (source, size, features, target variable), a summary of your cleaning steps, your key findings, and how to run your notebooks
+Dataset link(s): if the dataset is too large to upload, add the download link in the README
+Notebooks (.ipynb) for cleaning, EDA and preprocessing, with markdown cells explaining what you did and why. Run all cells so the outputs are visible.
+Graphs and visualizations (histograms, correlation heatmaps, boxplots, etc.), either shown in the notebooks or saved in a separate folder, along with a short note on what each one tells you about the data
+Cleaned/processed dataset, or a script/notebook that generates it
+requirements.txt listing your libraries
+Keep the repo organized (e.g., data/, notebooks/, images/) and commit regularly. I'll be looking at your commit history to see your progress, so don't push everything in one commit on the last day.
+Submission: All work must be on GitHub. You can keep your repo private, but then you must add me as a collaborator so I can view it: https://github.com/Rebelhere. If I can't access your repo, I can't evaluate your work.
+Phase 2 starts right after Phase 1 and its last date is 28th November. Everyone's project should be fully ready by 28th November, so don't leave Phase 1 for the last minute.

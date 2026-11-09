@@ -1,0 +1,10 @@
+datasets==4.4.1
+pandas==2.3.3
+numpy==2.3.4
+matplotlib==3.10.7
+seaborn==0.13.2
+scikit-learn==1.7.2
+jupyter==1.1.1
+nbformat==5.10.4
+nbconvert==7.16.6
+

@@ -1,3 +1,7 @@
+# start
+.\.venv\Scripts\Activate.ps1
+>> streamlit run app/app.py
+
 # Roman Urdu Sentiment Analysis
 
 Complete data science/NLP project for classifying Roman Urdu text as positive,

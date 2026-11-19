@@ -1,0 +1,61 @@
+Data Science Project: Phase 1 Instructions
+Hi everyone,
+Phase 1 of the project is due on 10th November. This phase covers all the work on the data, before any modeling starts. By the deadline, you should have:
+Data cleaning: missing values, duplicates, outliers and inconsistent formats handled
+EDA: complete, with clear visualizations
+Insights: everything you learned from the data, written down clearly (trends, correlations, distributions, class imbalance, anything useful for modeling)
+Normalization/scaling: done, if your data needs it
+What your GitHub repo should contain
+README.md with the project title and a short description, the problem statement, your dataset details (source, size, features, target variable), a summary of your cleaning steps, your key findings, and how to run your notebooks
+Dataset link(s): if the dataset is too large to upload, add the download link in the README
+Notebooks (.ipynb) for cleaning, EDA and preprocessing, with markdown cells explaining what you did and why. Run all cells so the outputs are visible.
+Graphs and visualizations (histograms, correlation heatmaps, boxplots, etc.), either shown in the notebooks or saved in a separate folder, along with a short note on what each one tells you about the data
+Cleaned/processed dataset, or a script/notebook that generates it
+requirements.txt listing your libraries
+Keep the repo organized (e.g., data/, notebooks/, images/) and commit regularly. I'll be looking at your commit history to see your progress, so don't push everything in one commit on the last day.
+Submission: All work must be on GitHub. You can keep your repo private, but then you must add me as a collaborator so I can view it: https://github.com/Rebelhere. If I can't access your repo, I can't evaluate your work.
+Phase 2 starts right after Phase 1 and its last date is 28th November. Everyone's project should be fully ready by 28th November, so don't leave Phase 1 for the last minute.
+
+
+PHASE 2
+first pull from main latest to this code (my partner just did some changes to look performative his changes dont matter to me )
+
+Phase 1 is done, and Phase 2 is now the final phase of the project. The last date is 28th November, and your complete project should be ready by then. There will be no extensions, so plan your time accordingly.
+
+In this phase you build on the work from Phase 1. What you need to deliver depends on the type of project you are doing.
+
+If your project is a traditional ML/DL project (training your own models):
+
+- Model building: apply suitable models to your problem (more than one if possible, so you can compare them)
+- Training and testing: a proper train/test split, with cross-validation or hyperparameter tuning where it makes sense
+- Evaluation: the right metrics for your problem (accuracy, precision, recall, F1, RMSE, R2, etc.), with confusion matrices, plots or comparison tables
+- Comparison and analysis: which model performed best and why, where it fails, and what could be improved
+If your project uses pre-trained LLMs (LangChain, RAG, agents, etc.):
+
+You won’t have a model training phase, but you still need to show that your system actually works well. Instead of training, I expect:
+
+- Pipeline design: a clear explanation of your architecture (which LLM, embeddings, vector store, chunking strategy, prompts, chains or agents, and why you chose them)
+- Experiments: try at least a few different configurations (different LLMs, chunk sizes, retrieval settings, prompt versions, etc.) and compare them
+- Evaluation: test your system on a set of sample questions or tasks and judge the quality of the outputs. Use whatever fits your project: accuracy on a test set, retrieval quality, response relevance, hallucination checks, response time, or manual scoring with a small table. Show your results, don’t just say it works.
+- Limitations and analysis: where does your system fail or give wrong answers, and what could be improved
+- Prompts and configs: keep your prompts, config files and any fine-tuning or embedding scripts in the repo
+- API keys: never push API keys to GitHub. Use a .env file, add it to .gitignore, and include a .env.example showing which variables are needed
+For everyone:
+
+- Working website: your project must have a working website or web app where a user can give input and get results from your system (Streamlit, Flask, FastAPI, Gradio or any framework you prefer)
+- Deployment: it will be appreciated if your website is deployed online (Streamlit Community Cloud, Hugging Face Spaces, Render, Railway, etc.). Add the live link in your README. If you can’t deploy it, make sure it runs properly locally and the README has clear steps to run it.
+- Conclusion: a final summary of what your project achieved and what the results mean in practice
+What your GitHub repo should contain at the end:
+
+- An updated README.md covering the problem statement, dataset details, a summary of your Phase 1 work, the models or pipeline used, final results, the live website link (if deployed), and instructions to run the project
+- Notebooks (.ipynb) for the modeling or experimentation work, with markdown cells explaining your steps and all outputs visible
+- Website code (app files, templates, etc.) in its own folder
+- Graphs and result visuals, such as model or configuration comparison charts, evaluation plots and feature importance
+- The trained model files if they are not too large (or a script that reproduces them), or for LLM projects, your pipeline code and any vector store or index creation scripts
+- requirements.txt with all the libraries you used
+- A clean, organized repo structure, with Phase 1, Phase 2 and the website clearly separated
+Keep committing regularly. I will check your commit history, so don’t push everything in one go on the last day.
+
+Submission is on GitHub only. If your repo is private, make sure I (TA) am still added as a collaborator: https://github.com/Rebelhere. If I can’t open your repo, I can’t evaluate it.
+
+Please don’t leave this for the last two days. If you are stuck on anything, ask early, especially with deployment, since it can take longer than expected.  

@@ -1,0 +1,51 @@
+sentence,sentiment,label,Dummy Baseline,Naive Bayes,Logistic Regression,Linear SVM,predicted_label,predicted_sentiment,word_count,likely_difficulty
+"Tahum paramount ne bhi film The Bell Boy banane ki peshkash ki, jise jerry ne qabool kar liya aur is film ki production, direction aur story writer ka kaam anjaam diya aur apni zaati production ke sath sath yeh film bhi mukammal kar li",Neutral,1,1,2,2,2,2,Positive,44,Urdu-English code-switching
+Ghulam Ishaq Khan jabri retirement ke bad Peshwar mein gosh nashen ho gaye ow do saal musalsal bemar rahe,Negative,0,1,1,1,1,1,Neutral,19,Urdu-English code-switching
+Is liye bohat choti umer mein Jaya Prada ko raqs o mauseeqi ki tarbiyat hasil karne bhej diya gaya,Neutral,1,1,1,2,1,2,Positive,19,Urdu-English code-switching
+Pir Pagara Hur jamat ke sarbarah azeem dargah Pagara Gaddi ke sajjadah nasheen aur aik mumtaz politician ki hesiyat se nihayat mutehrik nazar aate the,Neutral,1,1,2,2,2,2,Positive,25,Urdu-English code-switching
+Bad qismati se Pakistan team ke leye un ka intikab na ho saka,Neutral,1,1,2,2,2,2,Positive,13,Urdu-English code-switching
+product is amazing . paper quality is also best . lkn bazar ke lehaz se price zyada hai ....,Neutral,1,1,2,2,2,2,Positive,19,Urdu-English code-switching
+Is baat ka izhaar inho ne apne aik interview ke dauran kiya tha ke wo larhakpan he se apni janib uthne wali sataishi nazron ki aadi hain,Neutral,1,1,1,2,1,2,Positive,27,Urdu-English code-switching
+"Legend Naami film mein 52 saala jagpati Babu aur 53 saala Nanda Mori ke muqabl ehm kirdar ada kareingi,saal e rawan mein Akshay Kumar aur Sanjay Dutt ke saath film ""Aasmam"" release hogi",Neutral,1,1,1,2,2,2,Positive,33,Urdu-English code-switching
+Ab is ki siasat khatam,Negative,0,1,1,1,1,1,Neutral,5,Urdu-English code-switching
+Arsal Lagta toh nhii tha Itna Actor Is Drame mai kamal ki acting ki hai.Isne.,Positive,2,1,1,1,1,1,Neutral,15,Urdu-English code-switching
+Jise ijlaas ke shurkaa ne kasrat raaey se manzoor kiya tha,Positive,2,1,1,1,1,1,Neutral,11,"context, spelling variation, or possible label ambiguity"
+Agar Koi Aurat Yeh Chahati Ho Ky Us Viladat Mein Asani Ho Tu Usko Chahiye Ky Rozana 1 Baar Surah Zaariyat Parhy,Neutral,1,1,1,2,2,2,Positive,22,"context, spelling variation, or possible label ambiguity"
+Finally arsal ko b pata lag e gya jiya ki feelings ka,Positive,2,1,0,1,1,1,Neutral,12,"context, spelling variation, or possible label ambiguity"
+Hashim Khan ne Misr ke Mahmood Alkareem ko final mein hara ker aik dahmaka ker diya,Neutral,1,1,2,2,1,2,Positive,16,"context, spelling variation, or possible label ambiguity"
+Hazrat Abdullah Shah Ghazi Ka 1286wan Uroos Baldia Uzma Ne,Negative,0,1,1,2,2,2,Positive,10,"context, spelling variation, or possible label ambiguity"
+JazakAllah Mera raab razi ho jay,Positive,2,1,2,1,1,1,Neutral,6,"context, spelling variation, or possible label ambiguity"
+Ko Subah 8 Baje Se 24 24 Ghanto K Liye Band Rahe Gaye,Neutral,1,1,0,0,0,0,Negative,13,"context, spelling variation, or possible label ambiguity"
+Gunah krne wale say Nahin Shayd Tumhari Mohabbat Mein aa kr Wo Gunah Karna hi Chor de,Positive,2,1,1,0,0,0,Negative,17,"context, spelling variation, or possible label ambiguity"
+1 crore darakht lagwaye Imran ne kpk mei.,Positive,2,1,1,0,0,0,Negative,8,"context, spelling variation, or possible label ambiguity"
+Awam nay inpar do martaba aitamad kartay hoye inhain muntakhab kia,Positive,2,1,1,0,0,0,Negative,11,"context, spelling variation, or possible label ambiguity"
+kia shafay ko na batanay say shafay theek ho jaey ga???,Neutral,1,1,0,0,2,0,Negative,11,informal expression or punctuation
+"Question : Family mein aap ko dekh kar kisi ne squash shuru ki ya bhai waghairah ka rujhan parhai ki taraf hai?Nasir Iqbal : Hum Masha Allah 7 behan bhai hain, mere bare bhai Tahir Iqbal ne shoqiya squash zaror kheeli thi a",Neutral,1,1,2,2,2,2,Positive,43,informal expression or punctuation
+Ayesha Muzzafer math nh ati?,Negative,0,1,1,1,1,1,Neutral,5,informal expression or punctuation
+Aur Express walo k Neend kharab!,Neutral,1,1,0,0,0,0,Negative,6,informal expression or punctuation
+iss budhii sy bnda puchay kitnii jamatain pass hay yeh?,Negative,0,1,1,1,1,1,Neutral,10,informal expression or punctuation
+Ata h ne ata h ??,Neutral,1,1,2,2,2,2,Positive,6,informal expression or punctuation
+Shab e jumma jo Hazrat Ali ny memory increase karny ky liye parhe thy wo parhny ka tariqa bata dain ? ?,Positive,2,1,1,1,1,1,Neutral,22,informal expression or punctuation
+replcamene of Mitchell...is ther any other bowler?,Neutral,1,1,1,2,2,2,Positive,7,informal expression or punctuation
+ho phir tum kamyab aurat?,Neutral,1,1,0,2,2,2,Positive,5,informal expression or punctuation
+ahahah or usko chor jany waly ko kia kehty hain? 😂,Neutral,1,1,0,0,0,0,Negative,11,informal expression or punctuation
+I wish kabhi khatam na ho but ramazan special drama hai eid k bad khatam ho jaye ga,Negative,0,1,1,2,2,2,Positive,18,mixed or contrasting opinion
+Yar KPK main kisi ki dosri bari nahin ati lakin khan na itna kaam kiya hain k wo pehla sa bohat zyada vote sa jeta ga tum dekh lena,Positive,2,1,1,0,2,0,Negative,29,mixed or contrasting opinion
+ye product ashi hay but size thora bara hay,Neutral,1,1,2,0,0,0,Negative,9,mixed or contrasting opinion
+"Fitrat ka sacha aks hai lekin samaj ki bereham zanjeron mein jakri hoi bhi hia, aala martabe ki haq dar hai magar paon ki joti samjhi jati hai, sarapa rehm o karam hone ki bona par boriyat ka roop hai magar zamana is se larzan bhi hai, sadyon se zulm o sitam ka takhta e mashak hai lekin sabar ka pahar bhi hai",Negative,0,1,2,2,2,2,Positive,63,mixed or contrasting opinion
+11 May 2004 ko Shahbaz Sharif nay Pakistan wapas aney ki koshish ki magar Lahore kay alama Iqbal bain ul aqwami hawai adde (alama Iqbal international airport) say unhein wapas bhej diya gaya,Negative,0,1,1,2,2,2,Positive,33,mixed or contrasting opinion
+Zila Sergodha mein un dino Uninest parti ka bara zor tha lakin Ahmed Nadeem Qasmi ne us ke moqabil Muslim leag ki tanzeem o tosi mein barh char ker hissa leya,Neutral,1,1,1,0,0,0,Negative,31,mixed or contrasting opinion
+"Lekin mehaz 5 mah bad hi 11 April 2007 ko Colambia bhi muqabale ke dor se dastbadar ho gaya, jab ke Argentina ne kisi bhi marhale par khud ko bazabta umeedwar ki hesiyat se pesh nahi kiya",Negative,0,1,1,2,0,2,Positive,37,mixed or contrasting opinion
+Film to 1965 mein release hoi lekin Noor Jahan ka gana “ho tamana aur kia jan e tamana aap hain” waba ki tarah pore mulk mein phel gaya,Positive,2,1,1,1,1,1,Neutral,28,mixed or contrasting opinion
+"Question: Koi esa libas jo aap kabhi pehanna nahi chahate?Shahrukh Khan: Main filmon ke leye har tarah ka costume pehan sakta hun, jese “Rab ne bana di jori” mein jo jeans pehanni pari thi wo mujhe bilkul pasand nahi thi magar shooting ke waqat main ne inkar nahi kiya tha",Neutral,1,1,2,2,1,2,Positive,50,mixed or contrasting opinion
+Is film ki peshkash mausool hone se aik din pehle shahrukh khan ne apni tamam koshishon mein nakami ke bad Delhi wapis jane ka faisla kar liya tha lekin in ki jaib mein kiraya nahi tha,Negative,0,1,2,2,2,2,Positive,36,mixed or contrasting opinion
+bht ziada,Neutral,1,1,1,2,1,2,Positive,2,very short or ambiguous
+Kill you👊,Negative,0,1,1,1,1,1,Neutral,2,very short or ambiguous
+Thank you Aunty😘😘😘,Neutral,1,1,1,2,2,2,Positive,3,very short or ambiguous
+bethega rickshay pe??,Neutral,1,1,1,0,0,0,Negative,3,very short or ambiguous
+Bgyrat khine k,Negative,0,1,1,1,1,1,Neutral,3,very short or ambiguous
+Maham Zahid,Negative,0,1,1,1,1,1,Neutral,2,very short or ambiguous
+That's great😂,Neutral,1,1,2,2,2,2,Positive,2,very short or ambiguous
+Allah raham karay,Neutral,1,1,2,2,2,2,Positive,3,very short or ambiguous
+Hahahaha chwal,Neutral,1,1,1,0,1,0,Negative,2,very short or ambiguous
+Kuch nahe hua.,Neutral,1,1,0,0,0,0,Negative,3,very short or ambiguous

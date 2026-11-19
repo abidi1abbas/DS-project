@@ -1,0 +1,10 @@
+{
+  "max_length": 50,
+  "embedding_size": 64,
+  "hidden_size": 64,
+  "labels": {
+    "0": "Negative",
+    "1": "Neutral",
+    "2": "Positive"
+  }
+}

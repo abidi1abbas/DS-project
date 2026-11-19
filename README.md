@@ -1,8 +1,9 @@
 # Roman Urdu Sentiment Analysis
 
-Phase 1 of a data science/NLP project that prepares a Roman Urdu sentiment
-dataset for later comparison of classical machine learning, deep learning, and
-transformer models.
+Complete data science/NLP project for classifying Roman Urdu text as positive,
+negative, or neutral. It includes data preparation, exploratory analysis,
+classical machine learning, a BiLSTM, a fine-tuned compact BERT model, model
+comparison, error analysis, and reusable prediction code.
 
 ## Group members
 
@@ -17,8 +18,9 @@ is slow and impractical. The final project will classify a Roman Urdu sentence a
 positive, negative, or neutral. Roman Urdu is challenging because spelling is not
 standardized, messages are informal, and the same idea can be written in many ways.
 
-Phase 1 covers only data loading, cleaning, exploratory data analysis, and
-preprocessing. No prediction model is trained in this phase.
+Phase 1 covers data loading, cleaning, exploratory analysis, and preprocessing.
+Phase 2 trains and evaluates several sentiment classifiers on the same fixed test
+set.
 
 ## Dataset
 
@@ -75,26 +77,72 @@ The cleaned dataset is split into 15,592 training rows and 3,898 test rows using
 80/20 stratified split with `random_state=42`. There is no repeated normalized text
 shared between the two files.
 
-Numeric scaling is not applied directly to sentences. In Phase 2, TF-IDF will
-create normalized sparse features for classical models, while neural models will
-use tokens and embeddings. Any future numeric feature scaler must be fitted only
-on the training set to prevent data leakage.
+Numeric scaling is not applied directly to sentences. TF-IDF creates normalized
+sparse features for classical models, while neural models use tokens and learned
+embeddings. Preprocessing is learned from training data only to prevent leakage.
+
+## Phase 2 modeling
+
+The Phase 2 notebooks implement:
+
+1. a most-frequent dummy baseline;
+2. Multinomial Naive Bayes with word TF-IDF;
+3. Logistic Regression with word and character TF-IDF;
+4. Linear SVM with word and character TF-IDF;
+5. a bidirectional LSTM trained from scratch;
+6. fine-tuning of a compact pretrained BERT checkpoint;
+7. final comparison, error analysis, and an inference example.
+
+Model selection and checkpoint selection use validation data created only from the
+training file. Every final score comes from the same untouched 3,898-row test set.
+Macro-F1 is the main metric because it gives equal importance to all classes.
+
+## Final model results
+
+| Model | Accuracy | Macro-F1 | Weighted F1 |
+|---|---:|---:|---:|
+| Logistic Regression | **0.6811** | **0.6767** | **0.6815** |
+| Linear SVM | 0.6570 | 0.6512 | 0.6568 |
+| Naive Bayes | 0.6398 | 0.6198 | 0.6317 |
+| BiLSTM | 0.5800 | 0.5738 | 0.5822 |
+| BERT Tiny | 0.5223 | 0.5141 | 0.5241 |
+| Dummy baseline | 0.4333 | 0.2015 | 0.2620 |
+
+Logistic Regression is the best model by macro-F1. Word and character TF-IDF is
+effective because character n-grams tolerate Roman Urdu spelling variation. The
+BiLSTM learns sequence patterns but has no pretrained language knowledge. The
+two-layer BERT checkpoint is a real fine-tuning experiment chosen for CPU
+reproducibility, but its small size and English vocabulary limit performance. A
+larger multilingual transformer is a future GPU-based extension.
+
+Error analysis exports short/ambiguous sentences, mixed opinions, Urdu-English
+code-switching, informal punctuation, spelling variation, and possible label
+ambiguity. These categories organize manual review; they are not new labels.
 
 ## Repository structure
 
 ```text
 Project/
+├── app/                             # Streamlit website and its configuration
 ├── data/
 │   ├── raw/                         # Dataset exported from Hugging Face
 │   └── processed/                   # Cleaned, processed, train, and test CSVs
-├── images/                          # EDA charts
+├── images/                          # EDA and model evaluation charts
+├── models/                          # Saved TF-IDF, BiLSTM, and BERT artifacts
 ├── notebooks/
 │   ├── 01_data_cleaning.ipynb
 │   ├── 02_exploratory_data_analysis.ipynb
-│   └── 03_preprocessing.ipynb
+│   ├── 03_preprocessing.ipynb
+│   ├── 04_classical_models.ipynb
+│   ├── 05_bilstm.ipynb
+│   ├── 06_transformer.ipynb
+│   └── 07_model_comparison_and_error_analysis.ipynb
+├── results/                         # Metrics, predictions, and error analysis
 ├── scripts/
-│   └── create_notebooks.py          # Rebuilds notebook templates if needed
-├── Phase1_instructions.txt
+│   ├── create_notebooks.py
+│   └── create_phase2_notebooks.py
+├── predict_sentiment.py
+├── Phase1&2_instructions.txt
 ├── Project_Proposal_Sentiment_Analysis .pdf
 ├── README.md
 └── requirements.txt
@@ -126,14 +174,32 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
-### 3. Open the notebooks
+### 3. Run the notebooks
 
 ```bash
 jupyter notebook
 ```
 
-Run the notebooks in numerical order. They are already saved with outputs, but
-running them again will reproduce the processed files and charts.
+Run notebooks `01` through `07` in numerical order. They are already saved with
+outputs. The first transformer run downloads its pretrained checkpoint from
+Hugging Face; later runs use the local cache.
+
+### 4. Make a prediction with the selected model
+
+```powershell
+python predict_sentiment.py "yeh movie bohat achi hai"
+```
+
+### 5. Run the website locally
+
+```powershell
+streamlit run app/app.py
+```
+
+Open the local address printed by Streamlit (normally `http://localhost:8501`).
+The website accepts Roman Urdu text, displays a sentiment prediction and confidence
+values, and includes the final model comparison. Online deployment is optional and
+is not required to run or grade the project locally.
 
 ## Generated visualizations
 
@@ -142,4 +208,8 @@ running them again will reproduce the processed files and charts.
 - `03_word_count_boxplot.png` — compares typical length and long examples by class.
 - `04_top_words_by_sentiment.png` — lists frequent words within each class.
 - `05_feature_correlation_heatmap.png` — compares derived numeric text features.
+- `06_classical_confusion_matrices.png` — shows classical model mistakes.
+- `07_bilstm_training_and_confusion.png` — shows BiLSTM loss and errors.
+- `08_bert_training_and_confusion.png` — shows BERT loss and errors.
+- `09_final_model_comparison.png` — compares every final model.
 

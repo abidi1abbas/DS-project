@@ -1,0 +1,9 @@
+{
+  "base_model": "google/bert_uncased_L-2_H-128_A-2",
+  "max_length": 64,
+  "labels": {
+    "0": "Negative",
+    "1": "Neutral",
+    "2": "Positive"
+  }
+}

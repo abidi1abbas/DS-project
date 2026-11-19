@@ -1,0 +1,1244 @@
+sentence,sentiment,label,Dummy Baseline,Naive Bayes,Logistic Regression,Linear SVM,predicted_label,predicted_sentiment,word_count,likely_difficulty
+Per Khan ky anay sy Kai afia bach jain gi...,Neutral,1,1,0,0,0,0,Negative,10,"context, spelling variation, or possible label ambiguity"
+tum bol daiti hai.. tumhara leya kabhi nahi busy :'),Positive,2,1,1,1,1,1,Neutral,10,"context, spelling variation, or possible label ambiguity"
+Islamabad K Baldiyati Intakhabat Jamati Buniyad Per Kraney Ka Bill Senate Me Kasrat e Rae Se Manzur,Positive,2,1,1,1,1,1,Neutral,17,"context, spelling variation, or possible label ambiguity"
+kuch to aihsaaz karo.,Negative,0,1,1,1,1,1,Neutral,4,"context, spelling variation, or possible label ambiguity"
+Iss team Imran khan bhi shamil they jo watan ki sar zameen per apna phela test khel rahe they,Neutral,1,1,2,2,2,2,Positive,19,"context, spelling variation, or possible label ambiguity"
+Ab Mola Ali a.s k naam pr yh kya naya tamasha khara ho gya hy?,Positive,2,1,0,0,0,0,Negative,15,informal expression or punctuation
+Abhi hui nai h but hogi tb bh ni bulaongi,Neutral,1,1,1,0,1,0,Negative,10,mixed or contrasting opinion
+"In ki guftugu mein maeyne aafreeni, chaashni aur fiqrahbazi ka ansar numayan hota tha",Positive,2,1,2,1,1,1,Neutral,14,"context, spelling variation, or possible label ambiguity"
+Barah-e-Meherbani is trhan ki posts zyyada kiya karain ta k humaray ilm mein izafa ho!#Shukriya,Positive,2,1,2,1,1,1,Neutral,15,Urdu-English code-switching
+"1992 se 1993 ke doran Salman ki 6 filmein nakaam hoein, kuch logon ka khayal tha ke shayad un ka career zawal pazer ho gaya hai lekin esa nahi tha",Neutral,1,1,0,0,0,0,Negative,30,mixed or contrasting opinion
+Maham Zahid,Negative,0,1,1,1,1,1,Neutral,2,very short or ambiguous
+Ap ne is jang mein apni LMG machine gun ke sath dushman ki do regiments ko akhiri dum tak roke rakha,Positive,2,1,2,0,0,0,Negative,21,Urdu-English code-switching
+Taru sapnu maru pan thay gayu have,Neutral,1,1,1,0,0,0,Negative,7,"context, spelling variation, or possible label ambiguity"
+ECP Ne PTI K Accounts Ki Tafsilat 3 December Tak Mang Len,Neutral,1,1,1,0,0,0,Negative,12,"context, spelling variation, or possible label ambiguity"
+Gg bilkul Gulzar hai,Positive,2,1,2,1,1,1,Neutral,4,"context, spelling variation, or possible label ambiguity"
+Ibrahim Ismail ne apni ibtedai taleem Ahmadabad ke school mein hasil ki aur college ki taleem ke baad Bombay University mein aa gaey,Positive,2,1,1,1,1,1,Neutral,23,"context, spelling variation, or possible label ambiguity"
+Apne career ke barey mein khud in ka kehna hai ke film The Color Purple banane ke waqt se haqiqat se qareeb tar mauzoaat mein meri dilchaspi barhti rahi hai,Neutral,1,1,1,2,1,2,Positive,30,Urdu-English code-switching
+Well done hahaha,Negative,0,1,1,1,1,1,Neutral,3,very short or ambiguous
+Is ghar ko Pakistan ki siasat mein aik aa'la makam hasil hai jisay hurf-e-aam mein 90 kay nam say duniya janti hai,Neutral,1,1,2,2,2,2,Positive,22,Urdu-English code-switching
+"Akhbarat, risale aur tarikh par unki gehri nigah thi",Positive,2,1,2,1,1,1,Neutral,9,"context, spelling variation, or possible label ambiguity"
+jispar hum vine banarahe thay,Neutral,1,1,1,0,1,0,Negative,5,"context, spelling variation, or possible label ambiguity"
+Pher kya perhy ky hmy bi jnnet mly,Positive,2,1,1,1,1,1,Neutral,8,"context, spelling variation, or possible label ambiguity"
+iss key elawa almi sitah par unhein bea shumar deegar azazat sey nawaza gea woh kae mertaba almi Squash Fedreation key Sadar bhi muntakhib ho chukey hain,Positive,2,1,2,1,1,1,Neutral,27,"context, spelling variation, or possible label ambiguity"
+Tag them please! !!!😍😍,Positive,2,1,1,1,1,1,Neutral,4,informal expression or punctuation
+Election me hisa lena chaie h ho sakta pakistan ka wazeer e azam ho jayen,Positive,2,1,1,0,0,0,Negative,15,"context, spelling variation, or possible label ambiguity"
+20 January 1988 Peshawar mein Bhacha Khan ka Inteqal huya aur app ko wasihat ke mutabiq Jalalabad Afghanistan mein dafan kiya gaya Afghanistan mein iss waqt ghamsan ki jang jari thi lakin app ki tadfeen ke moqa per dono ataraf se jang bandi ka faisla huya ye baat app ki shakhsiyat ke ilaqae asro rasukh ko zahir kerti hai,Positive,2,1,1,0,0,0,Negative,59,mixed or contrasting opinion
+Suchiii Or isi chkr me aksr meri bus chl partii thi or phr peche bhagoooo,Neutral,1,1,0,0,0,0,Negative,15,"context, spelling variation, or possible label ambiguity"
+Usi waqt tak in ka kaam mehaz shauqia samjha ja raha tha,Positive,2,1,1,1,1,1,Neutral,12,"context, spelling variation, or possible label ambiguity"
+Panchween aur faisla kun set mein Azam Khan ko bahat iehteyat beratna pari aur apne tamam tajurbe ko barue kar lana para,Positive,2,1,2,0,0,0,Negative,22,"context, spelling variation, or possible label ambiguity"
+Tmko kheenchny ki tameez nhi h na beta.. Tbhi aalaaw bol rahi..,Neutral,1,1,1,0,0,0,Negative,12,"context, spelling variation, or possible label ambiguity"
+Tahum Dilip Kumar ki tarah shahrukh khan ke aabao ajdaad ka talluq bhi Peshawar se tha aur wo bhi qissa khuwani bazaar mein raha karte the,Neutral,1,1,1,2,2,2,Positive,26,Urdu-English code-switching
+33 seats lany k bad be Nawaz apny ap ko bachny k ley Chairman ke seat PPP ko da rha patwario kab aqal ay gae ap lo,Neutral,1,1,1,0,0,0,Negative,27,Urdu-English code-switching
+Nice baby apny baba ki tarah,Positive,2,1,1,1,1,1,Neutral,6,"context, spelling variation, or possible label ambiguity"
+Jaadoo ki jhappi,Positive,2,1,1,0,0,0,Negative,3,very short or ambiguous
+title hona chiye when aunties shop,Negative,0,1,1,1,1,1,Neutral,6,"context, spelling variation, or possible label ambiguity"
+Sir g ap nay rahim yar Khan kab ana.hay plz juldi any or hum ko shrts dny or him her gult kam ko khatm krny ki koshash krny i like you .....,Positive,2,1,1,1,1,1,Neutral,32,"context, spelling variation, or possible label ambiguity"
+hayeeeeeee chalo koi nahi TAHAJJUD ke baad dua mangna,Neutral,1,1,1,2,2,2,Positive,9,"context, spelling variation, or possible label ambiguity"
+1995 mein Imran Khanne marhum bartanvi arab pati sarjims goldsmith ki beti jemama goldsmith say shadi ki,Positive,2,1,1,0,1,0,Negative,17,"context, spelling variation, or possible label ambiguity"
+Yeh sab sirf kehnay wali baatain hain,Neutral,1,1,1,2,2,2,Positive,7,"context, spelling variation, or possible label ambiguity"
+abhi ye nafrat ni? Kon jealous ha?,Negative,0,1,1,1,1,1,Neutral,7,informal expression or punctuation
+Abi chass ai ha,Negative,0,1,1,1,1,1,Neutral,4,"context, spelling variation, or possible label ambiguity"
+Hun katta nii oontt khulyy ga...jalal Ahmad khan ghert mnd,Neutral,1,1,1,0,0,0,Negative,10,"context, spelling variation, or possible label ambiguity"
+Har Amal K Andar Us Ka Anjaam Youn Chupa Hota Hai Jesay Beej K Andar Darakht,Neutral,1,1,0,0,0,0,Negative,16,"context, spelling variation, or possible label ambiguity"
+"Jab Reham Khan se pocha gaya ke siyasat se qataa nazar Imran ko aur kya pasand hai to in ke kehna tha, ke jab main is ghar mein aai to mera tassur kuch is tarah ka tha ke ooo hooo, Imran ko to daal dalliya bhi thek tarah se nahi milta.",Positive,2,1,1,0,0,0,Negative,51,Urdu-English code-switching
+acha bhai water cooler apka hua...!,Neutral,1,1,1,2,2,2,Positive,6,informal expression or punctuation
+5 Dec Ko Baldyati Elections K Mauqay Per Karachi Me Loadshedding Nahi Ki Jaigi,Positive,2,1,0,0,2,0,Negative,14,"context, spelling variation, or possible label ambiguity"
+Andaza to humain tha k kuch daal main kaala hai lekin tashreef-farmaan hogaye point main.,Negative,0,1,0,2,2,2,Positive,15,mixed or contrasting opinion
+ek to ap mera naam tag krte ho sam main parh kr mari jati hn hyeeeeee,Negative,0,1,1,1,1,1,Neutral,16,"context, spelling variation, or possible label ambiguity"
+Finally arsal ko b pata lag e gya jiya ki feelings ka,Positive,2,1,0,1,1,1,Neutral,12,"context, spelling variation, or possible label ambiguity"
+Beshak iss ma koi shak nahi,Neutral,1,1,1,2,2,2,Positive,6,"context, spelling variation, or possible label ambiguity"
+"Question: Koi esa libas jo aap kabhi pehanna nahi chahate?Shahrukh Khan: Main filmon ke leye har tarah ka costume pehan sakta hun, jese “Rab ne bana di jori” mein jo jeans pehanni pari thi wo mujhe bilkul pasand nahi thi magar shooting ke waqat main ne inkar nahi kiya tha",Neutral,1,1,2,2,1,2,Positive,50,mixed or contrasting opinion
+Sut lena hy,Neutral,1,1,1,0,0,0,Negative,3,very short or ambiguous
+Wasim Akram pukhta iradon ke malik hain,Positive,2,1,2,1,2,1,Neutral,7,"context, spelling variation, or possible label ambiguity"
+Waqt nahi tha battery badalne ka to aap ne tape se dosre battery chipka dali thi.,Positive,2,1,1,1,1,1,Neutral,16,"context, spelling variation, or possible label ambiguity"
+na kru yrr kinza my fvrt hy,Negative,0,1,1,1,1,1,Neutral,7,"context, spelling variation, or possible label ambiguity"
+Aik baar wo algebra ka aik masla hal kar rahi thi,Neutral,1,1,2,2,2,2,Positive,11,"context, spelling variation, or possible label ambiguity"
+â€œ Kuch Aur Chahiye Wusat Mere Beyan Ke Liye â€,Neutral,1,1,2,2,2,2,Positive,10,"context, spelling variation, or possible label ambiguity"
+chal kama zada sara 🤣,Neutral,1,1,0,0,0,0,Negative,5,"context, spelling variation, or possible label ambiguity"
+Apka student ap se keh rha hai bhai,Neutral,1,1,1,2,2,2,Positive,8,"context, spelling variation, or possible label ambiguity"
+Bol he diya aapne aaj,Negative,0,1,1,1,1,1,Neutral,5,"context, spelling variation, or possible label ambiguity"
+Yahi to qatil ha sab ka,Neutral,1,1,1,0,0,0,Negative,6,"context, spelling variation, or possible label ambiguity"
+Main Gym nahi jati.,Negative,0,1,1,1,1,1,Neutral,4,"context, spelling variation, or possible label ambiguity"
+Hahhahahahhahahhahhahah tum shor mcha du k hm sara ki frndx hain,Neutral,1,1,1,2,2,2,Positive,11,"context, spelling variation, or possible label ambiguity"
+Bus tu chorheee na mujhay after that game 🤦🏻♀️,Neutral,1,1,1,0,1,0,Negative,9,"context, spelling variation, or possible label ambiguity"
+Lahore Love Karachi Hahahaha,Positive,2,1,1,1,1,1,Neutral,4,"context, spelling variation, or possible label ambiguity"
+"thek, ALLAH pak ka koi b hukam maslehat k baghair nai.",Positive,2,1,2,0,0,0,Negative,11,"context, spelling variation, or possible label ambiguity"
+Sharaf Al Haram,Negative,0,1,1,1,1,1,Neutral,3,very short or ambiguous
+Aap 2006 tak National Book Foundation ke sarbarah rahe,Positive,2,1,1,1,1,1,Neutral,9,"context, spelling variation, or possible label ambiguity"
+1991 mein colonel Vladimir Putin ne KGB se istefa de diya.,Negative,0,1,1,1,0,1,Neutral,11,"context, spelling variation, or possible label ambiguity"
+Angrez khilafat tehreek ke bad tareen mukhalif the,Negative,0,1,1,1,1,1,Neutral,8,Urdu-English code-switching
+Bachon ki nigehdasht ke hawale se Reham Khan ka kehna tha,Neutral,1,1,1,2,1,2,Positive,11,"context, spelling variation, or possible label ambiguity"
+sary pehly kady hojaty hain per odty hain,Neutral,1,1,0,0,0,0,Negative,8,"context, spelling variation, or possible label ambiguity"
+Mery peer di har dam kher howy,Positive,2,1,2,0,2,0,Negative,7,"context, spelling variation, or possible label ambiguity"
+Pvt School Management Association 3 Aug Se Schools Kholnay Per Dati Hui Hai,Negative,0,1,1,1,1,1,Neutral,13,"context, spelling variation, or possible label ambiguity"
+Goood ri88,Positive,2,1,1,1,1,1,Neutral,2,very short or ambiguous
+har fankar ko create ya recreate kana parta hai,Positive,2,1,2,0,0,0,Negative,9,"context, spelling variation, or possible label ambiguity"
+Bs in chezo me hi dimgh h :v,Neutral,1,1,1,0,0,0,Negative,8,"context, spelling variation, or possible label ambiguity"
+In sab k munh par chhittar ki barish.,Negative,0,1,0,2,0,2,Positive,8,"context, spelling variation, or possible label ambiguity"
+Plz mazoor lifz use kr lia kry plz m byan sunti ho ye mazoor k alawa lfz takleef dyty....,Negative,0,1,2,2,2,2,Positive,19,"context, spelling variation, or possible label ambiguity"
+Sehri mn itna teyar kn hota hai,Neutral,1,1,1,0,0,0,Negative,7,"context, spelling variation, or possible label ambiguity"
+aur aadha Pakistan jaanta hai Imran Khan kya karega.,Neutral,1,1,2,2,2,2,Positive,9,"context, spelling variation, or possible label ambiguity"
+ho phir tum kamyab aurat?,Neutral,1,1,0,2,2,2,Positive,5,informal expression or punctuation
+Aho. Bari beghairt hon ic mamaly main 😂,Negative,0,1,1,1,1,1,Neutral,8,"context, spelling variation, or possible label ambiguity"
+G nh kmeeniyo m shreef dekhti nh hu b :-\,Negative,0,1,1,1,1,1,Neutral,10,"context, spelling variation, or possible label ambiguity"
+Zabardast diet 😜,Neutral,1,1,2,2,2,2,Positive,3,very short or ambiguous
+"RAJNI KANT, KAMAL HASAN samet both se namwar funkaart Telugu aur Tamil filmon ke zariey bollywood mein aye, gulookari bhi jaari Rakhungi",Neutral,1,1,2,2,2,2,Positive,22,"context, spelling variation, or possible label ambiguity"
+Belt k tamam holes alag alag length pay hain aur sab uper nichay hain. Belt nehayat patli ha jo k dekhne main buri lagti ha. Buckle ka hook bhi terha fit kia hua ha,Negative,0,1,2,2,2,2,Positive,34,"context, spelling variation, or possible label ambiguity"
+dekh lo ab tum 🤣,Neutral,1,1,0,0,0,0,Negative,5,"context, spelling variation, or possible label ambiguity"
+JazakAllah Mera raab razi ho jay,Positive,2,1,2,1,1,1,Neutral,6,"context, spelling variation, or possible label ambiguity"
+"Meghan kal se wifi password mang Rae Hain,THE EFF",Negative,0,1,1,1,1,1,Neutral,9,"context, spelling variation, or possible label ambiguity"
+Jis ka in ke zehan par kafi bura asar parha aur agle he saal inho ne taleem ko kher bad keh diya us waqt wo high school ke talib e ilm the,Negative,0,1,1,2,2,2,Positive,32,Urdu-English code-switching
+Itni muhabbat na kr mere yr😂,Neutral,1,1,2,2,2,2,Positive,6,"context, spelling variation, or possible label ambiguity"
+Shahrukh khan ko pehli bar markazi kirdar dehli mein he aik TV series Dil Dariya mein mila lekin is ki takmeel mein takheer ke baiys in ki aik aur TV series Fauji 1988 mein pehle release ho gai aur bataur actor wohi in ke career ka nuqta e aaghaz qarar paai,Neutral,1,1,1,2,2,2,Positive,51,mixed or contrasting opinion
+Quaid e Azam Muhammad Ali Jinah Ki Hamsheera Madir e Millat Fatima Jinah Ka Aj 48va Yom Wafat Manaya Ja Raha Hai,Negative,0,1,1,1,1,1,Neutral,22,"context, spelling variation, or possible label ambiguity"
+Miss shah:-)aaj waqaai shah lag rhe hain aap,Positive,2,1,1,1,1,1,Neutral,8,"context, spelling variation, or possible label ambiguity"
+Thori si jaag mil jae dua ker dain,Positive,2,1,1,0,0,0,Negative,8,"context, spelling variation, or possible label ambiguity"
+Khas tor sy frmaya gaya k shaheed zinda hy lakun tum shaooor nhn rakhty.hamary choty damag hyn so Allah ki Allah khud hi jany,Neutral,1,1,0,0,0,0,Negative,24,"context, spelling variation, or possible label ambiguity"
+Ramzan ke kuch hours reh gae hain plz pray for me too for my Ami Abu Madiha Fatima needs ur prayer,Positive,2,1,1,1,1,1,Neutral,21,"context, spelling variation, or possible label ambiguity"
+"Allah ham sub ko him at or gerat dye,,",Negative,0,1,2,2,2,2,Positive,9,"context, spelling variation, or possible label ambiguity"
+Lekin bijli kharaknay ki awaaz nahi arahi...,Positive,2,1,2,0,0,0,Negative,7,mixed or contrasting opinion
+kya bat h tmhari,Neutral,1,1,1,2,2,2,Positive,4,"context, spelling variation, or possible label ambiguity"
+Ye sae rahe ga,Negative,0,1,1,1,1,1,Neutral,4,"context, spelling variation, or possible label ambiguity"
+World ki karwai 2 soldier halak,Negative,0,1,0,2,2,2,Positive,6,"context, spelling variation, or possible label ambiguity"
+Yad reha k JIT main ISI aur MI k reps b tha jino sabot dia cjs ko.isi aur mi ko na manana ghadree ha jis ke sza mot ha,Neutral,1,1,1,0,0,0,Negative,29,"context, spelling variation, or possible label ambiguity"
+Masha'Allah. fitness ka khiyal rakhen ye na ho agly election mn hiking mushkil ho jaey.. :),Negative,0,1,2,2,2,2,Positive,16,"context, spelling variation, or possible label ambiguity"
+Miss shah:-)Absa say kuch haseen ni:-),Positive,2,1,1,1,1,1,Neutral,6,"context, spelling variation, or possible label ambiguity"
+Aye umul khabais baaz aa ja apni khabasat se 😂😂😂,Negative,0,1,1,2,1,2,Positive,10,"context, spelling variation, or possible label ambiguity"
+Yeeah hea alvaaz kisie geir Muslim nay bolay hotai ab tak boycott hoe jata heer taraf sae,Negative,0,1,1,1,2,1,Neutral,17,"context, spelling variation, or possible label ambiguity"
+Magrabi mofkain kay motala nay unhain magrabi andaz siasat sikhaya. Woh awam ki nafsiat say agah thay aur un kay jazbat ko ubharna khub jantay tahy.,Neutral,1,1,0,0,1,0,Negative,26,"context, spelling variation, or possible label ambiguity"
+Ae ishaq apny zulam dekh meri umar dekh,Negative,0,1,1,1,1,1,Neutral,8,"context, spelling variation, or possible label ambiguity"
+Alhamdolillah kya bat hai,Neutral,1,1,1,2,2,2,Positive,4,"context, spelling variation, or possible label ambiguity"
+mjha koi shak ni isma,Negative,0,1,1,1,1,1,Neutral,5,"context, spelling variation, or possible label ambiguity"
+K Electric Ka Bijli Ki Qeemat Me 2 Rupay 8 Paisay Fee Unit Kami Ka Ailan Itlaq December K Bills Me Ho Ga,Positive,2,1,0,0,0,0,Negative,23,"context, spelling variation, or possible label ambiguity"
+Ap burey hun aur log ap ko acha samjain,Negative,0,1,2,2,2,2,Positive,9,"context, spelling variation, or possible label ambiguity"
+Is silsile ko bari baqaidgi se main ne 1971 tak chalaya.,Neutral,1,1,1,0,0,0,Negative,11,Urdu-English code-switching
+Beenish Farooq men bachon k sath nh khelta specialy females :D rone lag jati :D,Negative,0,1,1,1,1,1,Neutral,15,"context, spelling variation, or possible label ambiguity"
+Next season main achi team ly k ana plz play off main bahir ni hona next year,Positive,2,1,1,1,1,1,Neutral,17,"context, spelling variation, or possible label ambiguity"
+ALLAH garat kry ga anko bechry k 7 ku aisa kia,Negative,0,1,2,2,2,2,Positive,11,"context, spelling variation, or possible label ambiguity"
+Bakra Eid pa kabab Yammi,Positive,2,1,1,1,1,1,Neutral,5,"context, spelling variation, or possible label ambiguity"
+Ab Tezi Ka Imkan Hai,Neutral,1,1,0,0,0,0,Negative,5,"context, spelling variation, or possible label ambiguity"
+Iftikhar Muhammad Chaudhry ki raj poti shan mein balochi abo hawa ka tarka laga to uthan hi kuch aur ho gai,Neutral,1,1,2,2,2,2,Positive,21,"context, spelling variation, or possible label ambiguity"
+PTI Ki Janib Se Bayan Ki Muzammat,Negative,0,1,2,2,2,2,Positive,7,"context, spelling variation, or possible label ambiguity"
+Bilal sahab ko hoo BC,Negative,0,1,1,1,0,1,Neutral,5,"context, spelling variation, or possible label ambiguity"
+Pro pk kitni paise de rahe he per comment k?,Neutral,1,1,1,0,0,0,Negative,10,informal expression or punctuation
+Is drama ko eid pe end na krein,Neutral,1,1,2,2,2,2,Positive,8,Urdu-English code-switching
+Isi saal Mother Teresa ka inteqal ho gaya.,Neutral,1,1,1,0,0,0,Negative,8,"context, spelling variation, or possible label ambiguity"
+Helen Keller ke hath par pani ke nal se pani gira kar us ko pani ki hije yaad karati.,Positive,2,1,1,1,1,1,Neutral,19,"context, spelling variation, or possible label ambiguity"
+W slam subah bakhair. Ap ko b jumma mbrk. Ap b dua mn sub ko yad rakhain,Neutral,1,1,2,2,2,2,Positive,17,"context, spelling variation, or possible label ambiguity"
+hum bhi uske aashique ho gaye hain!,Positive,2,1,0,0,1,0,Negative,7,informal expression or punctuation
+Maa pyari maa,Neutral,1,1,2,2,2,2,Positive,3,very short or ambiguous
+Subhn Allah,Neutral,1,1,2,2,1,2,Positive,2,very short or ambiguous
+In ka jarihana andaaz is format ke liye nihayat mauzoo hai,Neutral,1,1,2,2,2,2,Positive,11,Urdu-English code-switching
+Allah o,Neutral,1,1,2,2,2,2,Positive,2,very short or ambiguous
+Level levl yara cha gya hay,Positive,2,1,1,1,1,1,Neutral,6,"context, spelling variation, or possible label ambiguity"
+.aur isss jaisay actorz aur aa gaye tuo pakistan ky dramas hit hoo jain gaye.....,Positive,2,1,1,0,0,0,Negative,15,"context, spelling variation, or possible label ambiguity"
+"Aj he milay hain mjhy ye 3 shorts , really jesa pic me ha same to same ha , quality se dar rha tha me but quality b wesy he hai jesi dikhai ha , first experience with daraz.pk and loved it agar koi info chahye yaqeen na aye to contact me @itz.sheri.sr7 (insta)",Positive,2,1,1,0,2,0,Negative,54,mixed or contrasting opinion
+PTI 2018 MEIN WIN KAR TI HEY TU SHAH MEHMOOD QURESHI PM BANIEN GE.,Negative,0,1,1,1,2,1,Neutral,14,"context, spelling variation, or possible label ambiguity"
+chand rat ko ek tasbhee,Neutral,1,1,1,2,2,2,Positive,5,"context, spelling variation, or possible label ambiguity"
+Chaye hr session ma last number pr aye phir b ma Lahore qalanders ko support karoooooga come on qalanders go love you Baz mecullum,Neutral,1,1,1,2,2,2,Positive,24,"context, spelling variation, or possible label ambiguity"
+Shareef kese Ban raha H..,Neutral,1,1,0,0,2,0,Negative,5,"context, spelling variation, or possible label ambiguity"
+Hahaha a jaoo yahe kam best haii ab 😂😂😂,Positive,2,1,1,1,1,1,Neutral,9,"context, spelling variation, or possible label ambiguity"
+Chris lynn is injured otherwise he is already part of our team,Neutral,1,1,1,0,0,0,Negative,12,Urdu-English code-switching
+Jo tahaal pori raftaar ke sath jari hai,Positive,2,1,1,1,1,1,Neutral,8,"context, spelling variation, or possible label ambiguity"
+Roshan aur Hashim ke dermiyan kayi aur jharpein dekhne mein ayein,Neutral,1,1,2,2,2,2,Positive,11,"context, spelling variation, or possible label ambiguity"
+Spotters ke bat manana ka nateeja dakh leya na.agle bar hum sa zaror pochna ka kis ko in karan or kis ko out.BEST OF LUCK.for 2019,Negative,0,1,1,1,1,1,Neutral,26,"context, spelling variation, or possible label ambiguity"
+19 March 1994 ko is hasht pehlo shakhsiyat ne daarfani se kooch kia,Negative,0,1,1,1,1,1,Neutral,13,Urdu-English code-switching
+"America ke Saddar Barak Obama se mulaqat, United Nations mein khitab, aman ke Nobel inaam ke leye namzadgi aur nakami ke elawa bohat si degar baatein Malala ki zat ko ab bhi behas ka markaz banaye rakhti hain",Negative,0,1,2,2,2,2,Positive,38,"context, spelling variation, or possible label ambiguity"
+Edhi Foundation Pakistan 1957 mein Karachi mein bohot bare pemane per flow ki wabah phali jis per Edhi sahab nay fouri tour per rade ammal kiya.,Neutral,1,1,2,2,2,2,Positive,26,"context, spelling variation, or possible label ambiguity"
+kisi ko sath khanay main sharik karain,Positive,2,1,1,1,1,1,Neutral,7,"context, spelling variation, or possible label ambiguity"
+PAKISTAN MILITARY ACADEMY Mei 133th Long Course Passing Out Parade Jari,Positive,2,1,1,1,1,1,Neutral,11,"context, spelling variation, or possible label ambiguity"
+Hahahaha chwal,Neutral,1,1,1,0,1,0,Negative,2,very short or ambiguous
+Bandey ko RAB se hum kalam kar dene wala azeem fankar 16 August 1997 ke roz Birmingham ke aik hospital se jan-e-afreen ke supurd kar ke apne RAB ke huzoor hazir ho gaya,Negative,0,1,2,2,2,2,Positive,33,"context, spelling variation, or possible label ambiguity"
+Iss ka bad Miandad ne khud hi captainship se dastaber hone ka alan kardiya Air marshal Noor khan ne Imran khan ko captain bana diya,Neutral,1,1,2,2,2,2,Positive,25,Urdu-English code-switching
+Video theak nai arahi,Negative,0,1,1,1,1,1,Neutral,4,"context, spelling variation, or possible label ambiguity"
+Hahahahahahaha... irum yeh tu bike py a ra bechara anee tu hawa mai ati ge ur k jb yeh dekhti,Neutral,1,1,1,0,0,0,Negative,20,"context, spelling variation, or possible label ambiguity"
+Pakistan ki taraf ke ye karnama sirf Intikhab Alam ne hi anjam diya hai,Neutral,1,1,2,2,2,2,Positive,14,"context, spelling variation, or possible label ambiguity"
+"ye hain Ayash Arbi jin ki hifazat k liye hum Jahil Qom apni jaan deny k liye tayar bethy hain, meri taraf sy Saudia 1000 bar tabah ho, rahi baat khana kaba ki to us ki hifazat Allah khud kary ga. jesy pehly karta aya hai, Lakh in Ayash jahunmio par.",Neutral,1,1,0,0,0,0,Negative,51,"context, spelling variation, or possible label ambiguity"
+"Taqreer mein to is ka izhaar nahi kiya, lekin ashaar mein kafi hadf-e-malamat banaya",Positive,2,1,2,1,1,1,Neutral,14,mixed or contrasting opinion
+Rr bridge pr khare ho kr dabey ko khol l dekhna...,Neutral,1,1,0,0,0,0,Negative,11,"context, spelling variation, or possible label ambiguity"
+Mulk mein wo sada bahar badshah gar siyasatdaan ki hesiyat se jane jate hain,Positive,2,1,2,0,0,0,Negative,14,"context, spelling variation, or possible label ambiguity"
+Sadar e Mumlikat ke uhde ke leye wifaqi dar ul hukumat aur charon subon mein hone wale election mein Pakistan Muslim League aur itehadi jamaton ke mutafiqa umeedwar Justice (r) Muhammad Rafiq Tarar bhari aksariyat se Sadar mutakhib ho gaye,Positive,2,1,1,1,1,1,Neutral,40,"context, spelling variation, or possible label ambiguity"
+Shahbaz sharif ko party ki qayadat sounphney ka faisla say pata chalta hai muslim leage ko Sharif naam ki kashish par kitna yaqeen tha kay is be basi kay alam mein bhi inhein apni qayadat kay liye koi aur naam mouzo malom na huwa,Negative,0,1,1,2,2,2,Positive,44,Urdu-English code-switching
+Dist Korangi UC 12 Green Town Ward 4 Abdul Mabood Majid Sheikh Azad Umedwar Intkhabi Nishan Bijli ka Heater Ko Vote Dein,Positive,2,1,1,0,0,0,Negative,22,"context, spelling variation, or possible label ambiguity"
+Mery to nam sun k hi gudgudi hony lg gai ha,Positive,2,1,1,0,0,0,Negative,11,"context, spelling variation, or possible label ambiguity"
+San e paidaiah ke bare mein Katrina aur un ki waldah bhi taadiq karne se qasir hain,Negative,0,1,2,1,1,1,Neutral,17,"context, spelling variation, or possible label ambiguity"
+Look at Molana in corrupt logo k sath e rehty,Neutral,1,1,1,0,0,0,Negative,10,"context, spelling variation, or possible label ambiguity"
+Assistant ko 16 kesy mila jb k is tarh ki sammry main to us ko 15 milna tha. yai mukmuka hai shame on,Neutral,1,1,1,0,0,0,Negative,23,Urdu-English code-switching
+hahaha koi hal ni,Negative,0,1,0,2,2,2,Positive,4,"context, spelling variation, or possible label ambiguity"
+..inko check kronzra,Negative,0,1,1,1,1,1,Neutral,3,very short or ambiguous
+Ap Sb Ki Shirkat Ka Shukrya,Positive,2,1,1,1,1,1,Neutral,6,"context, spelling variation, or possible label ambiguity"
+1990 ke ashrey mien wo chand films mein nazar aaey,Negative,0,1,1,1,1,1,Neutral,10,"context, spelling variation, or possible label ambiguity"
+Bhai masiny ki bat hoi Ap sy better masoom shakal koi bna e nh skta,Negative,0,1,1,1,1,1,Neutral,15,"context, spelling variation, or possible label ambiguity"
+y road bana ky di hai sheeeer ny hahaha,Neutral,1,1,0,0,0,0,Negative,9,"context, spelling variation, or possible label ambiguity"
+Inshala sir hm aen gy,Positive,2,1,1,1,1,1,Neutral,5,"context, spelling variation, or possible label ambiguity"
+Yaar aap ab sirf behas karna chahty ho or aap k paas koi daleel nahi he....,Neutral,1,1,1,0,0,0,Negative,16,"context, spelling variation, or possible label ambiguity"
+Zahir Hai k aik political party usi ko apni party ka ticket day gi Jo party k saath sincere ho,Positive,2,1,1,0,0,0,Negative,20,"context, spelling variation, or possible label ambiguity"
+Main is hawale se 2 films bana rahi hon.,Neutral,1,1,2,2,2,2,Positive,9,Urdu-English code-switching
+Sindh mein wazeer e aala ke mansab tak pohanchne wale justice Syed Ghaus Ali Shah ne bhi Pir Pagara ki siyasi seerhi ko istemal kiya tha,Neutral,1,1,1,0,0,0,Negative,26,"context, spelling variation, or possible label ambiguity"
+Waise siwaye class 4 & 5 ke ilawa hum ne Sindhi school main nahien seekhi hai.,Negative,0,1,1,1,1,1,Neutral,16,"context, spelling variation, or possible label ambiguity"
+Un ki waldah ne apne bachon ki talim ziyadah tar ghar hi par America se bazariya dak ane wale courses ki madad se ki,Neutral,1,1,2,2,2,2,Positive,24,"context, spelling variation, or possible label ambiguity"
+Chon ke is tarha baaz ilaqon mein hindoun ki aksariyat ho gait hi aur phir Bombay ke Hindustan ke musalmano ke mafadat ko sakht nuqsanaat pohchaya karte the,Negative,0,1,1,2,0,2,Positive,28,Urdu-English code-switching
+Phir jadu kyu hota h,Neutral,1,1,1,0,1,0,Negative,5,"context, spelling variation, or possible label ambiguity"
+Inho ne international career ka aaghaz 2 October 1996 ko Nairobi mein Kenya ke khilaf aik roza match khel kar kiya tha,Neutral,1,1,1,2,2,2,Positive,22,"context, spelling variation, or possible label ambiguity"
+"Jo is saal ki sab se ziyada farokht hone wali comic book thi, lekin films mein aane ke bad Jerry Lewis, Den Martin par haawi hone lage the aur yeh baat producer idaron ne bhi note kar li thi",Negative,0,1,1,1,1,1,Neutral,39,mixed or contrasting opinion
+29 saal ki umer tak Khan Abdul Ghaffar Khan (Bacha Khan) khamosh karkun ki hasiat se rahe lakin 1919 mein jab Rowlatt Act ke khelaf Bare Sagheer mein tehreek chali to unki khatibana salahiatein zahir huyein natijatan griftar hogaye aur 1924 mein reha huye,Positive,2,1,0,0,0,0,Negative,44,mixed or contrasting opinion
+Is liye bohat choti umer mein Jaya Prada ko raqs o mauseeqi ki tarbiyat hasil karne bhej diya gaya,Neutral,1,1,1,2,1,2,Positive,19,Urdu-English code-switching
+lol .. Sarge Bhai .. bx zakahm taza mt kro .. ieho bahu hay,Negative,0,1,0,1,2,1,Neutral,14,"context, spelling variation, or possible label ambiguity"
+Aby pagly to tum ho...,Negative,0,1,0,1,1,1,Neutral,5,"context, spelling variation, or possible label ambiguity"
+Kbhe koi drama nehn dekhata bs aik ke dekhata hoon,Neutral,1,1,1,0,0,0,Negative,10,"context, spelling variation, or possible label ambiguity"
+IK naya pakistan bnaega,Positive,2,1,0,1,0,1,Neutral,4,"context, spelling variation, or possible label ambiguity"
+Kisi mamle mein transparanci nahi thi,Negative,0,1,1,1,1,1,Neutral,6,"context, spelling variation, or possible label ambiguity"
+Zindagi Ka Har Din Aakhri Samjho,Positive,2,1,2,1,1,1,Neutral,6,"context, spelling variation, or possible label ambiguity"
+Bilquis Edhi ka shumar ese h afrad mein kiya ja sakta hai.,Neutral,1,1,2,2,2,2,Positive,12,"context, spelling variation, or possible label ambiguity"
+Oppo f7 bhot he slow phone ha.price itni ziada ha but not good...infinx zero 5 is say 1000 % acha ha i like infinix zero 5,Negative,0,1,0,2,0,2,Positive,26,mixed or contrasting opinion
+Kash mugha b koi ece trah mot ke khabar dane aata,Negative,0,1,2,2,2,2,Positive,11,"context, spelling variation, or possible label ambiguity"
+Pir sahib pagara siyasi mohre is maharat se chalte the ke mukhalfeen saamne thehar nahi pate the,Positive,2,1,1,0,1,0,Negative,17,Urdu-English code-switching
+"Wo sirf aik actor he nahi bal ke kamiyab kahani navees, filmsaaz aur director bhi hain",Neutral,1,1,1,2,2,2,Positive,16,"context, spelling variation, or possible label ambiguity"
+Very Bad DJ Ne Ja Video Wap ni ki Arsal ko,Negative,0,1,1,2,2,2,Positive,11,Urdu-English code-switching
+Sahil Lodhi ka kya? Ma bap zimadar WO keu apni bchieo ko bhjty in ke ghart kidr hote,Positive,2,1,1,0,0,0,Negative,18,informal expression or punctuation
+U turn khan ki vote mat dain,Negative,0,1,1,1,1,1,Neutral,7,"context, spelling variation, or possible label ambiguity"
+Bharte bharte 1958 mein marfiya ka istemal karne lage,Negative,0,1,2,1,1,1,Neutral,9,"context, spelling variation, or possible label ambiguity"
+Guzishta saal Karachi mein Edhi ambulances ke zariye 310250 ( 3 lakh 10 hazar 250 ) mareezon aur mayyaton ko gharon se hospital ya hospital se gharon ke liye riyati bunyad par services farahum ki.,Neutral,1,1,1,2,2,2,Positive,35,"context, spelling variation, or possible label ambiguity"
+Dare kha khattak sayab,Negative,0,1,1,1,1,1,Neutral,4,"context, spelling variation, or possible label ambiguity"
+bethega rickshay pe??,Neutral,1,1,1,0,0,0,Negative,3,very short or ambiguous
+Main role i think pheeche parhi hue chapal ka hona hai :P :P??,Negative,0,1,1,1,1,1,Neutral,13,informal expression or punctuation
+Kehny ko tu keh don likn jhoot bolna kon sa asaan kaam hy,Neutral,1,1,0,0,0,0,Negative,13,"context, spelling variation, or possible label ambiguity"
+Anti chaa gye ha,Positive,2,1,1,1,1,1,Neutral,4,"context, spelling variation, or possible label ambiguity"
+Ya allaha zalimo per apna azab nazil farma,Neutral,1,1,0,2,2,2,Positive,8,"context, spelling variation, or possible label ambiguity"
+"Lekin mehaz 5 mah bad hi 11 April 2007 ko Colambia bhi muqabale ke dor se dastbadar ho gaya, jab ke Argentina ne kisi bhi marhale par khud ko bazabta umeedwar ki hesiyat se pesh nahi kiya",Negative,0,1,1,2,0,2,Positive,37,mixed or contrasting opinion
+galaa to nahi khrab ho ga es se,Neutral,1,1,0,0,0,0,Negative,8,"context, spelling variation, or possible label ambiguity"
+Kash sub hi is terha sochny legy to kia baat hy,Neutral,1,1,2,2,2,2,Positive,11,Urdu-English code-switching
+Hona chahiye siwaye qadiyanion k,Neutral,1,1,0,0,0,0,Negative,5,"context, spelling variation, or possible label ambiguity"
+Per b wo kise k favorite sir thay ya per hai,Positive,2,1,1,1,1,1,Neutral,11,"context, spelling variation, or possible label ambiguity"
+Es leay Muskurany ki koshish kia karo Es se wo loug ju apk Rouny pr muskuraty hain wo Loug phir apki hansi pe jalyn gy.,Positive,2,1,0,0,0,0,Negative,25,"context, spelling variation, or possible label ambiguity"
+Ye Mohabt B Kya Chz Hy,Positive,2,1,1,1,2,1,Neutral,6,"context, spelling variation, or possible label ambiguity"
+Hasna mana h,Negative,0,1,1,1,1,1,Neutral,3,very short or ambiguous
+Wah.. he was the person behind the camera,Positive,2,1,1,1,1,1,Neutral,8,Urdu-English code-switching
+X Cheif Justice Iftikhar Chodhry Ka Nae Siyasi Jamat Bana ney K Lye Home Work Shuru,Negative,0,1,1,1,1,1,Neutral,16,"context, spelling variation, or possible label ambiguity"
+Aunty bolein tou sahi uncle bolein tou offensive xD,Negative,0,1,1,1,1,1,Neutral,9,"context, spelling variation, or possible label ambiguity"
+sheeshe se sheesha takray,Negative,0,1,2,1,2,1,Neutral,4,"context, spelling variation, or possible label ambiguity"
+Major Akram ne 150gaz aage barh kar dushman ke teen tank tabah keye jab ke dushman ki taraf se jawabi hamle mein Major Muhammad Akram Shaheed ki company ka sirf aik supahi Shaheed howa,Negative,0,1,1,2,1,2,Positive,34,"context, spelling variation, or possible label ambiguity"
+Thori dar wait karen inshallah bhar janye gi,Positive,2,1,1,0,0,0,Negative,8,"context, spelling variation, or possible label ambiguity"
+Beta ub Mera MS mere gale par chuka hy phle Wo Pura karun g,Negative,0,1,1,1,1,1,Neutral,14,"context, spelling variation, or possible label ambiguity"
+"Deep baat ki hai bhaii ny, smj ly",Positive,2,1,1,1,1,1,Neutral,8,"context, spelling variation, or possible label ambiguity"
+"Aaj jab ke nifs sadi se ziyadah arsa ho chukka hai,hawwa e nobahar ki tarah is ke subuk jhunke mashor kun hain",Positive,2,1,1,0,0,0,Negative,22,Urdu-English code-switching
+Maotbar rkhta tha nazro se b gira dta tha,Negative,0,1,2,1,2,1,Neutral,9,"context, spelling variation, or possible label ambiguity"
+"Shadi kay baad bhi Benazer, Benazir Bhutto kehlati rahein",Positive,2,1,1,1,1,1,Neutral,9,"context, spelling variation, or possible label ambiguity"
+Kulsoom Qureshi,Positive,2,1,1,1,1,1,Neutral,2,very short or ambiguous
+HahahhWaqaeHm to dr.nayyar ko bolngy ye,Neutral,1,1,1,0,1,0,Negative,6,"context, spelling variation, or possible label ambiguity"
+Mohibullah ke lea yeh final aur bhi ahem ho gaya tha keonke unki shikast ki soorat mein Squash ka Almi title Pakistan sey chin sekta tha,Neutral,1,1,2,2,2,2,Positive,26,"context, spelling variation, or possible label ambiguity"
+Gunah krne wale say Nahin Shayd Tumhari Mohabbat Mein aa kr Wo Gunah Karna hi Chor de,Positive,2,1,1,0,0,0,Negative,17,"context, spelling variation, or possible label ambiguity"
+wo goya apni salamti ko apne,Neutral,1,1,2,2,2,2,Positive,6,"context, spelling variation, or possible label ambiguity"
+kuch kar kay nahe dekhye gye,Negative,0,1,1,1,1,1,Neutral,6,"context, spelling variation, or possible label ambiguity"
+"Qiyam e Pakistan ke bad Allama Raghin Ahsan, 1957 mein Islamic law commission ke rukun muqarrar hue",Neutral,1,1,1,2,2,2,Positive,17,Urdu-English code-switching
+Bator Qaum Riasat Dushmano Ki Har Koshish Nakam Banana Hogi Androni Beroni Anasir Ko Shikast Denge Gen Raheel,Positive,2,1,0,0,0,0,Negative,18,"context, spelling variation, or possible label ambiguity"
+Jo ALLAH Ki Di Hoi Naimaton Ka Shukar Ada Nahi krta,Negative,0,1,2,2,2,2,Positive,11,"context, spelling variation, or possible label ambiguity"
+1994 mein wo senate Peters Burg ke deputy mayor ban gae.,Positive,2,1,2,1,2,1,Neutral,11,"context, spelling variation, or possible label ambiguity"
+Uss Kai 2day Pakistan may red carpet show hoota hai,Neutral,1,1,1,0,0,0,Negative,10,"context, spelling variation, or possible label ambiguity"
+"Hahahahah,sunbal toh unki jaan hai naa",Positive,2,1,1,1,1,1,Neutral,6,"context, spelling variation, or possible label ambiguity"
+Sir Shahnawaz Bhutto namwar siasatdan aur tehreek-e-Pakistan kay markazi rehnumaon mein say aik thay aur Bar-e-Saghir Pak o Hind mein Sindh aur Bombay ki saisat kay markazi satoon manay jatay thay.,Neutral,1,1,2,2,1,2,Positive,31,"context, spelling variation, or possible label ambiguity"
+"Aur her sas apni bahu ko hamesha yehi story sunati hai k usne jitne zulm o sitam dekhay hain, uske muqablay may uski bahu phooloan k sayj pay baithi hai.",Neutral,1,1,1,0,0,0,Negative,30,"context, spelling variation, or possible label ambiguity"
+Arsal Lagta toh nhii tha Itna Actor Is Drame mai kamal ki acting ki hai.Isne.,Positive,2,1,1,1,1,1,Neutral,15,Urdu-English code-switching
+dainsh ne tou midaan hee maar liya,Positive,2,1,0,0,0,0,Negative,7,"context, spelling variation, or possible label ambiguity"
+Team se un ke drop hone ka jan kar heran howe aur unhen Pakistani team mein shamil kar liya to 4 wickets le kar apna intikhab durust sabit kar diya,Neutral,1,1,2,2,2,2,Positive,30,"context, spelling variation, or possible label ambiguity"
+Ap aap sahi kaam ni kr rhi ha,Negative,0,1,1,2,2,2,Positive,8,"context, spelling variation, or possible label ambiguity"
+Vo Jo aap ny kha Tha na k Sachi baat ki vo wali baat Mani Hai,Positive,2,1,1,1,1,1,Neutral,16,"context, spelling variation, or possible label ambiguity"
+Is liye chahta hon ke waqfey waqfey se negative roles bhi milte rahen,Neutral,1,1,2,2,2,2,Positive,13,Urdu-English code-switching
+Ehtsab Rehman ku bhi tum nay lagaya tha,Neutral,1,1,0,0,0,0,Negative,8,"context, spelling variation, or possible label ambiguity"
+Bassss tum dekhte rehte ho,Neutral,1,1,1,0,0,0,Negative,5,"context, spelling variation, or possible label ambiguity"
+Date marly free m,Negative,0,1,1,1,1,1,Neutral,4,"context, spelling variation, or possible label ambiguity"
+Huh nkl apni trf se xD,Negative,0,1,1,1,1,1,Neutral,6,"context, spelling variation, or possible label ambiguity"
+"Mukhtalif iqsaam..jasy hum ik lafz istemaal krty hen"" """,Neutral,1,1,1,2,2,2,Positive,9,"context, spelling variation, or possible label ambiguity"
+Me: Friend chai piyo ge ya coffee? @Friend : Begairata Coca-Cola pila de,Neutral,1,1,1,0,1,0,Negative,13,informal expression or punctuation
+"aik aur tha ""Meghan chotay ghar say aayi hay tbhi palace main roz ghum hojati hay""",Negative,0,1,1,1,1,1,Neutral,16,"context, spelling variation, or possible label ambiguity"
+Jab wo ghar aate hain to apna phone door rakh dete hain.,Neutral,1,1,1,2,1,2,Positive,12,"context, spelling variation, or possible label ambiguity"
+"Shad-e-Azeem abaadi ko khiraj-e-aqeedat pesh karte hue unho ne shad ki mashoor ghazal �EEE€�EEEKhilone De Kar Behlaya Gaya Hoon �EEE€�EEE ki zameen main bhi ek ghazal sunai thi, jis ka maqtaa tha",Neutral,1,1,2,2,2,2,Positive,32,"context, spelling variation, or possible label ambiguity"
+Pir Ali Rashdi 1972 mein hukomat Pakistan ke musheer khas barae ittelaat o nashriyat muqarrar hue aur Pakistan National Centers ke chairman bana diye gaye,Neutral,1,1,1,2,1,2,Positive,25,"context, spelling variation, or possible label ambiguity"
+Camera bilkul fazol he.r signals generation b low he bohat.baki set acha he,Negative,0,1,2,2,0,2,Positive,13,"context, spelling variation, or possible label ambiguity"
+Lekin abhi khawateen ke din ki tarikh te karne ka marhala baqi tha,Neutral,1,1,2,2,2,2,Positive,13,mixed or contrasting opinion
+Abyyy yrr btaa to sai kis chezz kaa,Negative,0,1,1,1,1,1,Neutral,8,"context, spelling variation, or possible label ambiguity"
+isi qaradad ke hawale se all india Muslim league ki majlis aamla ko aisa aaiyni mansoba murattab karne ki zimmedari saunpi gai ke jis ki roa se mazkora ilaqon ko bil aakhir kuli ikhteyaraat hasil ho jaeyn,Positive,2,1,2,0,0,0,Negative,37,"context, spelling variation, or possible label ambiguity"
+Nahi kabhi nahi.,Positive,2,1,1,0,1,0,Negative,3,very short or ambiguous
+Fatimah jesa koi name nai,Positive,2,1,1,1,1,1,Neutral,5,"context, spelling variation, or possible label ambiguity"
+Tahum qabil e tareef baat yeh hai ke tamam tar zaati masaiyl ke bawajood Johnny Depp ne apne career par in ka koi negative asar parhne na diya aur mushkilaat ki chakki mein musalsal pisne ke bawajood wo filmy duniya mein kamiyabi ka zeena mutawatir charhte rahe yahan tak ke Baam urooj par ja pohanche,Neutral,1,1,2,2,2,2,Positive,55,"context, spelling variation, or possible label ambiguity"
+She was leagend. ...Allah janat main jagha dy ...ameen ...,Neutral,1,1,2,2,2,2,Positive,10,"context, spelling variation, or possible label ambiguity"
+Moray saiyaan bestNot faisla waada shadi Mubarak ho yeh sub baqwas Hain,Negative,0,1,2,2,2,2,Positive,12,"context, spelling variation, or possible label ambiguity"
+Mere hazrat sahab bait Pakistani time ke mutabiq kis waqt app bait karwaen ge,Positive,2,1,1,1,1,1,Neutral,14,"context, spelling variation, or possible label ambiguity"
+Allah Allah kr k aye.,Negative,0,1,2,2,2,2,Positive,5,"context, spelling variation, or possible label ambiguity"
+Nadan Itna Nahi Samjhi Ishq Chahre Se Nahi Nazron Se Shuru Hota Ha,Positive,2,1,0,0,2,0,Negative,13,"context, spelling variation, or possible label ambiguity"
+Feel kar speed bot ki <3,Positive,2,1,1,0,0,0,Negative,6,"context, spelling variation, or possible label ambiguity"
+Wohi krna ab,Neutral,1,1,1,0,0,0,Negative,3,very short or ambiguous
+Mafi Mujhe Nh Nawaz Sharif Ko Mangni Chahea,Negative,0,1,1,1,1,1,Neutral,8,"context, spelling variation, or possible label ambiguity"
+Kisi had tk yeh bat thik hai mgr mukamal tor py nhe qk insan ki apni ikhlaqi zimedari bh hoti hai,Neutral,1,1,1,0,0,0,Negative,21,"context, spelling variation, or possible label ambiguity"
+Nhi mila guthno mey. Kopri mey hai mera wala 😌,Neutral,1,1,0,0,0,0,Negative,10,"context, spelling variation, or possible label ambiguity"
+acha Same hero aur Heroine hai New kese,Neutral,1,1,1,2,2,2,Positive,8,"context, spelling variation, or possible label ambiguity"
+Hahaha haha tum toh khud hi phsti hooo pictures dal k,Negative,0,1,1,1,1,1,Neutral,11,"context, spelling variation, or possible label ambiguity"
+HAAHAAHAHAHAHA but but MOMINAA TOU MERI HAI,Positive,2,1,1,0,0,0,Negative,7,mixed or contrasting opinion
+Jansher Khan and Jahangir Khan ke daur mein Squash ki duniya mein Pakistan ki mokammal hukmerani rahi,Neutral,1,1,2,2,2,2,Positive,17,"context, spelling variation, or possible label ambiguity"
+Iss weather myn na demand kro Aaj kal galay bohat kharab ho rahay h6n Baarish k baad demand krna :-P,Neutral,1,1,1,0,0,0,Negative,20,"context, spelling variation, or possible label ambiguity"
+agree to nae pra achi thi :p,Neutral,1,1,2,2,2,2,Positive,7,"context, spelling variation, or possible label ambiguity"
+Kyaaa feel dali ha yaar tu ny. Bohaaat alaaa,Positive,2,1,1,0,0,0,Negative,9,"context, spelling variation, or possible label ambiguity"
+Aik arsey tak Rashid Minhas ke buzurg Girdaspur mein rahe aur phir inho ne qilaa Sobha Singh ( Sialkot ) ke nawah mein rehaiysh ikhteyar ki,Neutral,1,1,1,0,0,0,Negative,26,"context, spelling variation, or possible label ambiguity"
+Koe nae asfhu tmhari behen tmhara dard samjhte hai,Positive,2,1,0,0,0,0,Negative,9,"context, spelling variation, or possible label ambiguity"
+Anti ap v tutti hoi a... :-D,Negative,0,1,1,1,1,1,Neutral,7,"context, spelling variation, or possible label ambiguity"
+#prime_Minster ki kursi chahye kitna #yaqeen_nazm_o_zabt or #lagan chahye hogi...!😂😂,Positive,2,1,1,1,1,1,Neutral,10,informal expression or punctuation
+aunty ko dekh,Neutral,1,1,1,0,1,0,Negative,3,very short or ambiguous
+Bomb Phat Na Saka,Positive,2,1,0,0,0,0,Negative,4,"context, spelling variation, or possible label ambiguity"
+Ko Subah 8 Baje Se 24 24 Ghanto K Liye Band Rahe Gaye,Neutral,1,1,0,0,0,0,Negative,13,"context, spelling variation, or possible label ambiguity"
+Looo bhool gae tmari phli mohabbat ur crush,Neutral,1,1,0,0,0,0,Negative,8,"context, spelling variation, or possible label ambiguity"
+mood thik ho gaya mera ap bhi krlo,Positive,2,1,1,1,1,1,Neutral,8,"context, spelling variation, or possible label ambiguity"
+unhen boht zyada right lga hai :D,Neutral,1,1,2,2,2,2,Positive,7,"context, spelling variation, or possible label ambiguity"
+Allah raham karay,Neutral,1,1,2,2,2,2,Positive,3,very short or ambiguous
+Punjabi filmoo ka hero ban'ny ki kosish me hota ha na islye,Positive,2,1,1,1,2,1,Neutral,12,"context, spelling variation, or possible label ambiguity"
+Airport Ka Nizam Darhm Barhm,Negative,0,1,0,1,1,1,Neutral,5,"context, spelling variation, or possible label ambiguity"
+Mandi wala ny passy diye hogy,Negative,0,1,1,1,1,1,Neutral,6,"context, spelling variation, or possible label ambiguity"
+Very bad,Neutral,1,1,0,0,1,0,Negative,2,very short or ambiguous
+"In ki khas baat yeh thi ke wo pehle se tayyar kiye hue khakey pesh nahi karte the,bal ke stage par aik dosre ke sath hasb mauqa mazaq kiya karte the, usi dauran inho ne radio program bhi shuru kar diye",Neutral,1,1,2,2,1,2,Positive,41,"context, spelling variation, or possible label ambiguity"
+Aaj kal saed anwar aur in ki wife ka ziyada tar waqt gharibon aur hajatmando ki khidmat o a’anat mein guzarta hai,Positive,2,1,1,1,1,1,Neutral,22,"context, spelling variation, or possible label ambiguity"
+Elawa izen bilquis Edhi Foundation・ke har shube ke intezamat mein un ka hissa hai.,Neutral,1,1,2,2,2,2,Positive,14,"context, spelling variation, or possible label ambiguity"
+bhae serial jaldi mukaaa dia ha .. :/,Negative,0,1,1,1,1,1,Neutral,8,"context, spelling variation, or possible label ambiguity"
+naughty girl,Positive,2,1,1,1,1,1,Neutral,2,very short or ambiguous
+Phr kawarii he mrnaa,Negative,0,1,1,1,1,1,Neutral,4,"context, spelling variation, or possible label ambiguity"
+Aj to beech raastay mein Nabia ne kohni maar k b ek dikhaayi thi phase 2 ki sarak per 😂😂,Neutral,1,1,0,0,0,0,Negative,20,"context, spelling variation, or possible label ambiguity"
+Us waqat tak naqad unhen aik filmi showpiece hi shumar kar rahe the,Negative,0,1,2,1,1,1,Neutral,13,Urdu-English code-switching
+phupho thanku ❤️,Positive,2,1,1,1,1,1,Neutral,3,very short or ambiguous
+Hame bad dua lagi ha kaiswar ki,Negative,0,1,2,2,2,2,Positive,7,Urdu-English code-switching
+May allah give you a long life....Rajb tayyab ordgan,Neutral,1,1,1,0,0,0,Negative,9,"context, spelling variation, or possible label ambiguity"
+"Pakistan mein agarcha siyasi shakhsiyat siyasi utaar charhaho se mutassir hoti rehti hain, lekin Pir Pagara ke siyasi asraat ko kabhi zawaal nahi aaya",Positive,2,1,2,0,0,0,Negative,24,mixed or contrasting opinion
+1986 hi woh salt ha jab sareh panch saal na qabile shikast rehne wale Jahanjir Khan ko New Zealand ke Ross Norman ne zair kiya tha yeh tarah yeh saal tareekhi raha issi saal Jansher Khan ki pehli ahem fatah huye aur isi saal Jahangir Khan ki fatoohat ka na qabil yaqeen silsila toot gaya,Neutral,1,1,1,0,0,0,Negative,55,"context, spelling variation, or possible label ambiguity"
+itnaay lakh laga k b konsa sawad ki lag rai ha,Neutral,1,1,0,0,0,0,Negative,11,"context, spelling variation, or possible label ambiguity"
+Kuch nahe hua.,Neutral,1,1,0,0,0,0,Negative,3,very short or ambiguous
+Hm abiii nmz prh kr hi ayee,Positive,2,1,1,1,0,1,Neutral,7,"context, spelling variation, or possible label ambiguity"
+tu jb achank mood main kuxh bolti hai 😂😂,Neutral,1,1,0,2,2,2,Positive,9,"context, spelling variation, or possible label ambiguity"
+Arrrrraaayyyy logo ziada feel na karo..Hum tw soul mates hain na <3,Positive,2,1,0,0,0,0,Negative,12,"context, spelling variation, or possible label ambiguity"
+Hahah bari khoobsurat saza hai,Positive,2,1,0,0,2,0,Negative,5,"context, spelling variation, or possible label ambiguity"
+Adat hogayee he hazrat ji k daily dars ki even midnight wala bhi uth k sunna he throughout ramazan dil udas he k ab daily hazri nahi hogi dars main,Negative,0,1,1,2,2,2,Positive,30,"context, spelling variation, or possible label ambiguity"
+Pak vs England Test Ke Pehlay Din Ka Khail Khatam Pakistan Ne 286 4 Runs Bana Liye M Hafeez 98 Shoaib Malik Ke 124 Runs,Neutral,1,1,2,2,2,2,Positive,25,"context, spelling variation, or possible label ambiguity"
+Sanam Baji Nice Picture Ha Ap ki Nice He Ap Api,Positive,2,1,1,1,1,1,Neutral,11,"context, spelling variation, or possible label ambiguity"
+Ye hukmran biky howy hain,Negative,0,1,0,1,1,1,Neutral,5,"context, spelling variation, or possible label ambiguity"
+bachae namaz nai parhtae roza rakthae hae,Negative,0,1,1,1,1,1,Neutral,7,"context, spelling variation, or possible label ambiguity"
+CM Ka Maah e Ramzan Me Tamam Markets Raat 9 Bajay Band Kernay Ka Hukum Dafa 144 Nafiz 23,Neutral,1,1,0,0,0,0,Negative,19,"context, spelling variation, or possible label ambiguity"
+Rice ne isqaat hamal ke khilaaf mohim chalane wale logon aur tanzeemon ko fund dene ki himayat karte hue kaha tha,Negative,0,1,1,1,1,1,Neutral,21,"context, spelling variation, or possible label ambiguity"
+Esi kabil thi dalala chudakzai,Neutral,1,1,0,0,0,0,Negative,5,"context, spelling variation, or possible label ambiguity"
+Ap ko kese pta khabees kn or achi kn i dnt agree with u,Negative,0,1,1,2,2,2,Positive,14,"context, spelling variation, or possible label ambiguity"
+Election 18 February 2008 mein kamyabi hasil kar kay Shahbaz Sharif aik bar phir wazeer alla bane is martaba bhi app nay apne guzishta daure hukumat ki yad taza kardi,Neutral,1,1,1,2,2,2,Positive,30,Urdu-English code-switching
+alag hi maza hai isme.,Neutral,1,1,2,2,2,2,Positive,5,"context, spelling variation, or possible label ambiguity"
+aja pilati😝😝,Positive,2,1,1,1,1,1,Neutral,2,very short or ambiguous
+Pir Pagara Hur jamat ke sarbarah azeem dargah Pagara Gaddi ke sajjadah nasheen aur aik mumtaz politician ki hesiyat se nihayat mutehrik nazar aate the,Neutral,1,1,2,2,2,2,Positive,25,Urdu-English code-switching
+Insan koi asa kam kray jis say bnda daira islam say bahir ho jy to woh ni kerna chiy ye puja kis ki ho rai hy,Neutral,1,1,0,0,0,0,Negative,26,"context, spelling variation, or possible label ambiguity"
+Is marke mein Major Muhammad Akram Shaheed bhi hamle ki zad mein aagaye aur goliyon ki bochar ne ap ka sena shaq kar diya,Negative,0,1,1,1,1,1,Neutral,24,Urdu-English code-switching
+Sb se barhi Quwat Allah ki hai,Neutral,1,1,2,2,2,2,Positive,7,"context, spelling variation, or possible label ambiguity"
+Pooch lena asad ko😆😆,Neutral,1,1,1,0,0,0,Negative,4,"context, spelling variation, or possible label ambiguity"
+dkho idhr b lkha wa h meesnay 😂😂,Negative,0,1,1,1,0,1,Neutral,8,"context, spelling variation, or possible label ambiguity"
+Apni 2 films Chalte Chalte aur Kal Ho Na Ho 2003 ke dauran wo back bone ki shaded takleef London mein surgery karani parhi shahrukh khan actress Juhi Chawla ke sath shirakatdari mein aik film company bhi chala rahe hain,Negative,0,1,1,1,1,1,Neutral,40,Urdu-English code-switching
+esy kolo puch ay anda dy layegi,Neutral,1,1,0,0,0,0,Negative,7,"context, spelling variation, or possible label ambiguity"
+Wao yr mahfile lot li,Positive,2,1,1,1,1,1,Neutral,5,"context, spelling variation, or possible label ambiguity"
+Alaa bani ha,Positive,2,1,2,1,1,1,Neutral,3,very short or ambiguous
+1997 kay intakhabat mein in kijamat koi seat hassil na kar saki ta hum 2002 kay intakhabat meininhein aik seat hasil hoi,Positive,2,1,1,1,1,1,Neutral,22,"context, spelling variation, or possible label ambiguity"
+"Is muzahere mein khawateen ne mehgayi, khurak ki qilat aur almi jung ke bais paida hone wale masail par bhi shaded ahtejaj kiya",Negative,0,1,2,2,0,2,Positive,23,Urdu-English code-switching
+Ajb republican party barsar e iqtedar aai to Pir Ali rashdi ne wazarat se istefaa de dioya aur hazb e ikhtelaaf ki saf mein beth gaey aur phir 1957 mein markazi majlis qanoon saaz se mustafee ho kar Philippine mein Pakistan ke safeer ban gaey,Neutral,1,1,1,2,2,2,Positive,45,"context, spelling variation, or possible label ambiguity"
+Allah Ne Hr Qism Ka Zulm Haram Qarar Diya Hy,Positive,2,1,0,0,0,0,Negative,10,"context, spelling variation, or possible label ambiguity"
+keh kr Gulzar sahab ne raghib (????) kiya jabkay (????) Panjwani sahab ko nashtay ki lalach se Badshah Salamat ne mael (????) kiya.,Positive,2,1,1,0,2,0,Negative,23,informal expression or punctuation
+Shab e jumma jo Hazrat Ali ny memory increase karny ky liye parhe thy wo parhny ka tariqa bata dain ? ?,Positive,2,1,1,1,1,1,Neutral,22,informal expression or punctuation
+Isko itna circulate karen ke CJ tak baat jai.,Neutral,1,1,0,0,0,0,Negative,9,"context, spelling variation, or possible label ambiguity"
+1956 ke aaiyn ki tayyari mein mashraqi o maghrabi Pakistan mein masawat ka usool manwane mein Hussain Shaheed Suhrawardy ne nehayat aeham kirdar adaa kiya,Positive,2,1,1,1,2,1,Neutral,25,"context, spelling variation, or possible label ambiguity"
+Tera b fitay. Kunjar,Negative,0,1,1,1,2,1,Neutral,4,"context, spelling variation, or possible label ambiguity"
+Namaz qaim kro kiun k namaz behayai sy rokti hai.... islam mein hukam k sath reasoning bhi hai... bss aqal mand logo k liye he nishaniyan hai aur wohi samjhty hain inko,Positive,2,1,1,0,2,0,Negative,32,"context, spelling variation, or possible label ambiguity"
+Sitm Wahi Hy Sitmgr Badlty Rehty He,Negative,0,1,1,1,1,1,Neutral,7,"context, spelling variation, or possible label ambiguity"
+Logo ko dyan sy daikho logice he wicket uri hoi he,Neutral,1,1,0,0,0,0,Negative,11,"context, spelling variation, or possible label ambiguity"
+What the hell......,Negative,0,1,1,1,1,1,Neutral,3,very short or ambiguous
+Sahi keh rhi ho .. ix ka yahi hal ha,Positive,2,1,1,0,2,0,Negative,10,"context, spelling variation, or possible label ambiguity"
+Agar hai to janab yeh article ap k lie hi hai,Positive,2,1,1,1,1,1,Neutral,11,"context, spelling variation, or possible label ambiguity"
+"2006 mein Katrina film ""Hum ko diwana kar gai"" mein Akshey Kumar ke muqabil jalwagar hoien",Neutral,1,1,1,0,0,0,Negative,16,Urdu-English code-switching
+Tahum in ki kuch films nakaam bhi hui hain,Negative,0,1,1,2,2,2,Positive,9,"context, spelling variation, or possible label ambiguity"
+1961 mein Philippine ka aala tareen shehri aezaaz “ Order of Sakartona ” ataa kiya,Positive,2,1,1,1,0,1,Neutral,15,"context, spelling variation, or possible label ambiguity"
+Nabi S.A.W.W ko b bin daikhay maanay baithay hai....pr qurbaan hain bin daikhay.......deedaar kaa aaalam kia hoga..........,Positive,2,1,1,0,0,0,Negative,17,"context, spelling variation, or possible label ambiguity"
+Na yaara,Neutral,1,1,1,0,1,0,Negative,2,very short or ambiguous
+1953 mein aap ne dobara muslim league ke liye kaam kiya aur Sindh kabeena mein wazeer maal ki hesiyat se shamoliyat ikhteyar ki,Positive,2,1,1,1,1,1,Neutral,23,"context, spelling variation, or possible label ambiguity"
+Saif tumhry kapry nusrat api pehan sakti hain...nhi na... tu phir...,Positive,2,1,1,1,1,1,Neutral,11,"context, spelling variation, or possible label ambiguity"
+Karnah para tag😁,Neutral,1,1,1,0,1,0,Negative,3,very short or ambiguous
+"Aakhir mein Saeed Anwar ki zindagi mein aane wali is tabdeeli par nazar daalte hain, jis ne inhe aik sharer aur khalandare naujawan se baresh mazhabi insaan bana diya",Neutral,1,1,2,2,2,2,Positive,29,Urdu-English code-switching
+Siasat ke is pur-khar safar mein Zulfiqar Ali Bhutto Shaheed aur Mohtarma Benazir Bhutto Shaheed ke sath un ki taweel rafaqat aik misaal ke taur par pesh ki jati hai,Neutral,1,1,2,2,1,2,Positive,30,Urdu-English code-switching
+Her episode p jati h TRP,Neutral,1,1,1,0,2,0,Negative,6,"context, spelling variation, or possible label ambiguity"
+Ye bill aain ka hissa ban chukka hai,Neutral,1,1,0,0,0,0,Negative,8,"context, spelling variation, or possible label ambiguity"
+Soobay Bhar Mein Jaah Jaah Khusk Saali Hain Waah Sarvay Kar Ka Relif Faram Kiya Jai Wazir e Ala Balochistan Dr,Positive,2,1,2,1,1,1,Neutral,21,"context, spelling variation, or possible label ambiguity"
+Lol navaaan song labbeyaa main exams ton baad gaavaange,Positive,2,1,1,1,2,1,Neutral,9,"context, spelling variation, or possible label ambiguity"
+Phir theek hai,Positive,2,1,1,0,0,0,Negative,3,very short or ambiguous
+Cricket Khel Saken Gay,Positive,2,1,0,0,0,0,Negative,4,"context, spelling variation, or possible label ambiguity"
+Ummeed py duniya qaim hai,Neutral,1,1,2,0,2,0,Negative,5,"context, spelling variation, or possible label ambiguity"
+Allha zindagi kary,Positive,2,1,2,1,1,1,Neutral,3,very short or ambiguous
+Wo apna zati production house bhi chalate hain aur khob chan phatak ke bad apni taraf ane wali adakari ki offer bhi qabol kar lete hain,Neutral,1,1,2,2,2,2,Positive,26,Urdu-English code-switching
+Mustafa SAWW waloon k undaz niralay hota hn,Positive,2,1,1,1,1,1,Neutral,8,"context, spelling variation, or possible label ambiguity"
+Tmhy kes ny btyi ya bat,Neutral,1,1,1,0,0,0,Negative,6,"context, spelling variation, or possible label ambiguity"
+Tapal dane dar ??,Negative,0,1,1,1,1,1,Neutral,4,informal expression or punctuation
+"�EEE€�EEE Ye fard ke zauq, us ki zehni satah aur zarorat ka mamla hai",Neutral,1,1,2,2,2,2,Positive,14,"context, spelling variation, or possible label ambiguity"
+Lakh di lant umpiring ty,Neutral,1,1,0,0,1,0,Negative,5,"context, spelling variation, or possible label ambiguity"
+PEMRA Ki Tv Chanals Ko Behuda Ishtiharat Rokne Ki Hidyat,Positive,2,1,1,0,2,0,Negative,10,"context, spelling variation, or possible label ambiguity"
+Thank you Aunty😘😘😘,Neutral,1,1,1,2,2,2,Positive,3,very short or ambiguous
+Kahsh namazi bih etnay kubsurat hu jahay.,Positive,2,1,2,1,2,1,Neutral,7,"context, spelling variation, or possible label ambiguity"
+Haji Sahib ne Sarhad bhar mein 72 Madrase qaim keya jo unki tehreek jehad ke marakez they,Neutral,1,1,2,2,2,2,Positive,17,"context, spelling variation, or possible label ambiguity"
+1980 se 1985 tak PPP sooba-e-Punjab ke talbah aur amoor-e-nau jawan ke incharge rahe,Neutral,1,1,1,2,2,2,Positive,14,"context, spelling variation, or possible label ambiguity"
+Ap to hero ho . Autograph do na 😂😂,Positive,2,1,1,1,1,1,Neutral,9,"context, spelling variation, or possible label ambiguity"
+Qateel Sahib ka shair hai,Neutral,1,1,0,0,0,0,Negative,5,"context, spelling variation, or possible label ambiguity"
+Autocad he sekho tum.. jab 3D seekh lo tw mujhe ghar pe invite kar Lena 😜😂,Neutral,1,1,1,0,0,0,Negative,16,"context, spelling variation, or possible label ambiguity"
+Jaya ka song Dafli Wale bohat famous hua,Neutral,1,1,1,2,2,2,Positive,8,"context, spelling variation, or possible label ambiguity"
+bhai kisi aur ko keh k galiyan khani mainy kya?,Negative,0,1,1,1,1,1,Neutral,10,informal expression or punctuation
+Allah hamarey pakistan key hifazat karey wrna humm.....tu appney bacho ko dosoro key khelaf sabaq sekatey .....hey,Neutral,1,1,2,0,2,0,Negative,17,"context, spelling variation, or possible label ambiguity"
+Aik Poor Patient Ko Blood Ki 12 Botles Ke Sakhat Zarorat Hai,Negative,0,1,1,1,1,1,Neutral,12,"context, spelling variation, or possible label ambiguity"
+Tahum peshawarana karkardegi dikhane ka mauqa inhe Harrry Potter ke liye audition mein mila,Neutral,1,1,2,2,2,2,Positive,14,"context, spelling variation, or possible label ambiguity"
+Ais ka sar sare aam kalum kr dou,Negative,0,1,1,1,1,1,Neutral,8,"context, spelling variation, or possible label ambiguity"
+Hahaha tmy kasy pata chal gaya 😂🙈,Neutral,1,1,1,0,0,0,Negative,7,"context, spelling variation, or possible label ambiguity"
+"Double minded ppl toh dekhey they,double mouch abba pehli dafa dekha..!",Negative,0,1,1,1,0,1,Neutral,11,informal expression or punctuation
+Nice**** thak gaya ho tm subko seekha seekha k,Negative,0,1,1,1,1,1,Neutral,9,"context, spelling variation, or possible label ambiguity"
+Bad azaa inho ne commercial films mein bhi acting ka aaghaz kiya,Neutral,1,1,2,2,2,2,Positive,12,Urdu-English code-switching
+Mai tery dukh ma shareef hon,Neutral,1,1,0,0,0,0,Negative,6,"context, spelling variation, or possible label ambiguity"
+"Wasim Akram un dino Zaheer Abbas, Asif Iqbal aur Mushtaq Mohammad ko dekha karte the",Neutral,1,1,2,2,2,2,Positive,15,Urdu-English code-switching
+Bad aza General Zia ul Haq ke daur mein inhe majboran jila watni ikhteyar karni parhi,Negative,0,1,2,2,2,2,Positive,16,Urdu-English code-switching
+uncle aunty ka num de,Positive,2,1,1,1,1,1,Neutral,5,"context, spelling variation, or possible label ambiguity"
+"Halat zara sanbhali to sabiq Saddar Asif Ali Zardari ne Malala ko hawai ambulance ke zarye Birmingham (England) bhej diya, jahan Malala ko Malka Elizabeth hospital mein dakhil kara diya gaya",Positive,2,1,1,0,0,0,Negative,31,"context, spelling variation, or possible label ambiguity"
+Hazrat Abdullah Shah Ghazi Ka 1286wan Uroos Baldia Uzma Ne,Negative,0,1,1,2,2,2,Positive,10,"context, spelling variation, or possible label ambiguity"
+SeriouslyPaper dekh k yehi lagta ha,Neutral,1,1,1,0,0,0,Negative,6,"context, spelling variation, or possible label ambiguity"
+Kch bhe ho mra vote imran khan ko,Neutral,1,1,1,0,0,0,Negative,8,"context, spelling variation, or possible label ambiguity"
+sub media ki nahi jch hamari apni especially parents ki b responsibilities hoti hy,Neutral,1,1,1,0,1,0,Negative,14,"context, spelling variation, or possible label ambiguity"
+hey u idiot 😠,Negative,0,1,0,1,1,1,Neutral,4,"context, spelling variation, or possible label ambiguity"
+Epic epic cha gaya larkay !,Positive,2,1,1,1,1,1,Neutral,6,informal expression or punctuation
+Sab se pehley bowlnig kiya karoo,Positive,2,1,2,1,1,1,Neutral,6,"context, spelling variation, or possible label ambiguity"
+Mushkil hay ke upgrade kar de,Negative,0,1,0,1,1,1,Neutral,6,"context, spelling variation, or possible label ambiguity"
+Asif Iqbal ne apna akhri match Eden gardens kolkata mein khela aur is match ki dusri inning mein 15 runs bana kar run out huwe,Negative,0,1,1,2,2,2,Positive,25,Urdu-English code-switching
+Buhat jald,Neutral,1,1,2,2,2,2,Positive,2,very short or ambiguous
+Tab Jaya ne Hindi seekhna shuru ki aur bollywood film Kaam Chor mein rawani ke sath Hindi bolti hui jalwagar hui,Positive,2,1,1,0,0,0,Negative,21,Urdu-English code-switching
+Allama Rsghib Ahsan ka aabai watan zilaa Giya ( Bahar ) tha,Neutral,1,1,1,2,2,2,Positive,12,"context, spelling variation, or possible label ambiguity"
+Me kia krun nachun?????,Negative,0,1,1,1,1,1,Neutral,4,informal expression or punctuation
+Munafiq ALI Se Muhabbat Nahi Karta,Negative,0,1,0,2,0,2,Positive,6,"context, spelling variation, or possible label ambiguity"
+Kisi k pas in ka no hai,Neutral,1,1,1,0,0,0,Negative,7,"context, spelling variation, or possible label ambiguity"
+Jab Emma Watson ko tilismati kahaniyon ke silsile Harry Potter par mabni films mein Harmony Granger ke role ke liye cast kiya gaya to inho ne yeh role is tarah play kiya ke aane wale barson mein yehi in ki shanakht ban gaya,Positive,2,1,1,1,1,1,Neutral,43,Urdu-English code-switching
+Is pe mn pehle hi tuje tag kr chuki.......khar demag wali,Negative,0,1,1,1,1,1,Neutral,11,Urdu-English code-switching
+Lekin 2 saal bad inho ne yeh Tamgha sarkari policies par aehtejaj karte hue wapis kar diya,Negative,0,1,1,1,1,1,Neutral,17,mixed or contrasting opinion
+jes election my insani jan ko hatra ho un say Allah hsmy ba6ay,Negative,0,1,2,2,2,2,Positive,13,"context, spelling variation, or possible label ambiguity"
+jb b dekhte hoon tum yd ate hoo.....bchaa resembles like u,Positive,2,1,1,1,1,1,Neutral,11,"context, spelling variation, or possible label ambiguity"
+achaa tou ye drama hy,Neutral,1,1,2,2,2,2,Positive,5,"context, spelling variation, or possible label ambiguity"
+All India Muslim League ke qiyam 1906 se le kar 1925 tak inho ne mulki siyasat ka barhi gehri nazar se jaiyza liya tha,Neutral,1,1,1,2,1,2,Positive,24,"context, spelling variation, or possible label ambiguity"
+dosto samj te gaye e ho gy k o dost kon aa.........,Neutral,1,1,1,2,2,2,Positive,12,"context, spelling variation, or possible label ambiguity"
+Ap har bar dhooka detay ho humain lahore qalandar,Negative,0,1,2,2,2,2,Positive,9,"context, spelling variation, or possible label ambiguity"
+Yeh pehli baqaida commercial film thi jis ki kahani bhi inho ne khud he likhi thi,Positive,2,1,1,1,1,1,Neutral,16,Urdu-English code-switching
+Baqi sub venders sy sasta hai,Positive,2,1,1,1,1,1,Neutral,6,"context, spelling variation, or possible label ambiguity"
+uncle wo namaz prh raha ha,Positive,2,1,1,1,1,1,Neutral,6,"context, spelling variation, or possible label ambiguity"
+ye apke liye likha gaya hai ... area per square eench :P,Positive,2,1,1,1,1,1,Neutral,12,"context, spelling variation, or possible label ambiguity"
+mzyy ka Hai naa,Positive,2,1,1,1,1,1,Neutral,4,"context, spelling variation, or possible label ambiguity"
+jaago Pakistani coom jaago ye humary nokar han humarey tex se inko tankha milti h or ye hum pakitani awam ko hi martey han jaago Pakistan key logo,Positive,2,1,0,0,0,0,Negative,28,"context, spelling variation, or possible label ambiguity"
+Miss Salon Helen Keller ki zindagi mein inqelab ban kar warid hoein,Positive,2,1,1,1,1,1,Neutral,12,"context, spelling variation, or possible label ambiguity"
+tehreek-e-Insaf kay sarbarah Pakistan cricket team kay liye 1971 say 1992 tak khaltay rahay,Neutral,1,1,2,2,1,2,Positive,14,"context, spelling variation, or possible label ambiguity"
+Hahhahah un ne parhaya b h...,Neutral,1,1,1,0,0,0,Negative,6,"context, spelling variation, or possible label ambiguity"
+chota sa Hashim rozana apne school se farig hoker dopher kai meel paidel chal ker club ata aur yehan ke arkan ke khail sey lutf andaz hota,Neutral,1,1,2,2,2,2,Positive,27,"context, spelling variation, or possible label ambiguity"
+Pyar andha hota h 🤪🤪,Neutral,1,1,2,2,2,2,Positive,5,"context, spelling variation, or possible label ambiguity"
+Iqrar ul hassan ne bataya k is din sahir k program ki ratting 2nd no pr thi... to kon log show dekh rahe they??? awaam....,Neutral,1,1,1,0,0,0,Negative,25,Urdu-English code-switching
+Yeah but hum he han jo in ko ye bt remind krwaen gy in ki films ko dislike kr k,Negative,0,1,1,1,1,1,Neutral,20,mixed or contrasting opinion
+Isi ka 2 season aalayy Sal shaadii k bad k,Neutral,1,1,1,2,2,2,Positive,10,Urdu-English code-switching
+bhai ban ka,Neutral,1,1,1,0,0,0,Negative,3,very short or ambiguous
+Jab tak lahore ki shirt sey GEO ka logo nahi uthy ga tab tak nahi jeet sakta,Positive,2,1,1,1,1,1,Neutral,17,"context, spelling variation, or possible label ambiguity"
+Hahaha hamen.bhi bilkul pasand nhe aye :-P,Negative,0,1,2,2,2,2,Positive,7,"context, spelling variation, or possible label ambiguity"
+Dil to kal he jiya haar ga-e ab hai us Dil haari ki pyar izhar ki Bari.....,Positive,2,1,0,0,0,0,Negative,17,"context, spelling variation, or possible label ambiguity"
+Jise ijlaas ke shurkaa ne kasrat raaey se manzoor kiya tha,Positive,2,1,1,1,1,1,Neutral,11,"context, spelling variation, or possible label ambiguity"
+Chunache Hussain Shaheed Suhrawardy ne azaad arkaan ke sath mil kar Bengal mein wazarat qaiym ki aur wo khud Bengal ke wazeer e aala muqarrar hue,Neutral,1,1,1,2,2,2,Positive,26,"context, spelling variation, or possible label ambiguity"
+r bat tu thk a pr baat a ruswai ki,Negative,0,1,1,1,1,1,Neutral,10,"context, spelling variation, or possible label ambiguity"
+Bazigar 1993 dil to pagal hai 1997 kuch kuch hota hai 1998 mohabbatein 1998 devdas 2002 chak de india 2007 my name is khan 2010 ra one don 2 2011 jab tak hai jaan 2012 jab ke 2014 mein happy new year aur fan in ki mutawaqqa films hain,Neutral,1,1,1,2,2,2,Positive,49,Urdu-English code-switching
+1934 mein rahai pai to un ka Punjab aur Sarhad mein dakhla mamnun qarar diya,Negative,0,1,1,2,2,2,Positive,15,"context, spelling variation, or possible label ambiguity"
+Agar...ap bhutt par yakin nh karte ho....to dont mind ap make madina jo ek pather he use shetan samjh kar kyun kankar marte ho....think about...all our bright,Neutral,1,1,1,0,0,0,Negative,27,"context, spelling variation, or possible label ambiguity"
+Lekin apni kuch nekiyon par unho ne sari umar pardah dale rakha,Positive,2,1,2,0,0,0,Negative,12,mixed or contrasting opinion
+Azad Umeedwar Sameer Qureshi Symbol Hanger Ko Vote De Ker Khidmat Ka Mauqa Dein,Positive,2,1,1,1,1,1,Neutral,14,"context, spelling variation, or possible label ambiguity"
+Boht Km Logo Ko Malom Hy K Pak Bharat 1965 Ki Jang Ki Bunyad,Negative,0,1,2,2,2,2,Positive,14,"context, spelling variation, or possible label ambiguity"
+mery bal bhot kamzor jb hair com karti hn tu bal bhot girty hn koi totka bataey,Negative,0,1,1,1,1,1,Neutral,17,"context, spelling variation, or possible label ambiguity"
+Main bhata ta ho yi tum ny ki ya hai ashraf ghani,Neutral,1,1,0,0,0,0,Negative,12,"context, spelling variation, or possible label ambiguity"
+bhi tayer hai tu tayer rhna bus ab,Neutral,1,1,1,0,1,0,Negative,8,"context, spelling variation, or possible label ambiguity"
+Allah mujhy awlad se Nawaz de,Positive,2,1,0,0,0,0,Negative,6,"context, spelling variation, or possible label ambiguity"
+Door door tk kahin nazar ni aya,Neutral,1,1,0,0,0,0,Negative,7,"context, spelling variation, or possible label ambiguity"
+3 haftay tak koi baal nahi aaya skin per always buy from this vendor,Positive,2,1,1,0,0,0,Negative,14,"context, spelling variation, or possible label ambiguity"
+Best of Luck,Neutral,1,1,1,2,1,2,Positive,3,very short or ambiguous
+May 1993 mein Supreme Court ke 11 rukni bench ne Nawaz Sharif ki hukumat ko bahal kar deya,Positive,2,1,0,0,0,0,Negative,18,"context, spelling variation, or possible label ambiguity"
+Film to 1965 mein release hoi lekin Noor Jahan ka gana “ho tamana aur kia jan e tamana aap hain” waba ki tarah pore mulk mein phel gaya,Positive,2,1,1,1,1,1,Neutral,28,mixed or contrasting opinion
+Amir liaqat ko ticket Mila h ?,Neutral,1,1,0,0,0,0,Negative,7,informal expression or punctuation
+Kinza k sath bhi galat ho raha hai usy ab arsal ko chor kar Sherry pe focuse krna chahiye. Ta k jiya or arsal ek ho saky or sheerry or kinza,Neutral,1,1,0,0,0,0,Negative,31,"context, spelling variation, or possible label ambiguity"
+Sub pulicity ka chakar ha acha kam kiya ha afridi ne par ya zulim aj se to nai kar raha india pehley kia lala soya huwa tha,Neutral,1,1,1,0,0,0,Negative,27,"context, spelling variation, or possible label ambiguity"
+HahahahahahahahahahahaAy taa teda azlan da sapna ayyy,Positive,2,1,1,1,1,1,Neutral,7,"context, spelling variation, or possible label ambiguity"
+Aik zamana tha jaba Squash ka her aham title Pakistan ke pas tha abb bat pahonch chuki hai ke hamare pas sirf do Ashian title hain baqya tamam izazat sey ham mahroom ho chuke hain,Negative,0,1,1,2,0,2,Positive,35,"context, spelling variation, or possible label ambiguity"
+Ghar jana to door driver sahib ne NIPA pe rokna tak gawara na kya.,Neutral,1,1,1,0,0,0,Negative,14,"context, spelling variation, or possible label ambiguity"
+Is episode mein koi bhi hot nai hai,Negative,0,1,1,1,1,1,Neutral,8,Urdu-English code-switching
+"1981 mein inho ne Hardly Working ke zariye dobara filmy duniya ka rukh kiya, jis ke bad 2013 tak 15 mazeed films mein kaam kiya",Neutral,1,1,1,2,2,2,Positive,25,Urdu-English code-switching
+AMANTECH ne wada nibhaya,Positive,2,1,0,0,0,0,Negative,4,"context, spelling variation, or possible label ambiguity"
+Ye Hukomat Samet Sab K Liye Sabaq Hai,Negative,0,1,2,1,1,1,Neutral,8,"context, spelling variation, or possible label ambiguity"
+Allah ko yaad Kar k Naik bannay k bjay apna tamasha bana rahy hen . Allah hidayat da,Negative,0,1,2,2,2,2,Positive,18,"context, spelling variation, or possible label ambiguity"
+bataon se guraiz karain nafa usi ko hoga jiska dehan jitna hoga,Neutral,1,1,0,0,0,0,Negative,12,"context, spelling variation, or possible label ambiguity"
+Isi asnaa mein announcer ki awaaz sunai di jo keh raha tha ke pehle suna he suna tha lekin aaj hum dekh rahe hain ke Meghraj mein Iqbal Bano thumri gaa rahi thin ke barish ho gai,Positive,2,1,1,0,1,0,Negative,37,mixed or contrasting opinion
+Beshak ye baat saqib sb nay ki hy per editing say lag raha k kehna.kuch chah rahay they aur editor nay kuch bana dia,Negative,0,1,2,2,2,2,Positive,24,"context, spelling variation, or possible label ambiguity"
+jis ka pilaay hi saAf ho woo kiya kry,Neutral,1,1,0,0,0,0,Negative,9,"context, spelling variation, or possible label ambiguity"
+Neem ka patta karwa hyIK ....,Negative,0,1,1,1,1,1,Neutral,6,"context, spelling variation, or possible label ambiguity"
+Me bi app ke sat sare aam me kam krna cahta hu,Positive,2,1,1,0,0,0,Negative,12,"context, spelling variation, or possible label ambiguity"
+1984 mein Condoleezza Rice ko behtareen teacher ka “ Walter J Gores Award ” diya gaya,Neutral,1,1,1,0,0,0,Negative,16,"context, spelling variation, or possible label ambiguity"
+Yehi wajah hai ke 20 March 1943 se 4 February 1952 tak Kangri House mein takht pagara par koi pir muajood nahi tha,Negative,0,1,1,1,1,1,Neutral,23,"context, spelling variation, or possible label ambiguity"
+munafiq,Negative,0,1,1,1,1,1,Neutral,1,very short or ambiguous
+1987 mein app pehle shakhs thay jin ko Bharti shahri na hone ke bawajud Bharat Ratna Award se nawaza gay jo sab se azeem Bharti Civil Award hai,Positive,2,1,2,0,0,0,Negative,28,"context, spelling variation, or possible label ambiguity"
+Yeh to lol ho gya bay,Negative,0,1,1,1,1,1,Neutral,6,"context, spelling variation, or possible label ambiguity"
+Ach ty pnji asli otaak ty hluu,Negative,0,1,1,2,2,2,Positive,7,"context, spelling variation, or possible label ambiguity"
+Itna achha bhi ni ha aur na hi bura Read more Hide,Neutral,1,1,0,0,0,0,Negative,12,"context, spelling variation, or possible label ambiguity"
+Tu ny kouch banya nahi us k bani cheezoun par khssary batata ha. Log hi bawakof hain. Eak tu seeana rh geya pakistan me,Neutral,1,1,0,0,0,0,Negative,24,"context, spelling variation, or possible label ambiguity"
+Allah sy,Neutral,1,1,0,2,2,2,Positive,2,very short or ambiguous
+is billo ki lipstick light krin to kuch achi lgy gi,Negative,0,1,0,2,2,2,Positive,11,Urdu-English code-switching
+"Maar dou humain, Zaalim. Dil toots",Negative,0,1,0,2,2,2,Positive,6,"context, spelling variation, or possible label ambiguity"
+Call band ka music Hollywood sa kum nahi ha,Positive,2,1,1,0,1,0,Negative,9,"context, spelling variation, or possible label ambiguity"
+Taleem say farig hokar woh 1953 mein Pakistan lautay aur amli zindagi ka aaghaz kia.,Neutral,1,1,1,2,0,2,Positive,15,"context, spelling variation, or possible label ambiguity"
+2011 mein Wasim Akram ki mulaqat Australian khatoon Shaniera Thompson se hui aur 2 baras bad wo Shaniera ke sath shadi ke bandhan mein bandh gae,Positive,2,1,1,1,1,1,Neutral,26,Urdu-English code-switching
+Allah tala Noon leage ki govt.ko hadait day (Ameen),Neutral,1,1,2,2,0,2,Positive,9,"context, spelling variation, or possible label ambiguity"
+Wo nafsiyat aur sitara shanasi mein bhi maharat rakhte hain,Neutral,1,1,2,2,2,2,Positive,10,"context, spelling variation, or possible label ambiguity"
+Scent tou achi hai liken itni koi long lasting nahi hai. Price kay hisaab sey bus okay hai ye perfume.,Negative,0,1,2,2,0,2,Positive,20,"context, spelling variation, or possible label ambiguity"
+Buttler ko out karao bus,Neutral,1,1,1,0,0,0,Negative,5,"context, spelling variation, or possible label ambiguity"
+Behar e taur isi 3 minute ke dance ki badaulat wo 1976 mein kae hit movies ke sath South film industry ki barhi star ban chuki thin,Positive,2,1,1,1,1,1,Neutral,27,Urdu-English code-switching
+Muhammad Mahfooz Shaheed ne dushman ki company ko bhari nuqsan pohanchya to jawabi tor par hamle mein dushman ne goliyon ki barish shuru ka di jis ke nateje mein Muhammad Mahfuz Shaheed ki tangein zakhmi ho gaein lekin unhon ne hosla na hara aur sirf machine gun ke sahare hi dushmanon ka muqabla karte rahe,Positive,2,1,1,0,2,0,Negative,55,mixed or contrasting opinion
+Shukriya shehzadi auntie,Positive,2,1,1,1,1,1,Neutral,3,very short or ambiguous
+"In ki khidmaat hasil karne ke liye Dhaka franchise ne 7 lac dollars ki peshkash ki,",Positive,2,1,1,1,1,1,Neutral,16,"context, spelling variation, or possible label ambiguity"
+replcamene of Mitchell...is ther any other bowler?,Neutral,1,1,1,2,2,2,Positive,7,informal expression or punctuation
+Nazer na lug jayae tugay ho hoty,Positive,2,1,2,0,1,0,Negative,7,"context, spelling variation, or possible label ambiguity"
+aap har waqt speechless kar dete hoo inti shaandaar picxx daal kar.........,Positive,2,1,1,1,1,1,Neutral,12,"context, spelling variation, or possible label ambiguity"
+Mix wala scene fit hy,Positive,2,1,1,1,1,1,Neutral,5,"context, spelling variation, or possible label ambiguity"
+Dieting kr k waste nahi sanwar skty hyn,Neutral,1,1,1,0,0,0,Negative,8,"context, spelling variation, or possible label ambiguity"
+Tum pata hai imran khan ke sath kiun ho??? Pata hai kiun ho??,Neutral,1,1,0,0,0,0,Negative,13,informal expression or punctuation
+"Yeh beyk waqt actress, singer, host, comedian and drama nigaar ke taur par pehchani jati hain",Positive,2,1,1,1,1,1,Neutral,16,"context, spelling variation, or possible label ambiguity"
+Such kaha..!,Positive,2,1,1,1,1,1,Neutral,2,very short or ambiguous
+Neeeyat he nai hai invite krny ki to....,Negative,0,1,1,1,1,1,Neutral,8,"context, spelling variation, or possible label ambiguity"
+Eid K Dino main mulaqat ho sakti hai Hakeem sb se????,Neutral,1,1,2,2,2,2,Positive,11,informal expression or punctuation
+Marhomeen K Lye Dua e Maghfirat Ki Darkuast,Neutral,1,1,2,2,2,2,Positive,8,"context, spelling variation, or possible label ambiguity"
+May fan bngayaa hu apkaaa :),Positive,2,1,1,1,1,1,Neutral,6,"context, spelling variation, or possible label ambiguity"
+Bhi un ka to qpna hi level h,Neutral,1,1,1,2,1,2,Positive,8,"context, spelling variation, or possible label ambiguity"
+Aoa chalien karien. 😂❤ favv kaam hai. ❤,Negative,0,1,2,2,2,2,Positive,8,"context, spelling variation, or possible label ambiguity"
+Itni Tum Rehti,Neutral,1,1,0,0,0,0,Negative,3,very short or ambiguous
+nhe tum itna taradud na kro bus aj ka mera bill tumhari taraf sa ma na sasta ma maaf kea😎,Positive,2,1,1,0,0,0,Negative,20,"context, spelling variation, or possible label ambiguity"
+Is baat ka izhaar inho ne apne aik interview ke dauran kiya tha ke wo larhakpan he se apni janib uthne wali sataishi nazron ki aadi hain,Neutral,1,1,1,2,1,2,Positive,27,Urdu-English code-switching
+Lollywood Actress Resham ka kehna hai ke baaz actresses meri kamiyabiyon se hasad karti hain lekin mujhe in ki qatai koi parwah nahi hai,Positive,2,1,2,0,0,0,Negative,24,mixed or contrasting opinion
+Qayam e Pakistan ke baad har hukumat ki ghalat policyon ko hadaf e tanqeed banate rehna un ke akhbar ki policy aur un ki zindagi ka maqsad thera aur wo intehai jurat aur bebaki se azadi e sahafat aur jamhuriyat ki jung larte rahe,Positive,2,1,2,0,0,0,Negative,44,"context, spelling variation, or possible label ambiguity"
+pay gyi wahi Aunty Ovi Tuuttt k,Negative,0,1,0,2,2,2,Positive,7,"context, spelling variation, or possible label ambiguity"
+To khwaroon k badshah ka aik choota sa khwab tha: point pe safar krna.,Neutral,1,1,1,0,0,0,Negative,14,"context, spelling variation, or possible label ambiguity"
+Cal no cahy muja in ka,Negative,0,1,1,1,1,1,Neutral,6,"context, spelling variation, or possible label ambiguity"
+Molvi shaba ki tehriron mein aam bol chal ki zaban hoti hai,Neutral,1,1,2,2,2,2,Positive,12,"context, spelling variation, or possible label ambiguity"
+Waqt guzarta raha aur Kausar Niazi ki soch mein tabdeeli aati gai,Neutral,1,1,0,0,0,0,Negative,12,"context, spelling variation, or possible label ambiguity"
+Wo apni zindagi ke aakhri saal tak gaati rahin aur daad samait ti rahin,Positive,2,1,1,1,1,1,Neutral,14,"context, spelling variation, or possible label ambiguity"
+Product acha ha magar deli15 days main ki ha,Neutral,1,1,2,2,2,2,Positive,9,mixed or contrasting opinion
+Altaf k khyal aya gya hth chala gaya shonday laa diyan gay mochay paa dayan gay,Neutral,1,1,0,0,0,0,Negative,16,"context, spelling variation, or possible label ambiguity"
+kasam sey aunti got no chillMagar video puri dekhna,Negative,0,1,1,1,1,1,Neutral,9,"context, spelling variation, or possible label ambiguity"
+Dhobi ki chutti...... Thanks Dawlance,Positive,2,1,1,1,1,1,Neutral,5,"context, spelling variation, or possible label ambiguity"
+Anjuman e tarqi e Urdu 1903 mein Maulana Shibli Nomani aur Nawab Mohsin ul Mulk ne qaim ki,Neutral,1,1,2,2,2,2,Positive,18,"context, spelling variation, or possible label ambiguity"
+"Tahum paramount ne bhi film The Bell Boy banane ki peshkash ki, jise jerry ne qabool kar liya aur is film ki production, direction aur story writer ka kaam anjaam diya aur apni zaati production ke sath sath yeh film bhi mukammal kar li",Neutral,1,1,2,2,2,2,Positive,44,Urdu-English code-switching
+Yeh drama 12 saal tak pesh kiya jata raha tha,Positive,2,1,1,1,1,1,Neutral,10,"context, spelling variation, or possible label ambiguity"
+Kab milega muje parcel,Negative,0,1,1,1,1,1,Neutral,4,"context, spelling variation, or possible label ambiguity"
+chal Ami Abu aur Bhai czns ko kaih di ballay pay thapa lagae ....,Neutral,1,1,1,0,0,0,Negative,14,"context, spelling variation, or possible label ambiguity"
+"2009 mein ""New York"" ki release ke bad un ki adakarana salahiyaton ko bhi taslem kar liya gaya",Positive,2,1,1,1,1,1,Neutral,18,Urdu-English code-switching
+Bhai ye fire kaha pe lagiii hai...,Neutral,1,1,1,0,0,0,Negative,7,"context, spelling variation, or possible label ambiguity"
+Inna lillahi wa Inna elaihi rajiuun 😖,Negative,0,1,1,1,2,1,Neutral,7,"context, spelling variation, or possible label ambiguity"
+"8 March kyun manaya jata hai? Darasal almi yom e khawateen ke paas e manzar se mutaliq bataya jata hai ke America ke shehar New York mein khawateen (women) ne apni takhuwa ke masail par ahtejaj kiya, jise ghur sawar daston ke zarye sakhti se kuchal deya gaya",Negative,0,1,1,1,1,1,Neutral,48,informal expression or punctuation
+Or humsree Pakistani model uss Tara Kai khantay dressers paham kar atee hI,Negative,0,1,2,1,1,1,Neutral,13,"context, spelling variation, or possible label ambiguity"
+Singing se talluq rakhne wale gharano ne ataullah ki singing ko mauseeqi ke sath narwa sulook se tabeer kiya,Negative,0,1,1,1,1,1,Neutral,19,"context, spelling variation, or possible label ambiguity"
+Jiya dil har jy gi,Negative,0,1,2,2,2,2,Positive,5,"context, spelling variation, or possible label ambiguity"
+1949 mein he Pir Ali Mohammed Rashdi mushtarka hind pak press ke sadder muntakhib hue,Neutral,1,1,1,2,2,2,Positive,15,"context, spelling variation, or possible label ambiguity"
+Miss shah ap to Absa ki copy lg rhe ho,Positive,2,1,1,0,0,0,Negative,10,"context, spelling variation, or possible label ambiguity"
+Wo chijo ldkio wali nai chutiyo ldkio wali hai,Negative,0,1,1,1,1,1,Neutral,9,"context, spelling variation, or possible label ambiguity"
+Meri b shadi krwao huhhh,Positive,2,1,2,1,2,1,Neutral,5,"context, spelling variation, or possible label ambiguity"
+31 March 2006 ko Privatization commission ne farokhat karne ki manzori de di,Neutral,1,1,1,0,0,0,Negative,13,"context, spelling variation, or possible label ambiguity"
+beta karti hy tu naye logon k samnay😂😂,Neutral,1,1,1,0,2,0,Negative,8,"context, spelling variation, or possible label ambiguity"
+Ye bachay ko to sab kuch pata tha.,Positive,2,1,0,0,0,0,Negative,8,"context, spelling variation, or possible label ambiguity"
+11 May 2004 ko Shahbaz Sharif nay Pakistan wapas aney ki koshish ki magar Lahore kay alama Iqbal bain ul aqwami hawai adde (alama Iqbal international airport) say unhein wapas bhej diya gaya,Negative,0,1,1,2,2,2,Positive,33,mixed or contrasting opinion
+BHAI G TUSEE BHUNDI KERNA NAY LIKHI O JAIZ AY,Neutral,1,1,1,2,2,2,Positive,10,"context, spelling variation, or possible label ambiguity"
+Bhai minorities ki makhsoos seat hoti he,Negative,0,1,1,1,1,1,Neutral,7,"context, spelling variation, or possible label ambiguity"
+Toor Sim Khan ki khahish thi key woh almi champion ka ezaz hasil kerain,Neutral,1,1,2,2,2,2,Positive,14,"context, spelling variation, or possible label ambiguity"
+tmhare liye gift lu ge me yeh,Positive,2,1,1,1,1,1,Neutral,7,"context, spelling variation, or possible label ambiguity"
+Yehi wajah hai ke in ka intekhab is qadar jama hota hai ke shaiyqeen ussh ussh kar uthte hain,Positive,2,1,2,0,1,0,Negative,19,Urdu-English code-switching
+"Tahum radio par songs ka muaawza inhe 60 rupey ka cheque mila, jo inho ne cash nahi karwaya aur aaj tak sambhal kar rakha hua hai",Positive,2,1,1,0,0,0,Negative,26,"context, spelling variation, or possible label ambiguity"
+"Oh come on ..Aik aisi shadi jis main family ke illawa koi b shamil nahi thaa wahan Apne 18 lac ka lehnga or jimmy Cho ke heels b dekh lain ..lolOr please is gareeb awam ke paise wali logic se nikal jae ..Dunia main or b loag designer wear Lete Han .sab Ap jesi gareeb Awam ka paisa nahi Lete ..Kisi ki Apni mehnat bhi ha ..In short"" Mehnat kar ,hasad Na kar """,Neutral,1,1,1,0,0,0,Negative,74,Urdu-English code-switching
+Be Namazi Bhi Thy aur Be Gunah Bhi,Neutral,1,1,0,0,0,0,Negative,8,"context, spelling variation, or possible label ambiguity"
+Ruky gi bhi nhe,Negative,0,1,1,1,1,1,Neutral,4,"context, spelling variation, or possible label ambiguity"
+KMC Me B Mil Kr Govt Banane Ka Imkan Rpt Jokhio,Neutral,1,1,0,2,2,2,Positive,11,"context, spelling variation, or possible label ambiguity"
+Is elan ke bad khud bakhud Jonubi America ke bahar sargaram e amal tamam Football fedrations World Cup ke ineqad ke muqable se bahar ho gayein aur Jonubi America ki Football ki tanzeem “South American Football Assosiation” ke members mumalik ke mabeen tehra,Neutral,1,1,2,2,2,2,Positive,43,Urdu-English code-switching
+Is film ki peshkash mausool hone se aik din pehle shahrukh khan ne apni tamam koshishon mein nakami ke bad Delhi wapis jane ka faisla kar liya tha lekin in ki jaib mein kiraya nahi tha,Negative,0,1,2,2,2,2,Positive,36,mixed or contrasting opinion
+ye product ashi hay but size thora bara hay,Neutral,1,1,2,0,0,0,Negative,9,mixed or contrasting opinion
+ap to mere hi area me rehty han,Neutral,1,1,2,2,2,2,Positive,8,"context, spelling variation, or possible label ambiguity"
+Yeh dusra mujeb ullah hai..apni qam ko marwa dea salay nay..sirf kurssi ki khater...yad rakho zindgi Chand roza hai..allah k darbar mehn kea jawab do gay...jawab dayna mehn ibn gaddar ibne gaddar,Neutral,1,1,2,0,0,0,Negative,32,"context, spelling variation, or possible label ambiguity"
+hahaha hm to dubyn gy sanam :-D tujhy b sath ly dubyn gy :-P,Neutral,1,1,1,2,2,2,Positive,14,"context, spelling variation, or possible label ambiguity"
+Yhi qurban krna ka soch rha hn pyara hai.,Negative,0,1,1,2,2,2,Positive,9,"context, spelling variation, or possible label ambiguity"
+Qoumi Watan Party KPK Hkomat Main Shamil,Positive,2,1,1,1,1,1,Neutral,7,"context, spelling variation, or possible label ambiguity"
+Saanp ka kaam Zahar ugalna hi hai.,Negative,0,1,1,2,2,2,Positive,7,"context, spelling variation, or possible label ambiguity"
+ALLAH KISI MAA KO IMRAN KHAN NA DEY...AMEEN,Negative,0,1,2,2,2,2,Positive,8,"context, spelling variation, or possible label ambiguity"
+Wow yarBilkul on point hai,Positive,2,1,1,1,1,1,Neutral,5,"context, spelling variation, or possible label ambiguity"
+"JZ sahab jo k commentary, judging, announcing, time keeping, discipline maintaining, rule making sab kuch kar rahay thay, ne thori dair baad shor (???) machana shuru kar diya k waqt khatam ho gaya hai.",Neutral,1,1,0,0,0,0,Negative,34,informal expression or punctuation
+"1987 mein Warner Brothers Studios mein inho ne martial art ke kamalaat dikhae to bohat se filmsaaz mutassir hue aur kae films mein kaam karne ki peshkash hui, jinhe Steven Seagal ne script parhne ke bad radd kar diya",Negative,0,1,2,2,2,2,Positive,39,Urdu-English code-switching
+Jab khud us ke pas koi khat aata to wo apni unglion se sotor ka matlab nikalti.,Neutral,1,1,1,0,1,0,Negative,17,"context, spelling variation, or possible label ambiguity"
+Hukumat e Pakistan ne Anna Molka Ahmed ki khidmat ko sarahte howae1963 mein aap ko 鉄itar e Imtiaz・se aur 1969 mein Pride of Performance se nawaza.,Neutral,1,1,2,2,2,2,Positive,26,"context, spelling variation, or possible label ambiguity"
+O lagdi Karachi di,Neutral,1,1,1,0,1,0,Negative,4,"context, spelling variation, or possible label ambiguity"
+Ya Allah ya raaba kayenat apki rahmo karam 7o mawon k rahum se ziada ha aap afiya par Rahm farma aap afiya ko kafaron ki kufur se nijat day ameen,Neutral,1,1,2,2,2,2,Positive,30,"context, spelling variation, or possible label ambiguity"
+Kaash app England mein hotey.,Positive,2,1,2,1,1,1,Neutral,5,"context, spelling variation, or possible label ambiguity"
+6 Mah Qaid 20 20 Hazar Rupay ka Jurmana,Negative,0,1,0,2,1,2,Positive,9,"context, spelling variation, or possible label ambiguity"
+5 behan bhaiyyon mien Farooq Sheikh sab se barhe the,Neutral,1,1,1,2,1,2,Positive,10,Urdu-English code-switching
+Yehi wajah hai ke un ka izhar ghair mamoli hota tha,Positive,2,1,2,0,1,0,Negative,11,"context, spelling variation, or possible label ambiguity"
+Mtlb aik lipstick(Inner me: gndi soch sy rozy m baz rho),Positive,2,1,0,0,0,0,Negative,11,"context, spelling variation, or possible label ambiguity"
+Waalaikum Aslaam theek.,Positive,2,1,2,0,0,0,Negative,3,very short or ambiguous
+iss budhii sy bnda puchay kitnii jamatain pass hay yeh?,Negative,0,1,1,1,1,1,Neutral,10,informal expression or punctuation
+Mubbashir jhootha he sala..... En number,Neutral,1,1,0,0,0,0,Negative,6,"context, spelling variation, or possible label ambiguity"
+Main Nay Nataij K Hawalay Say Is Say Zyada Shireen Jaam Nahi Piya,Negative,0,1,0,2,2,2,Positive,13,Urdu-English code-switching
+I wish kabhi khatam na ho but ramazan special drama hai eid k bad khatam ho jaye ga,Negative,0,1,1,2,2,2,Positive,18,mixed or contrasting opinion
+Hum sb sey brhaa,Neutral,1,1,1,2,1,2,Positive,4,"context, spelling variation, or possible label ambiguity"
+Heheee,Positive,2,1,1,1,1,1,Neutral,1,very short or ambiguous
+Mjhay nahi tag Kia 😑🤬,Positive,2,1,1,1,1,1,Neutral,5,"context, spelling variation, or possible label ambiguity"
+Moula kis ko kehtay haiAur kisko keh saktay haiBarahay karam wazahat kiy jiyeh,Neutral,1,1,0,0,1,0,Negative,13,"context, spelling variation, or possible label ambiguity"
+Oh shukar ap jaise churail se bach jaon gi,Negative,0,1,0,2,2,2,Positive,9,"context, spelling variation, or possible label ambiguity"
+30 October 1990 ko Wifaqi Shari Adalat ne toheen e Risalat ke Jurm ko saza e muat dene ka fasla kiya,Neutral,1,1,0,0,0,0,Negative,21,"context, spelling variation, or possible label ambiguity"
+"5, 5-rupe balke 4, 4 ane ke uwaz apni ghazalein beach kar apni zindagi ki gari ko chalata raha",Negative,0,1,2,2,2,2,Positive,19,"context, spelling variation, or possible label ambiguity"
+yes of course i'm thankful to your parents namooni :* <3 <3,Positive,2,1,1,1,1,1,Neutral,12,"context, spelling variation, or possible label ambiguity"
+ahahah or usko chor jany waly ko kia kehty hain? 😂,Neutral,1,1,0,0,0,0,Negative,11,informal expression or punctuation
+Ab is ki siasat khatam,Negative,0,1,1,1,1,1,Neutral,5,Urdu-English code-switching
+Sirf 11 sal ki umer mein Hashim ko aik sadme se dochar hona para tha jeb unke walid sarak ke aik hadse mein helak hue they,Negative,0,1,1,2,0,2,Positive,26,"context, spelling variation, or possible label ambiguity"
+Right umar akmal ko koi mohallay ki team main na rakhay yaar jhootay maray is besharam ko itna experience hone ke bawjood tujy aqal nahi hai is ne aise hi bohat se international match bhi harwaye hain Pakistan koWe hope Best For Next Addition Qalandars,Neutral,1,1,1,2,2,2,Positive,45,Urdu-English code-switching
+Main Aisa nai hon .... I am shareef larka,Positive,2,1,1,1,1,1,Neutral,9,"context, spelling variation, or possible label ambiguity"
+Acha khali tind :D,Negative,0,1,2,2,1,2,Positive,4,"context, spelling variation, or possible label ambiguity"
+Packeging quality waghera tou theek hai liken masla ye hai kay saray body mists ki takreeban ek he jesi khushboo hai. Nayi scents introduce karni chayein.,Negative,0,1,0,2,2,2,Positive,26,"context, spelling variation, or possible label ambiguity"
+Badshah salamat se unhoon ne guftogo ka kuch is tarha aghaz kiya:,Positive,2,1,1,0,0,0,Negative,12,Urdu-English code-switching
+Ap ki app working ni kr rhi ha,Negative,0,1,1,1,1,1,Neutral,8,"context, spelling variation, or possible label ambiguity"
+Heheheheheheh yakeen mano mera notification part asy he bhra hota,Positive,2,1,1,1,2,1,Neutral,10,"context, spelling variation, or possible label ambiguity"
+Lekin tafseel kahin nahi hai,Neutral,1,1,1,0,1,0,Negative,5,mixed or contrasting opinion
+"adakari se ziyada modelingmein be had masruf hun,mutaddid commercial shoots aur fasin shows ker rahi hunTelgufilm sign kerny ke bary mein adakara ne kaha ke telgo filmon ki bhi ek both bari market hai,bollywood mein both se namwar funkar inh filmon ke zariey industry mein aye, aj bhi rajni kant aur kamal hasan jaisytamil funkaron ka danka baj raha hai,hamari both s namwar adakaraon ne in filmon mein kam kiya aur kar rahi han",Neutral,1,1,1,2,2,2,Positive,74,"context, spelling variation, or possible label ambiguity"
+Ayesha Muzzafer math nh ati?,Negative,0,1,1,1,1,1,Neutral,5,informal expression or punctuation
+HahahahahaH hansi ni ruk rai comment pardh k,Positive,2,1,1,0,0,0,Negative,8,"context, spelling variation, or possible label ambiguity"
+😋aao twist karein ki shaandaar kamyabi k baad ab pese he: Ao judge karein 😂,Neutral,1,1,0,0,0,0,Negative,15,"context, spelling variation, or possible label ambiguity"
+PPP pehle bohot karti thiAb kuch nahe hoga aagay,Negative,0,1,0,2,0,2,Positive,9,"context, spelling variation, or possible label ambiguity"
+Loadsheding Ka Ellaj Kia,Negative,0,1,1,1,1,1,Neutral,4,"context, spelling variation, or possible label ambiguity"
+Or Kia ki disty mard orat ki ya mard mard ki,Neutral,1,1,0,0,1,0,Negative,11,"context, spelling variation, or possible label ambiguity"
+Shaam idrees ki video cheat ki hai,Negative,0,1,2,1,1,1,Neutral,7,"context, spelling variation, or possible label ambiguity"
+pata nahi meri frnd kab asi hogi,Positive,2,1,1,1,1,1,Neutral,7,"context, spelling variation, or possible label ambiguity"
+Muqadme Me Mulavis Obaid K2 Pehle Se Giriftar Hai,Negative,0,1,1,2,2,2,Positive,9,"context, spelling variation, or possible label ambiguity"
+Agar use kisi third person se koi baat maloom hui to use is liye aehmiyat nahi degi kyun ke wo pehle se is ke barey mein janti hai,Positive,2,1,1,1,1,1,Neutral,28,Urdu-English code-switching
+Wokla taiyari aur ehteyat ke sath un ki adalat mein aate jate,Neutral,1,1,2,2,2,2,Positive,12,"context, spelling variation, or possible label ambiguity"
+Dunia ka sabsay asaan kaam,Neutral,1,1,2,2,2,2,Positive,5,"context, spelling variation, or possible label ambiguity"
+"1979 ke hodod o qawanin mei naguzir taramim ke leye Islami nazariyati council, jaed ulma aur mazhabi scholars ne rehnumai ki jis ki badotal tahafuz e hoqoq e niswan ka tarikhi bill pass howa",Neutral,1,1,2,2,2,2,Positive,34,"context, spelling variation, or possible label ambiguity"
+Bolti rho jo mrzi mai Kia krun,Negative,0,1,1,1,1,1,Neutral,7,"context, spelling variation, or possible label ambiguity"
+Tadris ka shuba chorne ke bad aap ne likhne ko apna mustakil zariya e mash banaya aur kai novel aur afsanwi majmoye likhe,Positive,2,1,2,1,1,1,Neutral,23,Urdu-English code-switching
+Farmata Hy tu Krta Wo Hy Jo TU Chahta Hy Pr Hota Wo Hy Jo Main Chahta Hun Tu Wo Kr Jo Main Chahta Hun Phir Wo Hoga Jo TU Chahta Hy,Positive,2,1,1,1,1,1,Neutral,32,"context, spelling variation, or possible label ambiguity"
+Meny pora farz ada Kia Hy,Positive,2,1,1,1,1,1,Neutral,6,"context, spelling variation, or possible label ambiguity"
+"In ke tehreer karda serial Neeli Dhoop, Makaan, Kuch Dil ne Kaha aur Dil hai Chota Sa, behad maqbool hue",Neutral,1,1,1,2,2,2,Positive,20,"context, spelling variation, or possible label ambiguity"
+Ye Sunnat-e-Hussain ( RA) hai jo hum pori kar rahe hai,Positive,2,1,1,1,1,1,Neutral,11,"context, spelling variation, or possible label ambiguity"
+Aur biki hue ghairat gawara ni krty $ dene waly ko deshatgardh kaha jaye,Neutral,1,1,0,0,0,0,Negative,14,"context, spelling variation, or possible label ambiguity"
+Zia Mohyeddin ne un se aise sawalaat kiye ke in ki zindagi ke wo goshey bhi nazreen ke saamne aa age jin se wo pehle aashna nahi the,Neutral,1,1,2,2,1,2,Positive,28,Urdu-English code-switching
+Shahid Afridi apne oper se one day slogger ka label hatane ke liye sir torh koshishen karte rehte hain aura b tak inho ne jo test match khele hain,Neutral,1,1,2,2,2,2,Positive,29,"context, spelling variation, or possible label ambiguity"
+Kis bhae aunty ka screw dhila chal raha ha elections ki tension,Negative,0,1,1,2,2,2,Positive,12,"context, spelling variation, or possible label ambiguity"
+Ham Dil Sy Gay Dil Ham Sy Gya Yeh Bat Kahan Tak Ja Pohanchi,Negative,0,1,1,1,1,1,Neutral,14,"context, spelling variation, or possible label ambiguity"
+Ibtadai taur par tarbiat Karachi cantt say shuru ki phir Hyderabad cantt muntaqil ho gay iss dauran Mashriqi Pakistan mein jang chir gai,Negative,0,1,1,1,1,1,Neutral,23,"context, spelling variation, or possible label ambiguity"
+Jo 40 years sy phlay ic dounia sy chla jai wo jannat main jai ga.,Positive,2,1,1,1,1,1,Neutral,15,"context, spelling variation, or possible label ambiguity"
+Aj ki episode superb thi itna enjoy kiya dil hi nhi ker raha tha ky drama khtm hOFinally jiya ko arsal ki feeling ka Ahsaas to huaa,Positive,2,1,1,0,0,0,Negative,27,"context, spelling variation, or possible label ambiguity"
+Qabar ka hall murda or uska allah janta hai bus..,Neutral,1,1,0,0,0,0,Negative,10,"context, spelling variation, or possible label ambiguity"
+Bia tu khud sy ai juda hogi,Neutral,1,1,0,0,0,0,Negative,7,"context, spelling variation, or possible label ambiguity"
+Hahahaha kasam sy es semester k haalaat kuch aisy hai made my day,Positive,2,1,1,0,1,0,Negative,13,"context, spelling variation, or possible label ambiguity"
+hahahahha�,Negative,0,1,1,1,1,1,Neutral,1,very short or ambiguous
+Acting krna mushkil ni ha,Neutral,1,1,0,0,0,0,Negative,5,"context, spelling variation, or possible label ambiguity"
+Aap ne socha k ja k kyoon na us bachay se baki dastaan ka hisa maloom kiya jaye jis ko ye kisi tarha maloom tha k aap ne buzzer takhleeq kiye thay.,Positive,2,1,1,1,1,1,Neutral,32,"context, spelling variation, or possible label ambiguity"
+G at the end pasand kam he ata koi hehehe,Neutral,1,1,1,2,2,2,Positive,10,Urdu-English code-switching
+beta ye parhte hi pehle ap yaad aye the,Neutral,1,1,1,2,2,2,Positive,9,Urdu-English code-switching
+UMMAT ZINDA LAASH BAN GAYI HAI HUM SAB APNI BARI KA INTEZAR KAR RAHEIN HAIN.,Negative,0,1,2,2,2,2,Positive,15,"context, spelling variation, or possible label ambiguity"
+hr ksi k pas ya hna chahye..itni achi quality..very affordable price...,Positive,2,1,0,0,0,0,Negative,11,"context, spelling variation, or possible label ambiguity"
+Is silsile mein pheli film “chilar party” ne teen national awards hasil kiye,Neutral,1,1,1,2,2,2,Positive,13,Urdu-English code-switching
+tbi wo white lgty hain 😂😂,Positive,2,1,0,1,1,1,Neutral,6,"context, spelling variation, or possible label ambiguity"
+haan itna tou pta chal gaya hai xd,Neutral,1,1,1,0,1,0,Negative,8,"context, spelling variation, or possible label ambiguity"
+10th standard tak taleem hasil karne ke bad Jerry Lewis ko school chorna parha,Negative,0,1,1,1,1,1,Neutral,14,Urdu-English code-switching
+T0 Deewar Gir Jati Hai,Negative,0,1,0,1,1,1,Neutral,5,"context, spelling variation, or possible label ambiguity"
+Janab Altaf Hussain nay apni siasi basirat Pakistani siasi mumlat par qabo hasil karlia hai,Neutral,1,1,1,0,0,0,Negative,15,"context, spelling variation, or possible label ambiguity"
+pe hastay rahay.,Positive,2,1,0,0,0,0,Negative,3,very short or ambiguous
+kia shafay ko na batanay say shafay theek ho jaey ga???,Neutral,1,1,0,0,2,0,Negative,11,informal expression or punctuation
+bhaiii aaap apne cover faattuu ki gehri baaten smjha den :3,Positive,2,1,1,1,1,1,Neutral,11,"context, spelling variation, or possible label ambiguity"
+Saghar ne sirf 46 baras ki umar pai,Negative,0,1,1,1,1,1,Neutral,8,"context, spelling variation, or possible label ambiguity"
+bakara hei,Negative,0,1,2,1,2,1,Neutral,2,very short or ambiguous
+"Yar maine ye 4 mangwaye thay laken sabke sizes bhi alag thay, quality bilkul bhi achi nahi thi. Mujhe is price mein market se bhi is se achi cheez mil jaati kyunke iska stuff bohot hi koi sasti quality ka hai or stitching bhi pehli bar pehnne mein saari bahar agayi.",Negative,0,1,2,2,2,2,Positive,51,Urdu-English code-switching
+uff u sheer walon ka kya ho ga Allah inko choroon sy bachaye.,Neutral,1,1,2,0,1,0,Negative,13,"context, spelling variation, or possible label ambiguity"
+Fri Chiks khaya hai. 🙈,Neutral,1,1,0,0,0,0,Negative,5,"context, spelling variation, or possible label ambiguity"
+Bdla lelia kro tm forn Rami jatuk 😂,Negative,0,1,1,1,1,1,Neutral,8,"context, spelling variation, or possible label ambiguity"
+Han yawr sai likha hai Jan lelo..pr gudgudi nai..,Negative,0,1,1,1,1,1,Neutral,9,"context, spelling variation, or possible label ambiguity"
+pao ghotnu gitto p ayat bandhna be adbi hogi,Neutral,1,1,1,0,0,0,Negative,9,"context, spelling variation, or possible label ambiguity"
+"Pakistani selectors ne aik teen ager Shahid Afridi ko, jin ki masey bhi abhi nahi bheegi thin, un ko bhej diya",Neutral,1,1,1,2,1,2,Positive,21,"context, spelling variation, or possible label ambiguity"
+IK to inse wese bh NH darta q k ye iske khalazad bhai hen,Neutral,1,1,1,0,1,0,Negative,14,"context, spelling variation, or possible label ambiguity"
+"In ke kuch ashaar to aaj ke halaat ka ahata kar lete hai, in ki hesiyat mawraey asar hai",Positive,2,1,1,1,1,1,Neutral,19,"context, spelling variation, or possible label ambiguity"
+Assingment ho gai mukmal k abi b enjoy hi ho raha hai,Neutral,1,1,1,2,2,2,Positive,12,"context, spelling variation, or possible label ambiguity"
+aunty ko mri trf se thanku bol dena with kissy,Positive,2,1,1,1,1,1,Neutral,10,"context, spelling variation, or possible label ambiguity"
+qabzay mein rakta hai,Negative,0,1,1,1,1,1,Neutral,4,"context, spelling variation, or possible label ambiguity"
+Large size me available hy?,Neutral,1,1,1,0,0,0,Negative,5,informal expression or punctuation
+anab Altaf Hussain nay Karachi kay seven day hospital mein batour traine kam keya aur do Multinational Medicine Companies mein bhi molazmat ki,Positive,2,1,1,1,1,1,Neutral,23,"context, spelling variation, or possible label ambiguity"
+yeah mil gye wo mr gai,Negative,0,1,1,1,1,1,Neutral,6,"context, spelling variation, or possible label ambiguity"
+Yon university campus mein aaye roz tashaddud ka silsilah shuro hogaya,Negative,0,1,1,1,1,1,Neutral,11,"context, spelling variation, or possible label ambiguity"
+ap kamyab bnna chahain gy?😂😂😂,Neutral,1,1,2,2,2,2,Positive,5,informal expression or punctuation
+Ye musalman h ya yhudi,Negative,0,1,1,1,1,1,Neutral,5,"context, spelling variation, or possible label ambiguity"
+"Death registration kyun zarori hai, birth registration ki kia ahmiyat hai, is mein authorities ki nishan dahi ki thi, phir association walon ne is ke Urdu, Sindhi, Balochi, Punjabi aur Pashto zabanon mein tarajum karaye.",Neutral,1,1,2,2,2,2,Positive,35,Urdu-English code-switching
+Kia hai anmol khazana parhna kia hai,Positive,2,1,1,1,1,1,Neutral,7,"context, spelling variation, or possible label ambiguity"
+hahahah bs ab khatam wo meray liye :0,Negative,0,1,1,1,1,1,Neutral,8,"context, spelling variation, or possible label ambiguity"
+saray pti k ho na?,Neutral,1,1,0,0,0,0,Negative,5,informal expression or punctuation
+"Sir Abdullah haroon ne qarardad e Pakistan ki manzori ke bad Sindh mein tehreek e Pakistan mein bharpor hissa liya, magar bad qismati se Qiyam e Pakistan se qabal he 27 April 1942 ko Sir Abdullah Haroon wafaat paa gaey",Negative,0,1,1,1,1,1,Neutral,40,mixed or contrasting opinion
+Jinho ne 1965 se 1958 tak unhe ghar par Urdu aur Islamiyat ki taleem di,Neutral,1,1,2,2,2,2,Positive,15,"context, spelling variation, or possible label ambiguity"
+Post koi achi Karen phir kardunga mention,Neutral,1,1,0,2,2,2,Positive,7,"context, spelling variation, or possible label ambiguity"
+Zanana be pardagi par bayan hota to bahut acha hota,Neutral,1,1,2,2,2,2,Positive,10,"context, spelling variation, or possible label ambiguity"
+Tera bhai cha gyanlarke,Positive,2,1,1,0,0,0,Negative,4,"context, spelling variation, or possible label ambiguity"
+safa mamala garam hai boss,Negative,0,1,1,1,1,1,Neutral,5,"context, spelling variation, or possible label ambiguity"
+team mein inteshar ki wajha se inhein qayadat chorna pari aur Waseem Akram ko captain banadiya gaya,Negative,0,1,2,2,0,2,Positive,17,"context, spelling variation, or possible label ambiguity"
+Mujy ptaa he nahi chalaa....,Neutral,1,1,1,0,0,0,Negative,5,"context, spelling variation, or possible label ambiguity"
+Haha jo phrya wo bi kon sa tmhn atta hoga :D,Negative,0,1,1,1,1,1,Neutral,11,"context, spelling variation, or possible label ambiguity"
+Ufone per calls ka package tha Badshah salamat k walid sahab k phone per to isliyay CR sahiba se koi Ufone ka number manga.,Positive,2,1,1,0,0,0,Negative,24,"context, spelling variation, or possible label ambiguity"
+Bad qismati se Pakistan team ke leye un ka intikab na ho saka,Neutral,1,1,2,2,2,2,Positive,13,Urdu-English code-switching
+Ghalib ne gehre dukh ko mazah aur zarafat ki dhal ke zarye khud par hawi hone se roka,Positive,2,1,2,0,0,0,Negative,18,"context, spelling variation, or possible label ambiguity"
+Medical College Jali Degree amp PMDC K Ghaplon Me Dr Asim Ka Hath Ta Teqiqati Idaron K Sath Tawun Karenge,Positive,2,1,0,0,0,0,Negative,20,"context, spelling variation, or possible label ambiguity"
+Tu phir jiska gif hai ussko passand karlo merey liye,Neutral,1,1,0,0,0,0,Negative,10,"context, spelling variation, or possible label ambiguity"
+2 Mah K Liye Sharah Sood 7 Per Barqarar,Negative,0,1,0,1,1,1,Neutral,9,"context, spelling variation, or possible label ambiguity"
+Ap kotli azad kashmir b kbi aye na g plz hum ap ka intazar kare gy ok javab zaror dena g plz Plz Plz Plz Plz,Neutral,1,1,1,0,0,0,Negative,26,"context, spelling variation, or possible label ambiguity"
+Angelina Jolie ki zindagi ke kai phelo hain lekin unhein khas tor par insan dost adakar ke tor par jana jata hai,Positive,2,1,2,0,1,0,Negative,22,mixed or contrasting opinion
+Yhi habar na ahli k waqat b philai gi thi kuch hoa hrami jothy,Neutral,1,1,1,0,0,0,Negative,14,"context, spelling variation, or possible label ambiguity"
+"Ab film industry bhi dobara apne peyron par khari nazar aa rahi hai aur aap ne bhi films mein kaam karna shuru kar diya hai, agar mazeed films ki offer hui to kya Tv ko chor kar films ko ziyada waqt denge ya dono ko sath le kar challenge ?",Neutral,1,1,2,2,2,2,Positive,50,Urdu-English code-switching
+hahhahahha thanks fakhira parveen aqal deny k liye,Positive,2,1,1,1,1,1,Neutral,8,"context, spelling variation, or possible label ambiguity"
+bht ziada,Neutral,1,1,1,2,1,2,Positive,2,very short or ambiguous
+woh ibtedai round ke matches mein behtareen kar kerdagi ka mozahra kerke final mein pahonche they,Positive,2,1,2,1,1,1,Neutral,16,"context, spelling variation, or possible label ambiguity"
+Aisa Hota hy Miss,Negative,0,1,1,1,1,1,Neutral,4,"context, spelling variation, or possible label ambiguity"
+Khrb ni hoti face p dany hon WO khtm,Neutral,1,1,0,0,0,0,Negative,9,"context, spelling variation, or possible label ambiguity"
+Uss na sirf fight ki thi jani,Negative,0,1,2,2,2,2,Positive,7,"context, spelling variation, or possible label ambiguity"
+Galian dena to cocaine Niazi ki adat he,Neutral,1,1,1,0,1,0,Negative,8,"context, spelling variation, or possible label ambiguity"
+Jisy ALLAH rkhy usy kch nhi ho sakta,Positive,2,1,1,0,2,0,Negative,8,"context, spelling variation, or possible label ambiguity"
+lanate,Neutral,1,1,1,0,0,0,Negative,1,very short or ambiguous
+"Han main bhi krta hun,, PTCL BB aaraam say hojata hai",Positive,2,1,1,1,1,1,Neutral,11,"context, spelling variation, or possible label ambiguity"
+Man shidat se agli episode ka wait Kar Raha hon,Positive,2,1,1,1,1,1,Neutral,10,"context, spelling variation, or possible label ambiguity"
+Janab Hashir ko bata na paye class k baad.,Negative,0,1,1,1,1,1,Neutral,9,"context, spelling variation, or possible label ambiguity"
+apny andar se Ghuroor ki aadat ko mitta dena chahty ho,Positive,2,1,0,0,0,0,Negative,11,"context, spelling variation, or possible label ambiguity"
+1947 mein aap Fauj se mustafi ho kar wapis Lahore aa gaey aur 1959 mein Pakistan Arts Council mein Secratery taiynaat hue aur 1962 tak wahin par kaam kiya,Neutral,1,1,2,2,2,2,Positive,29,"context, spelling variation, or possible label ambiguity"
+ek aur ab new serial shuru karo raju rocket....,Neutral,1,1,2,2,2,2,Positive,9,"context, spelling variation, or possible label ambiguity"
+Haha sai baat ha,Positive,2,1,1,1,1,1,Neutral,4,"context, spelling variation, or possible label ambiguity"
+Commercial cinema par main kabhi itna maqbool nahi raha,Neutral,1,1,2,2,2,2,Positive,9,"context, spelling variation, or possible label ambiguity"
+Sb bhool gye aj ka match jeet gye hum,Negative,0,1,2,2,2,2,Positive,9,"context, spelling variation, or possible label ambiguity"
+Skin Saf Krny K Liye Honey Milk Or Dahi Mix Kijye Is Mixture Ko 15 Mint K Liye Skin Pr Laga Lijye Bad Mai Saf Pani Sy Dho Lijye,Positive,2,1,1,1,1,1,Neutral,29,Urdu-English code-switching
+Sory messngar ni ha,Neutral,1,1,0,0,0,0,Negative,4,"context, spelling variation, or possible label ambiguity"
+"Actress Laila ne kuch arsey qabal Lahore mien aik comedy serial ke Pilot mien hissa liya, magar wo dobara shuru na ho saka",Negative,0,1,2,2,2,2,Positive,23,mixed or contrasting opinion
+Tu chaya pra hai,Positive,2,1,0,0,0,0,Negative,4,"context, spelling variation, or possible label ambiguity"
+"Bus ab mein kuch bolon gi then i’ll be tagged as ‘self-obsessed’ so,bohat shikayaten krtay ho",Neutral,1,1,0,0,0,0,Negative,16,"context, spelling variation, or possible label ambiguity"
+Khair mobbarak apko bhi mobbarak,Neutral,1,1,2,2,2,2,Positive,5,"context, spelling variation, or possible label ambiguity"
+Mje b lana hn,Neutral,1,1,1,0,0,0,Negative,4,"context, spelling variation, or possible label ambiguity"
+Muhammad Ismail Muhammad Ismail Pak me kal subh ha Eid Ul Fittar,Positive,2,1,2,1,1,1,Neutral,12,"context, spelling variation, or possible label ambiguity"
+Yah hotay hain atticates or Manners Well Ali Khan Tareen Broo Yhii Farq he Ap main Or Baqion.,Positive,2,1,1,1,1,1,Neutral,18,"context, spelling variation, or possible label ambiguity"
+lekin uncle ne Jo b batein ki WO sab haqeeqat thi or unho ne hadeesO ki misaal de kr proof dia,Negative,0,1,2,2,2,2,Positive,21,mixed or contrasting opinion
+Hanif Muhammad ka moqif raha hai ke Abdul Hafeez Kardar ne unhein retirement lene par majbor liya,Negative,0,1,2,2,2,2,Positive,17,"context, spelling variation, or possible label ambiguity"
+Owsome work and awLa editing sharp very sharp perfect 100/100 :),Positive,2,1,1,1,1,1,Neutral,11,"context, spelling variation, or possible label ambiguity"
+Lfz possibl or mri soch milty julty hn.,Positive,2,1,1,1,1,1,Neutral,8,"context, spelling variation, or possible label ambiguity"
+somebody tell me why?,Negative,0,1,1,1,1,1,Neutral,4,informal expression or punctuation
+Gull dil k andar tha tha ho rahi :-P,Positive,2,1,1,1,1,1,Neutral,9,"context, spelling variation, or possible label ambiguity"
+Larky se,Neutral,1,1,1,0,2,0,Negative,2,very short or ambiguous
+Tum bool lo phir ...,Neutral,1,1,1,0,0,0,Negative,5,"context, spelling variation, or possible label ambiguity"
+Plz mjy kuch acha result anay ka batain mn nay last weak paper dy hn,Neutral,1,1,1,2,0,2,Positive,15,"context, spelling variation, or possible label ambiguity"
+Phone kiya KESC walay hazraat ko aur hal hawal pochnay k baad wajah light janay ki jana chahi to kuch Main Line k fault ki khahani sunay ko mili.,Neutral,1,1,0,2,2,2,Positive,29,"context, spelling variation, or possible label ambiguity"
+"Is mein koi shukk nahi ke is se pehle yunanis ko geography ka ilm tha, lekin musalmano ne jab is maidan mein qadam rakha to Europe mein geography ki hesiyat aik bholi basri kahani ki ho gait hi",Negative,0,1,2,2,2,2,Positive,38,mixed or contrasting opinion
+Sabar kejeay likhnay wala 70 Maon sy ziyada piyar karta hay,Positive,2,1,1,1,1,1,Neutral,11,"context, spelling variation, or possible label ambiguity"
+hahahahaha :D bohut allaw yar (Y),Positive,2,1,2,1,2,1,Neutral,6,"context, spelling variation, or possible label ambiguity"
+Is tarah wo aaj tak sab ke Lala he hain,Positive,2,1,2,1,1,1,Neutral,10,Urdu-English code-switching
+Tab aik sadabahar geet ne janam liya,Positive,2,1,1,1,1,1,Neutral,7,"context, spelling variation, or possible label ambiguity"
+Na he koi Khawab,Negative,0,1,0,1,1,1,Neutral,4,"context, spelling variation, or possible label ambiguity"
+😁😁👍,Positive,2,1,1,1,1,1,Neutral,1,very short or ambiguous
+Khanay Ki Ibtida Namak Sy Ki Jay Aur Khatam Bhi Isi Pr Krain Is Sy 70 Bemariyan Dafa Ho Jati Hy,Neutral,1,1,1,0,1,0,Negative,21,Urdu-English code-switching
+playboy q bnna hai. time nikal kr mr hi jao.,Negative,0,1,1,1,1,1,Neutral,10,"context, spelling variation, or possible label ambiguity"
+Q K Mafi Mangne K Bad B,Positive,2,1,1,1,1,1,Neutral,7,Urdu-English code-switching
+"Maflooj awam hai janab yeh ab,",Negative,0,1,0,1,1,1,Neutral,6,"context, spelling variation, or possible label ambiguity"
+ajwian. sonf. makao .kasni. sabz chaye 4ron chezain equal lain pees lain half spoon nashty k nd pani sy aur half rat ko pani sy lain.,Neutral,1,1,1,0,2,0,Negative,26,"context, spelling variation, or possible label ambiguity"
+"Action filmon mein un ki ""Mr and Mrs Smith, wanted salt"" aur Johnny Depp ke muqable mein film ""Tourist"" sab se ziyadah qabil e zikar hain",Positive,2,1,1,1,1,1,Neutral,26,Urdu-English code-switching
+Kutty k bacho yeh b koi khabar hai,Neutral,1,1,0,0,0,0,Negative,8,"context, spelling variation, or possible label ambiguity"
+Ap kamyab ban’na chahain gi ?,Neutral,1,1,1,2,2,2,Positive,6,informal expression or punctuation
+maza ah gya,Negative,0,1,2,2,2,2,Positive,3,very short or ambiguous
+Agr aadhi rat sy pehly mr gyi to pizza burger aur pepsi mihy bhijwa dena,Negative,0,1,1,1,1,1,Neutral,15,"context, spelling variation, or possible label ambiguity"
+Ghulam Ishaq Khan jabri retirement ke bad Peshwar mein gosh nashen ho gaye ow do saal musalsal bemar rahe,Negative,0,1,1,1,1,1,Neutral,19,Urdu-English code-switching
+me idhr b aisi hun apko islamabad ka shak pra rehta🤣,Positive,2,1,1,0,0,0,Negative,11,"context, spelling variation, or possible label ambiguity"
+Bgyrat khine k,Negative,0,1,1,1,1,1,Neutral,3,very short or ambiguous
+hahaha and your dialogue Tari kia life hai that amazing..... mai aksar apny dosto ko baat baat pay yahi kehta k tari kia life hai :P :D :P,Neutral,1,1,1,0,2,0,Negative,28,"context, spelling variation, or possible label ambiguity"
+In Sha Allah,Neutral,1,1,2,2,1,2,Positive,3,very short or ambiguous
+Hahahah drijh naa maan gad aan tosaan,Neutral,1,1,1,0,0,0,Negative,7,"context, spelling variation, or possible label ambiguity"
+"khobsorat itny ho kia bataon tum ko main,,,,,,,,,,tery aagye chand ki ye chandi kia cheeez hai",Positive,2,1,1,0,0,0,Negative,16,"context, spelling variation, or possible label ambiguity"
+Jab ke Tv par use sirf apne jumlon aur harkaat o saknat se shokh o chanchal nazar aana hoga,Neutral,1,1,2,2,2,2,Positive,19,"context, spelling variation, or possible label ambiguity"
+pata e hoga kon hai yeh,Neutral,1,1,1,0,0,0,Negative,6,"context, spelling variation, or possible label ambiguity"
+Rahnde bahn mujhy tou lugta hai k tmhari job mery reference se lagay gi,Neutral,1,1,1,0,0,0,Negative,14,"context, spelling variation, or possible label ambiguity"
+"Beharhal wo Bartaniya ki shehri hain aur abhi tak wo Baharat mein ""work visa"" par kaam karti hain",Neutral,1,1,1,0,1,0,Negative,18,"context, spelling variation, or possible label ambiguity"
+Hm knjr samjty han,Negative,0,1,1,1,1,1,Neutral,4,"context, spelling variation, or possible label ambiguity"
+"2001 mein computer game Tomb raider par bane wali film ""Lara corft, Tomb raider"" mein Lara Corft ka kirdar ada karne ke bad un ki maqboliyat mein herat angez izafa howa aur unhein action heroin ke tor par jana jane laga",Positive,2,1,2,1,1,1,Neutral,41,Urdu-English code-switching
+",bus ek baar yeh saraay post parrh lo",Negative,0,1,1,1,2,1,Neutral,8,"context, spelling variation, or possible label ambiguity"
+Yaaaay.. hm patly ho k careem k drivers ko bataya kren gu,Positive,2,1,1,1,2,1,Neutral,12,"context, spelling variation, or possible label ambiguity"
+Aj Karachi main bohut sardi ha,Negative,0,1,1,1,1,1,Neutral,6,"context, spelling variation, or possible label ambiguity"
+Allah.ho.aqbr,Neutral,1,1,2,2,2,2,Positive,1,very short or ambiguous
+Phir nh khna lgai nh,Negative,0,1,1,1,1,1,Neutral,5,"context, spelling variation, or possible label ambiguity"
+Ye kahin Reham khan k baad tumhari autobiography to nai hai?,Negative,0,1,1,1,1,1,Neutral,11,informal expression or punctuation
+Mr. Bhutto socialist na thay.,Negative,0,1,1,1,1,1,Neutral,5,"context, spelling variation, or possible label ambiguity"
+ghalllat,Neutral,1,1,1,0,0,0,Negative,1,very short or ambiguous
+Kal to Maara tha,Negative,0,1,1,1,1,1,Neutral,4,"context, spelling variation, or possible label ambiguity"
+Gilani jb hum kisi shadi m ja k bore hoty hen 😂😂,Neutral,1,1,0,0,0,0,Negative,12,"context, spelling variation, or possible label ambiguity"
+Is tago do mein bazon ko khasa kasht katna parta hai magar baz thori kawish ke bad manzil sar kar lete hain,Positive,2,1,1,0,0,0,Negative,22,mixed or contrasting opinion
+He is a test player not a t20,Negative,0,1,1,1,1,1,Neutral,8,Urdu-English code-switching
+"Azadana aur munsifana intekhabat karwane pare, awami numainde iqtedar ke ewanon mein pohanche aur Pervez Musharaf ka Chiragh gul ho gaya",Positive,2,1,0,0,0,0,Negative,21,"context, spelling variation, or possible label ambiguity"
+Haha.. Xhl ab tu Jan dy g betaa,Negative,0,1,1,1,1,1,Neutral,8,"context, spelling variation, or possible label ambiguity"
+plzz is dramay ko is dafa bhi chalaiyey ga,Neutral,1,1,1,0,1,0,Negative,9,Urdu-English code-switching
+out class desent bht din bad aaye hy ap,Positive,2,1,1,1,0,1,Neutral,9,Urdu-English code-switching
+"Ghazal Bahana Karo, Janaa Janaa aur Ae Ishq Junoon Pesha shamil hain",Positive,2,1,1,1,1,1,Neutral,12,"context, spelling variation, or possible label ambiguity"
+Aaj se ahuru krte hen,Neutral,1,1,0,0,1,0,Negative,5,"context, spelling variation, or possible label ambiguity"
+Squash ki Duniya key leyea bea taj Badsha aur tareekh key behtareen khelari Jahangir Khan 10 December 1963 key roze Karachi mein paida huae,Positive,2,1,2,1,1,1,Neutral,24,"context, spelling variation, or possible label ambiguity"
+Princes Charles se mangni ke elan ke sath hi Shahzadi Diana duniya bhar ke logon ki tawajah ka markaz ban gai thein.,Neutral,1,1,2,2,2,2,Positive,22,"context, spelling variation, or possible label ambiguity"
+"""Darust jawab Electra aap ka howa""",Neutral,1,1,2,2,2,2,Positive,6,"context, spelling variation, or possible label ambiguity"
+.ARY wale Zardari ko dekha rahe hai chutye k bache,Negative,0,1,1,1,1,1,Neutral,10,"context, spelling variation, or possible label ambiguity"
+Shukriya gift dene kay liay.,Positive,2,1,2,1,1,1,Neutral,5,"context, spelling variation, or possible label ambiguity"
+jab dheet pan ki intaha hoti tab yhi baki reh jata hai,Negative,0,1,1,1,1,1,Neutral,12,"context, spelling variation, or possible label ambiguity"
+Awami Jamhori Itehad Ko PTI Main Zam Krny Ka Faisala,Neutral,1,1,1,0,0,0,Negative,10,"context, spelling variation, or possible label ambiguity"
+Hahahaha sahi baat hae,Positive,2,1,1,1,1,1,Neutral,4,"context, spelling variation, or possible label ambiguity"
+NaWww janu wo to tow hai,Positive,2,1,1,1,1,1,Neutral,6,"context, spelling variation, or possible label ambiguity"
+is dunya mein burai achai...azal sey hai...abad tuk rahay gi...andhaira hai ujala hai....din hai raat hai.....laikin raat ki roshni kay lye chaand hai aur din kay lye suraj.Yahan fahaashi kay lye sazzaa kahan hai?,Negative,0,1,1,2,2,2,Positive,34,Urdu-English code-switching
+Ye halat dek kar Moje apni alaqi par pahar mihsos huta he alhamdulilah,Positive,2,1,1,0,1,0,Negative,13,"context, spelling variation, or possible label ambiguity"
+Is ke tazkare par in ke dilon ki dharkane do chaar lamhon ke liye zaroor taiz hoti hain,Neutral,1,1,2,2,2,2,Positive,18,Urdu-English code-switching
+Hahahahah bad kardyyy tu bi h saliii,Neutral,1,1,1,0,0,0,Negative,7,Urdu-English code-switching
+Question: Apni karkardagi ko behtar banane ke leye rozana kitne ghante practice karti hain?,Positive,2,1,2,1,1,1,Neutral,14,informal expression or punctuation
+6 sey baraber kerne mein kamyab ho gae they achanak Torsam ghutno ke bal gir pare woh mosalsal hanp rahe they kort ke samne do doctor aur aik nurse joy eh moqabla dekh rahe they foran Pakistani khelari ki tibbi imdad ke lea,Neutral,1,1,2,2,2,2,Positive,43,"context, spelling variation, or possible label ambiguity"
+Inho ne 1952 mein usi idarey ke liye attiyat jama karne ki khatir Telethon ka aaghaz kiya tha,Neutral,1,1,2,2,2,2,Positive,18,"context, spelling variation, or possible label ambiguity"
+PTV ke ibtedai daur mein inho ne Karachi markaz se Zia Mohyeddin Show ke zair e unwaan jo program pesh kiye un ki yaad aaj bhi logon ke dilon mein taza hai,Neutral,1,1,2,2,2,2,Positive,32,"context, spelling variation, or possible label ambiguity"
+Ab Khayal Rakhna Apna,Positive,2,1,1,1,1,1,Neutral,4,"context, spelling variation, or possible label ambiguity"
+Haha Lohy ka chhola,Negative,0,1,1,1,1,1,Neutral,4,"context, spelling variation, or possible label ambiguity"
+Inn ko Kia pata Islam Kia hai?,Negative,0,1,1,1,1,1,Neutral,7,informal expression or punctuation
+bus is main se ice cream hata do😂,Positive,2,1,0,0,0,0,Negative,8,Urdu-English code-switching
+Punjab University Lahore ki taraf se art teacher ke tor par muntakhib keye jane ke baad Anna Molka Ahmed apne shohar ke hamrah Amritsar se Lahore chali geinaur apne career ka baqaidah aghaz kiya.,Neutral,1,1,1,2,2,2,Positive,34,"context, spelling variation, or possible label ambiguity"
+Kill you👊,Negative,0,1,1,1,1,1,Neutral,2,very short or ambiguous
+ters aa raha hey us pay...yeh bhi batain kay usay aids kion hoa...kia us kay awara dost say hoa?,Negative,0,1,1,2,2,2,Positive,19,informal expression or punctuation
+Diyar e ghair mein basne wale in ke songs sunn kar apno ko yaad karte to in ki aankhon se aansoo rawaa’n ho jate,Positive,2,1,2,0,0,0,Negative,24,"context, spelling variation, or possible label ambiguity"
+Pipeline Bechany Me22 Mah Lag,Negative,0,1,0,1,1,1,Neutral,5,"context, spelling variation, or possible label ambiguity"
+ye dekh kr mjhe tu kyun yaad ayi 😂😂,Negative,0,1,1,1,1,1,Neutral,9,"context, spelling variation, or possible label ambiguity"
+.EIK AURAT KONA AAZOO BILLAHAZRAT MUHAMMAD S.A.W. KHAWAAB MEIN AA TE HAIN BASHARAT DE TE HAIN IMRAN BAAD KIDAAR QABEES SE SHAADI KAR LO AUR APNE HUSBAND SE TALAAQ LE LO.NA AAZOO BILLA.,Negative,0,1,1,2,2,2,Positive,33,"context, spelling variation, or possible label ambiguity"
+Hahahahhahaha... Chem to yad hni ni... To designer hi na ban jaon...,Positive,2,1,0,0,0,0,Negative,12,"context, spelling variation, or possible label ambiguity"
+Kiaa krna h mirrOr dekh kr bina dekhy bhi MashAllah nikalta h,Positive,2,1,1,1,1,1,Neutral,12,"context, spelling variation, or possible label ambiguity"
+"tum ho merii new meme partner, tum bhi padho",Positive,2,1,1,1,1,1,Neutral,9,"context, spelling variation, or possible label ambiguity"
+"Pir Pagara ka shumar mulk ki un muqtadir shakhsiyat mein hota tha, jo baik waqt siyasi, mazhabi, rohani aur hurriyat pasand halqon mein muatbbir hain",Neutral,1,1,2,2,2,2,Positive,25,"context, spelling variation, or possible label ambiguity"
+Aik msg b ni aya pora ramzan,Negative,0,1,1,1,1,1,Neutral,7,"context, spelling variation, or possible label ambiguity"
+Fojiyon ne un par fire khol deya,Negative,0,1,2,2,2,2,Positive,7,"context, spelling variation, or possible label ambiguity"
+Depp ke walid ki muaashi hesiyat ziyada mustehkim na thi,Negative,0,1,1,1,1,1,Neutral,10,"context, spelling variation, or possible label ambiguity"
+Plzzzzzzzz is drama ko khtm na karan,Neutral,1,1,1,0,0,0,Negative,7,Urdu-English code-switching
+"Haseen chehre aur dilkash khandokhal ki malik Katrina Kaif ko aam tor par sirf Bollywood adakara ke tor par phechana jata hai, jab ke unhon ne Telugu aur Malayalam zaban ki filmon mein bhi kaam kiya hai",Neutral,1,1,2,2,2,2,Positive,37,"context, spelling variation, or possible label ambiguity"
+Un ke kuch kherati kaam to duniya bhar ne dekhen hain,Neutral,1,1,2,2,2,2,Positive,11,"context, spelling variation, or possible label ambiguity"
+"Mazor aur mulhik amraz mein mubtala bachon se un ki mohabat ka ye alam tha ke sakht garmi mien din bhar ka safar kar ke Africa pohanchein aur aik hospital mien aik bache ka hath pakar kar kai ghante us ke pas beti rahein, jis ki donon tangein barodi surang se urh gai thein.",Positive,2,1,0,0,0,0,Negative,54,"context, spelling variation, or possible label ambiguity"
+Foot ki almi tanzem FIFA ne foot baal ke almi cup ke muqablon ke leye “rotation” ki policy ke tehat ye fasla kiya tha,Neutral,1,1,1,0,0,0,Negative,24,"context, spelling variation, or possible label ambiguity"
+Rana kbhi ao na khushboo lga k ☻,Neutral,1,1,1,2,2,2,Positive,8,"context, spelling variation, or possible label ambiguity"
+wo aik tu wo Murtadd dosra sari dunya mein na sirf Zina Karti phirti hea balkay media mein uss ki tashheer b karti hea.....,Negative,0,1,2,1,1,1,Neutral,24,"context, spelling variation, or possible label ambiguity"
+Agar Koi Aurat Yeh Chahati Ho Ky Us Viladat Mein Asani Ho Tu Usko Chahiye Ky Rozana 1 Baar Surah Zaariyat Parhy,Neutral,1,1,1,2,2,2,Positive,22,"context, spelling variation, or possible label ambiguity"
+Basa Hy Kon Tairy Dil Mein Gull E Badan Ay DARD,Positive,2,1,1,0,2,0,Negative,11,"context, spelling variation, or possible label ambiguity"
+bhai mujhe apne baba k liye kuch batain har waqt ghar main larai hoti ha mama baba bohat larte han koi aisi cheez jo main khud perh sakhun jis se ye har waqt ki larai khatam hojaye or mere baba k karobar pr bhi jadoo krwaya hoa ha mere mamo ne maloom krwaya tha,Negative,0,1,1,2,2,2,Positive,54,"context, spelling variation, or possible label ambiguity"
+galy main drd ho to btana,Neutral,1,1,1,0,0,0,Negative,6,"context, spelling variation, or possible label ambiguity"
+95/ paise pe Marti hai,Neutral,1,1,1,0,1,0,Negative,5,"context, spelling variation, or possible label ambiguity"
+Chutti k waqt ja k nikal laye apne circuits.,Neutral,1,1,1,0,0,0,Negative,9,"context, spelling variation, or possible label ambiguity"
+Gf mil gayi tere bhai Ko,Positive,2,1,1,1,1,1,Neutral,6,"context, spelling variation, or possible label ambiguity"
+Be Sakhta Aanso Nekal Pary Tera Haal Pochty Pochty,Negative,0,1,1,1,1,1,Neutral,9,"context, spelling variation, or possible label ambiguity"
+MASHALLAH ..ALLAH PAK BURI NAZR SY BACHY,Neutral,1,1,2,2,2,2,Positive,7,"context, spelling variation, or possible label ambiguity"
+In ki film Dil Aashna Hai late ho gai aur in ki dosri fil Dewana 1992 mein release ho gai jis mein inho ne Devya Bharti ke maqabil aur Rishi Kapoor ke sath sanvi Hero ke taur par kaam kiya tha,Neutral,1,1,1,2,2,2,Positive,41,Urdu-English code-switching
+Agarcha Farooq Sheikh us waqt law college he mien zer e taleem the,Neutral,1,1,1,2,2,2,Positive,13,Urdu-English code-switching
+"Goliyon ki barsat ke doran Havaldar Lalak Jan Shaheed ki company ke quaid, Sobedar Sikandar ne unhen kaha ke wo tiger hill se neche utrein aur bharti fojiyon ke raste main barodi surangein bicha dein",Negative,0,1,2,2,2,2,Positive,35,"context, spelling variation, or possible label ambiguity"
+Ata h ne ata h ??,Neutral,1,1,2,2,2,2,Positive,6,informal expression or punctuation
+Kuch aur log mere khandaan mein Bhatti mein rehte hain.,Neutral,1,1,2,2,2,2,Positive,10,"context, spelling variation, or possible label ambiguity"
+"Ashfaq Ahmed ne apne kaam ke hawale se jahan dunya bhar se daad sameti, wahe ek makhsoos halqe ki taraf se in par khasi tanqeed bhi hui",Negative,0,1,2,2,2,2,Positive,27,"context, spelling variation, or possible label ambiguity"
+Angrezon ne apni makhsoos hikmat e amli ke tehat Sindh ko Bombay ke sath mila diya tha,Negative,0,1,2,2,2,2,Positive,17,"context, spelling variation, or possible label ambiguity"
+Plz hr episode ka promo b upload kiya kryn,Neutral,1,1,1,0,0,0,Negative,9,"context, spelling variation, or possible label ambiguity"
+another choir dako,Neutral,1,1,1,0,0,0,Negative,3,very short or ambiguous
+Riyasat Colorado ke shehar Denver mein dehi aur qudrati husun se bharpor ilaqey mein palne barhne wali Condoleezza Rice ne 1974 mein 19 saal ki umar mein political science mein graduation kar liya,Positive,2,1,1,1,1,1,Neutral,33,"context, spelling variation, or possible label ambiguity"
+Aik election se out hona means Ap uss constituency se out hjao gay..,Negative,0,1,1,1,1,1,Neutral,13,"context, spelling variation, or possible label ambiguity"
+No never jhot he,Neutral,1,1,1,0,0,0,Negative,4,"context, spelling variation, or possible label ambiguity"
+aaao happy ko judge kertay hain,Neutral,1,1,0,0,0,0,Negative,6,"context, spelling variation, or possible label ambiguity"
+Kisi ne koi oder kia ha jis ko order mila ho plz apna experiance share karain ta k pata chal sakay k kapra kesa ha or same chez milti ha ya fake ha.,Neutral,1,1,1,0,0,0,Negative,33,"context, spelling variation, or possible label ambiguity"
+q k me b is qhom ka ek fard un am sab ka zimadari k apni behn ki rehai k le ar foram me koshish...,Neutral,1,1,1,2,2,2,Positive,25,Urdu-English code-switching
+tujhay apnay kuch dost bohat shareef lagtay thay,Neutral,1,1,2,2,2,2,Positive,8,"context, spelling variation, or possible label ambiguity"
+Thanks 8 bjy krne ka but aik suggestion ha repeat b kren drama ko chahe shaam ma kren but kren or repeat chahe Ramzan k baad hi start kren but daramo ko repeat b kiya kren,Positive,2,1,1,1,1,1,Neutral,36,mixed or contrasting opinion
+Bushra Ansari ne Geo films ki Abhi to Main Jawan hon mein bhi aik dilchasp role play kiya tha,Neutral,1,1,1,2,2,2,Positive,19,"context, spelling variation, or possible label ambiguity"
+Iss mein koi burai nahi,Positive,2,1,2,0,2,0,Negative,5,"context, spelling variation, or possible label ambiguity"
+hmmm jb likes chahiyen toh video pe video bnatey hey or request karte hey ke like us,Negative,0,1,1,1,1,1,Neutral,17,"context, spelling variation, or possible label ambiguity"
+ECP Me Imran Khan Na Ahli Case Ki Samaat Chairman PTI 22 Dec Ko Talab,Neutral,1,1,1,0,0,0,Negative,15,"context, spelling variation, or possible label ambiguity"
+Namaz ka mazak na banye pliz,Negative,0,1,1,2,2,2,Positive,6,"context, spelling variation, or possible label ambiguity"
+Bardasht Buzdili Nahi Balkyn Bardasht Zindagi Ki Aik Aham Aosol Hein,Positive,2,1,0,0,0,0,Negative,11,"context, spelling variation, or possible label ambiguity"
+Likh Kr Aur Network Say Follow KarKay Fori News Hasil Karen,Positive,2,1,1,1,1,1,Neutral,11,"context, spelling variation, or possible label ambiguity"
+Zameen se mutalliq in ka khayal tha ke wo ball ki tarah hai aur aasman ke wast mein waqey hai,Neutral,1,1,2,2,1,2,Positive,20,"context, spelling variation, or possible label ambiguity"
+"Usi zamane mein Baba Chishti, Feroz Nizami, Robin Ghosh, Master Abdullah, Suhail Rana aur Hassan Latif bhi apne fan ke johar dekha rahe the",Neutral,1,1,2,2,2,2,Positive,24,Urdu-English code-switching
+Boxing mein maharat ki wajah se un ke sathi unhen Pakistani Muhammad Ali ke naam se pukarte the,Neutral,1,1,2,2,2,2,Positive,18,Urdu-English code-switching
+haye mere allah,Neutral,1,1,1,2,2,2,Positive,3,very short or ambiguous
+21 bar surah faitha parha 47 bar bismmillah parh k gir gira k dua kr k dam kara jider darat ga or dam kr k pani piya subha sham dart ni raha ga inshallah,Neutral,1,1,1,2,2,2,Positive,34,"context, spelling variation, or possible label ambiguity"
+Is k sir kalam kardiya jaha,Negative,0,1,1,1,1,1,Neutral,6,Urdu-English code-switching
+Han han mene kardiya aunty apka thankew,Neutral,1,1,1,2,2,2,Positive,7,"context, spelling variation, or possible label ambiguity"
+peche khre log maze le rahe hain :D,Negative,0,1,1,1,2,1,Neutral,8,"context, spelling variation, or possible label ambiguity"
+Fifa mere birthday p? sahii baat haii,Neutral,1,1,1,2,2,2,Positive,7,informal expression or punctuation
+chl ajao 9th ki teacher k pass chlte or ye gaattee,Neutral,1,1,1,0,0,0,Negative,11,"context, spelling variation, or possible label ambiguity"
+bhai nhi baji kaho :D :D,Negative,0,1,1,1,1,1,Neutral,6,"context, spelling variation, or possible label ambiguity"
+Anyaa ye tm.ne kha tha mjhe😂😂😂❤💋,Positive,2,1,1,1,1,1,Neutral,6,"context, spelling variation, or possible label ambiguity"
+"Allah ka wasta hy aap sub ko akshan ly,",Neutral,1,1,0,2,2,2,Positive,9,"context, spelling variation, or possible label ambiguity"
+Phone kr meri ami ko,Neutral,1,1,1,2,1,2,Positive,5,"context, spelling variation, or possible label ambiguity"
+Main sab se ziada,Positive,2,1,1,1,1,1,Neutral,4,"context, spelling variation, or possible label ambiguity"
+Sajid Karim ka Nam hi Kafi Hai HaTerx k Liee:DAdd CloXe Me DONE JanuPoWer By Sajid Karim,Neutral,1,1,2,2,2,2,Positive,17,"context, spelling variation, or possible label ambiguity"
+Ki Qasmein Khaye Us Par,Negative,0,1,1,1,1,1,Neutral,5,"context, spelling variation, or possible label ambiguity"
+jis k bhut sy faeedy mily m kuch us k baary m likhna chahta hoo .,Positive,2,1,1,1,1,1,Neutral,16,"context, spelling variation, or possible label ambiguity"
+atiya nisar,Positive,2,1,1,1,1,1,Neutral,2,very short or ambiguous
+Tareef Kiya Huwa,Positive,2,1,2,1,2,1,Neutral,3,very short or ambiguous
+Gussa kis BT p such such hota hai,Negative,0,1,1,1,0,1,Neutral,8,"context, spelling variation, or possible label ambiguity"
+Shabash khabeesni ..sahi boli aik dum !!,Positive,2,1,0,0,0,0,Negative,7,informal expression or punctuation
+Kahen sir badly na len kl,Negative,0,1,1,1,1,1,Neutral,6,"context, spelling variation, or possible label ambiguity"
+November 1997 main jab us waqt ke hukmaran General Parvez Musharraf ne Amergency lagai to Musharraf ke siyasi mukhalfeen ke jalson main Habib Jalib ki shaiyri dilon ko garmane ke liye parhi jati thi,Positive,2,1,1,1,1,1,Neutral,34,"context, spelling variation, or possible label ambiguity"
+Kohala amp Abbasiya K Darmiyan Landslidding,Negative,0,1,1,1,1,1,Neutral,6,"context, spelling variation, or possible label ambiguity"
+meri bal bht jhr gai hi or kafi gape aa gya hi aap aisa koi totka btai js si bal fr si aajai plz,Negative,0,1,1,2,0,2,Positive,24,"context, spelling variation, or possible label ambiguity"
+thanks to parents,Positive,2,1,1,1,1,1,Neutral,3,very short or ambiguous
+Wasail ki kami aur doston ke adam tawan ki wajah se sawa 5 rupe mein Jilani Niyazi ko farokht kar deya,Negative,0,1,0,2,2,2,Positive,21,"context, spelling variation, or possible label ambiguity"
+Ye Pakistan ki phli rangeen film thi,Neutral,1,1,1,2,2,2,Positive,7,Urdu-English code-switching
+Ik bar hi pehne aur kaam tamam ho gya,Negative,0,1,1,2,2,2,Positive,9,"context, spelling variation, or possible label ambiguity"
+aisi videos yaar. So creative,Positive,2,1,1,1,1,1,Neutral,5,"context, spelling variation, or possible label ambiguity"
+"Thatta ke qarib unho ne hatmi faisla kiya aur Hindustani border se 32 meel door Shaheed Dero ke maqam par tayyarey ka rukh zameen ki taraf kar ke takra diya, lekin unho ne dushman ki hudood mein dakhil na hone diya",Positive,2,1,1,0,0,0,Negative,41,mixed or contrasting opinion
+Aatay rahain gay aur waqiaat k saath.,Neutral,1,1,1,0,0,0,Negative,7,"context, spelling variation, or possible label ambiguity"
+Krna he chiye,Neutral,1,1,1,0,0,0,Negative,3,very short or ambiguous
+Fitay muh,Negative,0,1,1,1,2,1,Neutral,2,very short or ambiguous
+PIA Ka Maah e Ramzan K Doraan Andron e Mulk Parwazon K Kirayon Me 20 Feesad Kami Ka Elaan,Positive,2,1,0,0,0,0,Negative,19,"context, spelling variation, or possible label ambiguity"
+Cheel,Neutral,1,1,1,0,0,0,Negative,1,very short or ambiguous
+Oye insan ban,Negative,0,1,1,1,1,1,Neutral,3,very short or ambiguous
+you know hum ma aisy guts Ni hain 😂😂,Negative,0,1,1,1,1,1,Neutral,9,"context, spelling variation, or possible label ambiguity"
+Tahum tawalat se ziyada in ki nazar kirdar ki mauzoniyat aur aehmiyat par hoti thi,Neutral,1,1,1,2,2,2,Positive,15,"context, spelling variation, or possible label ambiguity"
+Bas galat vote na daal dena mulk ka sawal ha,Positive,2,1,1,0,0,0,Negative,10,"context, spelling variation, or possible label ambiguity"
+1973 mein hosol e raozgar aur behtar mashi mustaqbil ka khawab ankhon mein sajaye ye gabro jawan Queeta se Lahore mumtaqil ho gaya,Neutral,1,1,2,2,2,2,Positive,23,"context, spelling variation, or possible label ambiguity"
+kyun ke khawateen par hone wala tashdud khawateen ki taraqi mein rukawat ka bais banta hai,Negative,0,1,2,2,2,2,Positive,16,"context, spelling variation, or possible label ambiguity"
+Ni ni krna mujyyyy,Neutral,1,1,1,0,0,0,Negative,4,"context, spelling variation, or possible label ambiguity"
+tujhe dhakay de ke nikalungi ghr se..,Negative,0,1,1,1,1,1,Neutral,7,"context, spelling variation, or possible label ambiguity"
+Miss shah. Tiddda lag rhe hain aaap..,Negative,0,1,1,1,1,1,Neutral,7,"context, spelling variation, or possible label ambiguity"
+Lagta ha ap tax pay ni krti,Neutral,1,1,1,0,0,0,Negative,7,"context, spelling variation, or possible label ambiguity"
+teri bhabi k pchy pta ni kya kya keh ry h,Negative,0,1,1,1,1,1,Neutral,11,"context, spelling variation, or possible label ambiguity"
+Hamary Azeez Tahir (Electrical walay) k alfaaz main Aaj ka din Bhand+bhand=bhand Umeed hai kisi ko kabhi bhi aisa din na dekhna paray.,Negative,0,1,1,2,2,2,Positive,23,"context, spelling variation, or possible label ambiguity"
+Apny Khany aor Bistary Samet Apny Qaribi Markaz Asar Say Pehly Tashreef Layen,Neutral,1,1,0,2,2,2,Positive,13,"context, spelling variation, or possible label ambiguity"
+2004 mein Jaya ne Rampur ke set se aam intekhabat mein hissa liya aur 85000 votes ki bartari se kamiyabi hasil ki,Neutral,1,1,2,2,2,2,Positive,22,"context, spelling variation, or possible label ambiguity"
+Ya Allah is badmaash molve say Pakistan ko bacha lay,Neutral,1,1,2,0,0,0,Negative,10,Urdu-English code-switching
+O bya ba ase yaw chakar owakhoo pake,Neutral,1,1,0,0,0,0,Negative,8,"context, spelling variation, or possible label ambiguity"
+"Kashti Chalti Nhe Chalani Parti hy,,,, wah wah wah wah LARKI Phansti Nhe Phnsani parti hy.... hahahahahaha...",Neutral,1,1,2,0,0,0,Negative,17,"context, spelling variation, or possible label ambiguity"
+Hahahaha meri trf se b uncle aunty ka dhanaywaad😝😝,Positive,2,1,1,1,1,1,Neutral,9,"context, spelling variation, or possible label ambiguity"
+agarchay bunyadi taur per woh kharja amoor mein dilchaspi rakhtay thay,Neutral,1,1,2,2,2,2,Positive,11,"context, spelling variation, or possible label ambiguity"
+Rehna de phala hi itna prhatay hn,Neutral,1,1,1,0,0,0,Negative,7,"context, spelling variation, or possible label ambiguity"
+Robot ka kaam mukammal nahi huwa tha.,Negative,0,1,1,2,2,2,Positive,7,"context, spelling variation, or possible label ambiguity"
+Zila Sergodha mein un dino Uninest parti ka bara zor tha lakin Ahmed Nadeem Qasmi ne us ke moqabil Muslim leag ki tanzeem o tosi mein barh char ker hissa leya,Neutral,1,1,1,0,0,0,Negative,31,mixed or contrasting opinion
+tu pakki abnormal hai,Negative,0,1,1,1,1,1,Neutral,4,"context, spelling variation, or possible label ambiguity"
+next time mera or tumhara aisi phada hone wala ha media per,Negative,0,1,1,1,1,1,Neutral,12,"context, spelling variation, or possible label ambiguity"
+44700 Rupe Ka Hogia Mazeed Kami Ka Imakan,Negative,0,1,2,2,2,2,Positive,8,"context, spelling variation, or possible label ambiguity"
+Haan na ho gya ha opposite fsc mai itna parhti thi ma,Negative,0,1,1,1,1,1,Neutral,12,"context, spelling variation, or possible label ambiguity"
+Hr ik parcham sa uoncha parcham e Islam ho jaya,Positive,2,1,1,1,1,1,Neutral,10,"context, spelling variation, or possible label ambiguity"
+Saal ke bare mein ikhtelaf paya jata hai,Negative,0,1,1,1,1,1,Neutral,8,"context, spelling variation, or possible label ambiguity"
+Aap ki zuban aap ki shkhsiyat aur khandan ka pta deti hai,Negative,0,1,1,1,0,1,Neutral,12,"context, spelling variation, or possible label ambiguity"
+Nationality Nahin Chor Sakta,Positive,2,1,0,0,0,0,Negative,4,"context, spelling variation, or possible label ambiguity"
+Ager India may redcarpet show hoota hai,Neutral,1,1,1,0,0,0,Negative,7,"context, spelling variation, or possible label ambiguity"
+Jo is se pehle dekhne mein nahi aai thi,Positive,2,1,1,1,1,1,Neutral,9,Urdu-English code-switching
+Ptq ni ab set krengy ya khud set hongy😔,Positive,2,1,1,1,1,1,Neutral,9,"context, spelling variation, or possible label ambiguity"
+Yeh agar in logo ko samajh aaye to bahter rahega,Neutral,1,1,1,0,0,0,Negative,10,"context, spelling variation, or possible label ambiguity"
+Muhabt tm se nafrat hy,Neutral,1,1,0,0,0,0,Negative,5,"context, spelling variation, or possible label ambiguity"
+Bohut laambii kurdi hey iss mey thora c short vedio bana liya kur yaaar Orr ye mootu ko bolo kum muskuraya karey... baaqi,Neutral,1,1,1,0,2,0,Negative,23,"context, spelling variation, or possible label ambiguity"
+50 sal be guzar jainge pher be yahe hal hoga,Neutral,1,1,1,0,0,0,Negative,10,"context, spelling variation, or possible label ambiguity"
+"Inho ne liyari ke logon ko basane ke liye 12 villages basane ka mansooba pesh kiya aur 1 village namone ke taur par tameer karne ke liye apni janib se 1 lakh 75 hazar rupey ki raqam pesh ki, lekin baldiya is se istefada na kar saki",Negative,0,1,2,2,2,2,Positive,47,mixed or contrasting opinion
+Aaj Raat Mulk Mein Barishon Ka New Silsila Dakhil Hoga Jo Aainda 3 Roz Balochistan KPK Aur Balai Panjab Ka Kuch Jaga Barish De Ga,Neutral,1,1,0,0,0,0,Negative,25,"context, spelling variation, or possible label ambiguity"
+aap dono decide kr ln or aik koi rkh lo isay . LRNA NAI DONO,Negative,0,1,1,1,1,1,Neutral,15,"context, spelling variation, or possible label ambiguity"
+jesy combine india main hum ny separate election ki demand ki thi.,Neutral,1,1,1,0,0,0,Negative,12,"context, spelling variation, or possible label ambiguity"
+Hahahaha bilkul same asy hi bolna hai hum ny sir zohaib k subjects mein,Negative,0,1,1,1,1,1,Neutral,14,"context, spelling variation, or possible label ambiguity"
+"bt ap public py kr rhy hBakol k "" bhai jamoriat ha """,Neutral,1,1,1,0,0,0,Negative,13,"context, spelling variation, or possible label ambiguity"
+Courier ka behave acha nahi tha but higneck is ok.,Neutral,1,1,1,0,0,0,Negative,10,mixed or contrasting opinion
+Jab tk dua nahi hoti,Neutral,1,1,1,2,2,2,Positive,5,"context, spelling variation, or possible label ambiguity"
+Beshak WaalaikumAssalam App Sab ko bhi jumma Mubarak InshaAllah Zaror dua main yad rakhe gy,Neutral,1,1,2,2,2,2,Positive,15,"context, spelling variation, or possible label ambiguity"
+Mulk mein ayenda jamhuriyat ko farog daynay kay leye unhon nay apas mein mulaqaton ka aik silsila shuru keya jo ARD kay qayam par muntahij huwa,Positive,2,1,1,1,1,1,Neutral,26,"context, spelling variation, or possible label ambiguity"
+TitT LiYaan Mandlarhi Hein Kanch K Gulldaan Par lt,Positive,2,1,0,0,0,0,Negative,9,"context, spelling variation, or possible label ambiguity"
+hahhahahahha me bhi bolti hn rk,Positive,2,1,0,1,2,1,Neutral,6,"context, spelling variation, or possible label ambiguity"
+Miyan Mohammad Bakhash Lahore ke mashor tajir the aur Inayat Hussain Bhatti ke qarebi dost bhi the,Neutral,1,1,2,2,2,2,Positive,17,Urdu-English code-switching
+Jin Par 673 Mard Aur Khawateen K Polling Both Qaim Kiye Gaye Hain,Neutral,1,1,2,2,2,2,Positive,13,"context, spelling variation, or possible label ambiguity"
+Muraad saeed bai nazar nai aa rahy aaj kl,Positive,2,1,1,0,0,0,Negative,9,"context, spelling variation, or possible label ambiguity"
+Dosra Salman taseer isko b koi qadri chayay,Positive,2,1,1,1,1,1,Neutral,8,"context, spelling variation, or possible label ambiguity"
+Insn b Ni Socho musalamano lagao tukay Dastar khan,Negative,0,1,1,2,2,2,Positive,9,"context, spelling variation, or possible label ambiguity"
+"Yeh woh zamana tha jab Arman key bad Dauraha, Ahsan, Dewar Bhabi aur Dil Mera Dharken Teri kamyabi key jhandey gar chuki thein aur Hero number wan key tour par Waheed Murad ka maqam mateen ho chukka tha",Neutral,1,1,1,0,0,0,Negative,38,Urdu-English code-switching
+Aaj khwaroon k badshah salamat ne naye bachay log k sath class li.,Neutral,1,1,1,0,1,0,Negative,13,"context, spelling variation, or possible label ambiguity"
+Ye geya bhe bas Allah mfi,Negative,0,1,0,2,1,2,Positive,6,"context, spelling variation, or possible label ambiguity"
+"Question : Family mein aap ko dekh kar kisi ne squash shuru ki ya bhai waghairah ka rujhan parhai ki taraf hai?Nasir Iqbal : Hum Masha Allah 7 behan bhai hain, mere bare bhai Tahir Iqbal ne shoqiya squash zaror kheeli thi a",Neutral,1,1,2,2,2,2,Positive,43,informal expression or punctuation
+Condoleezza Rice ko ben ul aqwami talluqat se mutalliq aeham mauzoaat par behtareen maqaley tehreer karne ka aezaaz bhi hasil hai,Neutral,1,1,2,2,2,2,Positive,21,"context, spelling variation, or possible label ambiguity"
+Yar KPK main kisi ki dosri bari nahin ati lakin khan na itna kaam kiya hain k wo pehla sa bohat zyada vote sa jeta ga tum dekh lena,Positive,2,1,1,0,2,0,Negative,29,mixed or contrasting opinion
+Shadi say phelaye ki eid aisi hoti thi,Positive,2,1,1,0,0,0,Negative,8,"context, spelling variation, or possible label ambiguity"
+Gulraiz ko khalna he nai chahye tha,Neutral,1,1,1,0,1,0,Negative,7,"context, spelling variation, or possible label ambiguity"
+Rangers Ku Polling Stations K Andar Janay Ka Ikhtiyar Mil Gaya,Neutral,1,1,0,0,0,0,Negative,11,"context, spelling variation, or possible label ambiguity"
+yaar papers mein kion concert hotay hain. L O S S,Negative,0,1,1,1,1,1,Neutral,11,"context, spelling variation, or possible label ambiguity"
+"tv drammas mein itna khuchh bakwas ho raha hai aur pabandi sirf lafz""talaq"" pr , wah kya bat hai pti walon ki",Negative,0,1,2,2,2,2,Positive,22,"context, spelling variation, or possible label ambiguity"
+uncle ko tag kron.?,Positive,2,1,1,1,1,1,Neutral,4,informal expression or punctuation
+Huuufff had goose bumps fantabulous performance by all of u,Negative,0,1,1,2,1,2,Positive,10,"context, spelling variation, or possible label ambiguity"
+Oh sorry saman apko tag nahi karna tha,Positive,2,1,1,1,1,1,Neutral,8,"context, spelling variation, or possible label ambiguity"
+Ghar ki baaat ghar mei hy rehny do :/,Neutral,1,1,1,0,1,0,Negative,9,"context, spelling variation, or possible label ambiguity"
+yep ... u guys did great job while entering with dhol dhamaka,Neutral,1,1,2,2,2,2,Positive,12,"context, spelling variation, or possible label ambiguity"
+Pti ke jialo ko bhi jhatka hahahha,Negative,0,1,1,1,1,1,Neutral,7,"context, spelling variation, or possible label ambiguity"
+Mein Sirf 50 Payment Pr Shop K Malik Banye Baqaya Kama K Ada Kijea,Positive,2,1,1,1,1,1,Neutral,14,"context, spelling variation, or possible label ambiguity"
+Bilkul thehk.,Positive,2,1,1,1,1,1,Neutral,2,very short or ambiguous
+Roushan ke bare sahebzade Torsam Khan bhi aik bahot achche khelari thay magar woh apne career ke orooj per hi iss jahan fani se kooch ker gaye jo un ke kahndan ke liye balke poore mulk ke liye aik na gehani hadsa tha,Neutral,1,1,2,0,0,0,Negative,43,mixed or contrasting opinion
+That's great😂,Neutral,1,1,2,2,2,2,Positive,2,very short or ambiguous
+MA karne ke bad aap Englistan chale gaey aur Cambridge University se Angrezi Adab mein degree hasil ki,Positive,2,1,1,1,1,1,Neutral,18,Urdu-English code-switching
+Badshah salamat: sorry sir agar disturbance huwi to,Negative,0,1,1,1,1,1,Neutral,8,"context, spelling variation, or possible label ambiguity"
+Hazar hasbnd hongy os k,Negative,0,1,1,1,1,1,Neutral,5,"context, spelling variation, or possible label ambiguity"
+Katrina ne 14 saal ki umar mein Hawaii mein aik muqabla e husan jeetne ke bad modling ke raste se showbiz ki duniya mein qadam rakha tha,Neutral,1,1,2,2,2,2,Positive,27,Urdu-English code-switching
+Prda jo uth gya to,Neutral,1,1,0,0,0,0,Negative,5,"context, spelling variation, or possible label ambiguity"
+Wo logon ke sath khilwar nahi karte.,Positive,2,1,1,1,1,1,Neutral,7,"context, spelling variation, or possible label ambiguity"
+Otherwise fb pe kuch ni hota,Neutral,1,1,1,0,0,0,Negative,6,"context, spelling variation, or possible label ambiguity"
+lagwa ley ga pyaar chahta hai tumhara bsss,Positive,2,1,1,0,2,0,Negative,8,"context, spelling variation, or possible label ambiguity"
+Uncle ko suna di end mein :p,Negative,0,1,1,1,1,1,Neutral,7,"context, spelling variation, or possible label ambiguity"
+Khas tor par “hum dil de chuke sanam” ke bad Ashwariya Ray ke sath un ki dosti ka media ne khob charcha kiya lekin 2002 mein un ke taluqat talkhi par khatam howae aur Ashwariya Ray ne Salman khan par hirasan karne ka ilzam bhi lagaya,Negative,0,1,2,2,2,2,Positive,46,mixed or contrasting opinion
+Muharram Me 342 Imam Bargaho Me Se 61 Hassas Qarar 17558 Police Ahalkar 646 Van Or 426 Biker Pr Ahalkar Security Sambhalay Ge,Positive,2,1,0,0,0,0,Negative,23,"context, spelling variation, or possible label ambiguity"
+Zabardast. Aor baz ghaddar to is kiliy hokomat aati hi wazarat diniy ki batiy karti hai,Neutral,1,1,2,0,0,0,Negative,16,Urdu-English code-switching
+"Fitrat ka sacha aks hai lekin samaj ki bereham zanjeron mein jakri hoi bhi hia, aala martabe ki haq dar hai magar paon ki joti samjhi jati hai, sarapa rehm o karam hone ki bona par boriyat ka roop hai magar zamana is se larzan bhi hai, sadyon se zulm o sitam ka takhta e mashak hai lekin sabar ka pahar bhi hai",Negative,0,1,2,2,2,2,Positive,63,mixed or contrasting opinion
+Kitna piyara or saaf he Gujranwala,Positive,2,1,0,0,1,0,Negative,6,"context, spelling variation, or possible label ambiguity"
+Azeem uret dakhni h tu jamima ko dakho husband ki ezt kasy kerty us uret sy seekho,Positive,2,1,1,1,1,1,Neutral,17,"context, spelling variation, or possible label ambiguity"
+ya marium ki cachie hy,Neutral,1,1,1,0,1,0,Negative,5,"context, spelling variation, or possible label ambiguity"
+Dig ad khawaja say guzarish hai kay usko job say saspant karen,Negative,0,1,1,1,1,1,Neutral,12,"context, spelling variation, or possible label ambiguity"
+Karkunan Ki Badi Tadad Pohonchna Shuru,Neutral,1,1,0,0,0,0,Negative,6,"context, spelling variation, or possible label ambiguity"
+Hahaha :D Kash Allah mian gheebat pe gunah na rakhty... ;-P,Neutral,1,1,1,0,0,0,Negative,11,"context, spelling variation, or possible label ambiguity"
+ya ALLAH aunty ka NIC gum hojae 24 july ko aur 14 August ko mile,Negative,0,1,1,1,1,1,Neutral,15,"context, spelling variation, or possible label ambiguity"
+Battery nikal letay,Negative,0,1,1,1,0,1,Neutral,3,very short or ambiguous
+Punjab ke loug use bhi nahe karte woh.,Negative,0,1,1,1,1,1,Neutral,8,"context, spelling variation, or possible label ambiguity"
+Baz uqat unhon ne kai kai saal tak koi kaam nahi kiya,Neutral,1,1,0,0,0,0,Negative,12,"context, spelling variation, or possible label ambiguity"
+17 August 1988 General Zia ul Haq ki hadsati maut kay baad munaqid honay wali 1988 kay intekhabaat mein Pakistan People’s Party nay numaya kamyabi hasil ki aur 34 saal ki umar mein Benazir Bhutto Pakistan ki tareekh ki kam umar tareen Wazeer-e-Azam ban gayein,Positive,2,1,1,1,1,1,Neutral,45,"context, spelling variation, or possible label ambiguity"
+Main nay tho bol daina hai college itna stressful hota hai,Negative,0,1,1,1,1,1,Neutral,11,"context, spelling variation, or possible label ambiguity"
+sari ghalati e uncle auntie ki hai..haha 😂😂😂,Negative,0,1,1,1,0,1,Neutral,8,"context, spelling variation, or possible label ambiguity"
+chal kuttay shafi,Neutral,1,1,0,0,0,0,Negative,3,very short or ambiguous
+Quaid e Azam ko bhi Chundrigar ki shakhsiyat par mukammal aitemad Ibrahim Ismail Chundrigar ne 26 September 1960 ko Karachi mein wafaat paai,Negative,0,1,2,2,2,2,Positive,23,"context, spelling variation, or possible label ambiguity"
+Farishte Likh Rahe Hain,Positive,2,1,1,1,1,1,Neutral,4,"context, spelling variation, or possible label ambiguity"
+Karachi K Hawalay Se Ehem Mulaqatein Bhi Mutawaqa,Negative,0,1,2,2,2,2,Positive,8,"context, spelling variation, or possible label ambiguity"
+Allah k yahan deer hay undheer nahi. Zulum ka badla zaroor milay ga. Insha Allah.,Negative,0,1,0,2,0,2,Positive,15,"context, spelling variation, or possible label ambiguity"
+Ate jate hukumranon ne adliya ko apne maqasid ke leye istemal karna chaha,Negative,0,1,2,2,1,2,Positive,13,"context, spelling variation, or possible label ambiguity"
+1942 mein aap Fauj mein Captian ki hesiat se shamil ho gaey aur Mehakmae Talluqaat aama mein kaam kiya,Neutral,1,1,1,2,2,2,Positive,19,"context, spelling variation, or possible label ambiguity"
+smjh tou gaye hongay aap,Neutral,1,1,1,0,1,0,Negative,5,"context, spelling variation, or possible label ambiguity"
+Is ke ilawa inho ne is film ki badaulat 6 deegar awards bhi hasil kiye,Neutral,1,1,1,2,2,2,Positive,15,Urdu-English code-switching
+Chl jhoti,Neutral,1,1,0,0,0,0,Negative,2,very short or ambiguous
+bs dehko urdu agye parhna :')😂😂❤,Positive,2,1,1,1,1,1,Neutral,6,"context, spelling variation, or possible label ambiguity"
+ye aunty tou tu hai.,Neutral,1,1,1,0,2,0,Negative,5,"context, spelling variation, or possible label ambiguity"
+Mahesh Bhatt Production ke sath mazeed flmen kerny ki khwahish hai kiun ke Mahesh Bhatt ko apny fankaron se kam lena ata hai,Positive,2,1,0,0,0,0,Negative,23,"context, spelling variation, or possible label ambiguity"
+1970 mein jab Toor Sim Khan Squash kheltey huae dil ka doura par janey sey achanek inteqal ker gae to Jhangir Khan ney apney merhoom bap ki khahish puri ker ney key leay dobarah Squash key maidan mein qadam rakha,Neutral,1,1,2,2,2,2,Positive,40,"context, spelling variation, or possible label ambiguity"
+Yr bs karo 6 k 6 match har gae ho or abi b rana fawad kia khata ho ga tum logon ko,Negative,0,1,1,1,1,1,Neutral,22,"context, spelling variation, or possible label ambiguity"
+Intehai masroof aur mashoor fankara hone ke bawajood inho ne aik biwi aur maa ka role pori zimmedari se adaa kiya,Positive,2,1,1,1,1,1,Neutral,21,"context, spelling variation, or possible label ambiguity"
+Hahah meri koi czn ni meri jitni ..3 saal baad ho ni skti q ka abhi university ma b ni gya,Positive,2,1,1,1,1,1,Neutral,21,"context, spelling variation, or possible label ambiguity"
+Allah insaaf karey,Positive,2,1,2,0,0,0,Negative,3,very short or ambiguous
+Kal bahria is pe jayen gay agar gaye tou :D,Neutral,1,1,0,0,0,0,Negative,10,Urdu-English code-switching
+Rangers K Ekhtyarat Me Tousee Ki Qarardad Aaj Bhi Pesh Naa Ho Saki,Negative,0,1,2,2,2,2,Positive,13,"context, spelling variation, or possible label ambiguity"
+Cha gye ho dono,Positive,2,1,1,1,0,1,Neutral,4,"context, spelling variation, or possible label ambiguity"
+Bilkul sahih farmaya.,Positive,2,1,1,1,1,1,Neutral,3,very short or ambiguous
+Hehe mujhe to normal he lagti hai wase,Neutral,1,1,0,0,0,0,Negative,8,"context, spelling variation, or possible label ambiguity"
+Aap anjuman taraqqi pasand tehreek ke fa’al rukun aur aik mumtaz communist the,Neutral,1,1,2,2,2,2,Positive,13,Urdu-English code-switching
+Apne khayalat ke ablaagh mein inhe maharat tamma hasil thi,Positive,2,1,2,1,1,1,Neutral,10,"context, spelling variation, or possible label ambiguity"
+Is kaam mein un ki betiyan bhi sath deti hain.,Neutral,1,1,2,2,2,2,Positive,10,Urdu-English code-switching
+ek reh gaya maqol na maqol 😂😂😂,Neutral,1,1,0,0,0,0,Negative,7,"context, spelling variation, or possible label ambiguity"
+Ma sha Allah,Neutral,1,1,2,2,2,2,Positive,3,very short or ambiguous
+Ohhhhh acha kiya h fr to,Positive,2,1,1,1,1,1,Neutral,6,"context, spelling variation, or possible label ambiguity"
+"Isse pehle ke Maa appna dukhra tafseel se sunati, Marhoom Mohammed Ali sare muamley ki teyh tak pohanch gaey",Positive,2,1,1,0,0,0,Negative,19,"context, spelling variation, or possible label ambiguity"
+Sathi Mere Baad Tehreek Jari Rakhen,Neutral,1,1,2,2,2,2,Positive,6,"context, spelling variation, or possible label ambiguity"
+1 crore darakht lagwaye Imran ne kpk mei.,Positive,2,1,1,0,0,0,Negative,8,"context, spelling variation, or possible label ambiguity"
+kahan warna tmnay,Neutral,1,1,0,0,0,0,Negative,3,very short or ambiguous
+Par 6 9 Shiddat Ka Zalzala,Negative,0,1,2,1,1,1,Neutral,6,"context, spelling variation, or possible label ambiguity"
+December Aur bhai bht dafa toota usi K hatho dil Bt phr b he is,Negative,0,1,1,2,2,2,Positive,15,Urdu-English code-switching
+In ki library mein hazaron kutub maujood thin aur in ka shumar mulk ki barhi private libraries mein hota hai,Positive,2,1,2,1,1,1,Neutral,20,"context, spelling variation, or possible label ambiguity"
+Dushmn 😂🙌,Negative,0,1,1,1,1,1,Neutral,2,very short or ambiguous
+had hy Kya Log hy lol,Neutral,1,1,1,0,1,0,Negative,6,"context, spelling variation, or possible label ambiguity"
+Baat moun main hi reh gayi.,Neutral,1,1,0,0,0,0,Negative,6,"context, spelling variation, or possible label ambiguity"
+bilcul durst bhai Inshallah tamam employees k itahad sy esa zroor hoga.,Neutral,1,1,1,2,1,2,Positive,12,"context, spelling variation, or possible label ambiguity"
+Lota sialkot ka,Negative,0,1,0,1,0,1,Neutral,3,very short or ambiguous
+Noman Bk lg yhi RHA,Negative,0,1,1,1,1,1,Neutral,5,"context, spelling variation, or possible label ambiguity"
+Wazir e Azam Kay Kisan Package Par Amaldaramad Shuro Hukomat Nay DAP Khad Ki Qeemat Mein Fi Bori 500 Rupay Kami Kardi,Positive,2,1,0,0,0,0,Negative,22,"context, spelling variation, or possible label ambiguity"
+Autograph milay ga ..zroooor milay ga,Positive,2,1,0,1,1,1,Neutral,6,"context, spelling variation, or possible label ambiguity"
+Yeh to qoumi khel hy humra.😂,Negative,0,1,1,1,1,1,Neutral,6,"context, spelling variation, or possible label ambiguity"
+Ok. Hosakta h wesy mainy ek ee Suno Chanda drama dilse deka h.dosre nai dekhe.,Positive,2,1,1,1,1,1,Neutral,15,"context, spelling variation, or possible label ambiguity"
+sir rafay ko mention kro yaha..hahahhahahhahahahhaha,Positive,2,1,1,1,1,1,Neutral,6,"context, spelling variation, or possible label ambiguity"
+Salam Hakeem sab. Es dawae k estemal se. Mera qabaz boht ziada sakht hugya ta. Yaha tak k 4 yum bad mene English medicine ka estemal kia. Boht taklef deny Wala dawae hy. Ye wala,Negative,0,1,2,2,2,2,Positive,35,Urdu-English code-switching
+Wese ye serial ramZan ka nhi hai ramZan to bs naam k hain is serial me,Neutral,1,1,1,0,1,0,Negative,16,Urdu-English code-switching
+ha ha ha bechara.....🤣🤣🤣,Neutral,1,1,1,0,1,0,Negative,4,"context, spelling variation, or possible label ambiguity"
+right Or sada time same nahi rehtaaaaaa,Positive,2,1,1,1,1,1,Neutral,7,"context, spelling variation, or possible label ambiguity"
+Hahhahah mana asa 3nhi ja thi chawa,Negative,0,1,1,1,1,1,Neutral,7,"context, spelling variation, or possible label ambiguity"
+kya masla ha,Neutral,1,1,0,0,0,0,Negative,3,very short or ambiguous
+BHT khobsort,Neutral,1,1,2,2,2,2,Positive,2,very short or ambiguous
+Beta meray perhay ------ lagtay hayn,Negative,0,1,2,1,1,1,Neutral,6,"context, spelling variation, or possible label ambiguity"
+2013 mein shahrukh khan aur Ghori khan aik aur bete k eke waldain bane jis ka naam inho ne Abram rakha hai,Neutral,1,1,1,2,2,2,Positive,22,"context, spelling variation, or possible label ambiguity"
+"achi tartan track par training ke doran aap enjoy karte hain,",Positive,2,1,2,1,1,1,Neutral,11,"context, spelling variation, or possible label ambiguity"
+"Aik Graham Dilley he nahi, aise kae ballers hain jo “ Lala ” ke jarihana andaaz se panah maangte hain",Neutral,1,1,2,2,2,2,Positive,20,"context, spelling variation, or possible label ambiguity"
+Ghazal gaaeki ko aik naya andaaz bakhshne wali Iqbal Bano ki raseeli awaar 21 April 2009 ko Lahore mein khamosh ho gai tahum in ki sadabahar ghazlein aur geet shaiyqeen ke dilon mein inhe zinda rakhengi,Negative,0,1,2,2,2,2,Positive,36,"context, spelling variation, or possible label ambiguity"
+Ab to consecutive 3 wins ho gai hain,Neutral,1,1,0,0,1,0,Negative,8,"context, spelling variation, or possible label ambiguity"
+"Inho ne 30 sala filmy career ke dauran 300 films mukammal ki aur 8 zabanon mein kaam kiya, jin mein Telugu, Tamil, Marathi aur India ki riyasat Karnatak mein boli jane wali zaban top of the list hain",Neutral,1,1,1,2,2,2,Positive,38,Urdu-English code-switching
+aunty ko shukria bolin😊,Neutral,1,1,1,2,2,2,Positive,4,"context, spelling variation, or possible label ambiguity"
+"Mohammad Hafeez: Main is hawale se nahi sochta, qayadat ki izafi zimedari sonpne ka fasla board karta hai, us ne T20 ka mujhe captain banaya, main 100 sifad commitment se faraiz injam de raha hun, meri koshish hai ke team acha kheel pesh kare sath hi mustaqbil ke leye naya talent bhi farahum karna chahata hun",Neutral,1,1,2,2,2,2,Positive,56,Urdu-English code-switching
+Kis had tak Thea a,Neutral,1,1,0,0,0,0,Negative,5,"context, spelling variation, or possible label ambiguity"
+Bharti Cricket Board Ka Ek Bar Phir PAK Bharat Series Se Inkar,Negative,0,1,2,2,2,2,Positive,12,"context, spelling variation, or possible label ambiguity"
+Kolkata mein Roman Catholic High School ke tehat kaam karte howae Mother Teresa ko wahan rehne walon ka qareeb se mushahidah karne ka moqa mila.,Neutral,1,1,1,2,2,2,Positive,25,"context, spelling variation, or possible label ambiguity"
+PST ke posts education department ke test NTS ke neghrani me ho rahe hen 19 say 22 tak,Neutral,1,1,1,0,0,0,Negative,18,"context, spelling variation, or possible label ambiguity"
+Hahaha... bechariyan larkiyan,Negative,0,1,1,1,1,1,Neutral,3,very short or ambiguous
+Dheet hun me bht 😂 koi faida nae 😂,Negative,0,1,0,2,2,2,Positive,9,"context, spelling variation, or possible label ambiguity"
+jahan tak meri taleem ki baat hai to main is waqat Islamia College mein first year ka talib e ilm hun,Neutral,1,1,1,2,2,2,Positive,21,Urdu-English code-switching
+product is amazing . paper quality is also best . lkn bazar ke lehaz se price zyada hai ....,Neutral,1,1,2,2,2,2,Positive,19,Urdu-English code-switching
+2004 mein General retired Parvez Musharraf ke daur-e-sadarat mein inhe Hilal-e-Imtiaz se nawaza gaya,Positive,2,1,2,1,1,1,Neutral,14,"context, spelling variation, or possible label ambiguity"
+L0ve u M0M,Positive,2,1,1,1,1,1,Neutral,3,very short or ambiguous
+In ki zindagi barhi talatum khaiz rahi,Neutral,1,1,2,2,2,2,Positive,7,"context, spelling variation, or possible label ambiguity"
+Oh Bahi pM sahab k bap k pass itna pesa tha jitna abhi hamary mulk k pass b nahi hyy ...Wo pm abhi bany hain magr pesa unky pass boht Purana hy.,Neutral,1,1,0,0,0,0,Negative,32,"context, spelling variation, or possible label ambiguity"
+Mumbai ke sahili ilaqey mein 100 crore rupey ki lagat se banae gae in ke bungalow mein shahrukh khan ki barhi behan Shehnaz bhi in ke sath rehti hain,Neutral,1,1,1,0,0,0,Negative,29,"context, spelling variation, or possible label ambiguity"
+Bro Nasir KHan jan Ne aap ko kush kare ga,Neutral,1,1,2,2,2,2,Positive,10,"context, spelling variation, or possible label ambiguity"
+Uper waly portion will always welcome them😂,Positive,2,1,1,1,1,1,Neutral,7,"context, spelling variation, or possible label ambiguity"
+ahan nice janab,Positive,2,1,1,1,1,1,Neutral,3,very short or ambiguous
+to Ghareeb logon ko salam kr lia kro,Positive,2,1,0,0,0,0,Negative,8,"context, spelling variation, or possible label ambiguity"
+Ammi Pochti Hain Khane Mein Kya Doon To Mein Kehta Hoon EXTRA SHEET plz,Positive,2,1,1,1,1,1,Neutral,14,"context, spelling variation, or possible label ambiguity"
+1974 mein Janab Altaf Hussain Islamia college say BSc (pre medical group) ki digre hasil ki,Positive,2,1,1,1,1,1,Neutral,16,"context, spelling variation, or possible label ambiguity"
+Abe yrr koi nii..... uska b jugad lgaenge.... tu hi to punjab s h m to up s hu full jugadu.....,Negative,0,1,1,1,1,1,Neutral,21,"context, spelling variation, or possible label ambiguity"
+Is tarha 8 saal mein mukamal hone wale sab se bare sanati unit ko aik ghante ki karwai mein farikhat kar deya gaya,Negative,0,1,2,2,2,2,Positive,23,Urdu-English code-switching
+Koi aisa bnda hai jo peer sab k mukammal adress aur mulaqat kerwa saky.... me 1 saal se mulaqaat k shoq me hoon lakin koi guide line nhi mil rahi....its my contect...0300.7722017.... plzz,Positive,2,1,1,1,1,1,Neutral,33,mixed or contrasting opinion
+Masha Allah aapne sahi kaha hai.,Neutral,1,1,2,2,2,2,Positive,6,"context, spelling variation, or possible label ambiguity"
+Dfa ho ja,Negative,0,1,1,1,1,1,Neutral,3,very short or ambiguous
+Hamari industry mein aaj tak un jaisa hero nahi aaya aur koi bhi artist un ki jagah nahi le saka,Positive,2,1,1,1,1,1,Neutral,20,"context, spelling variation, or possible label ambiguity"
+Last version yhi rh gya h,Neutral,1,1,1,2,2,2,Positive,6,"context, spelling variation, or possible label ambiguity"
+Out class. Wordless. Dabang thought yaaar. Dunya ki koi taqat Pakistan ko jhuka nahin sakti. Salute to my flag.,Negative,0,1,1,2,2,2,Positive,19,"context, spelling variation, or possible label ambiguity"
+Allama ne wahin taleem paai aur apni siyasi zindagi ka aaghaz khilafat committee mein shamoliyat se kiya aur isi silsile mein jail bhi gaey,Negative,0,1,1,2,1,2,Positive,24,"context, spelling variation, or possible label ambiguity"
+Ham aysa karna nai chahtay bas ho jata hy😂,Neutral,1,1,0,0,0,0,Negative,9,"context, spelling variation, or possible label ambiguity"
+mujy lagta ha ghar waly b darama kar rhy han eid py sab thek ho jay gha,Positive,2,1,1,0,0,0,Negative,17,"context, spelling variation, or possible label ambiguity"
+Wo is irade se nikle thay k wo schematic bana kr sir ko de hi dalain.,Neutral,1,1,2,2,2,2,Positive,16,Urdu-English code-switching
+ab agya yakeen?Plus aj hamay pta chala k tum season khtam krnay me itni dair kio lgati ho,Neutral,1,1,1,0,0,0,Negative,18,informal expression or punctuation
+Mother Teresa ki khidmat ke eteraf mein unhein 1979 mein aman ke Noble Inaam se nawaza gaya.,Neutral,1,1,2,2,2,2,Positive,17,"context, spelling variation, or possible label ambiguity"
+Inayat Hussain Bhatti Pakistan ke phele Super Star play back golokar the,Neutral,1,1,2,2,2,2,Positive,12,Urdu-English code-switching
+Jab yellow sitara ain tmhari gandh me ho.,Negative,0,1,1,1,2,1,Neutral,8,"context, spelling variation, or possible label ambiguity"
+Madaras mein bhi parhte rahe aur phir aala taleem ke liye oxford chale gaey,Neutral,1,1,2,2,2,2,Positive,14,"context, spelling variation, or possible label ambiguity"
+Eyex kaisi batain kar rhy ho...pagla gai ho kya...,Negative,0,1,1,1,1,1,Neutral,9,"context, spelling variation, or possible label ambiguity"
+Sari larkia Ya tu makeup ki dukan Ya gudammmm,Neutral,1,1,0,0,0,0,Negative,9,"context, spelling variation, or possible label ambiguity"
+Oo bhae mene pehlay earphones hi nae utarnay tay us narial ki baat sun nay kay liyay,Negative,0,1,1,1,1,1,Neutral,17,"context, spelling variation, or possible label ambiguity"
+Box Office par yeh film kamiyab qarar di ja chuki hai,Positive,2,1,2,0,0,0,Negative,11,Urdu-English code-switching
+Qayam e Pakistan ke baad un ki pheli film “hichkole” thijo 1949 mein numaish ke leye pesh hoi,Positive,2,1,1,1,1,1,Neutral,18,Urdu-English code-switching
+Katrina bohat kam go hai,Neutral,1,1,0,0,0,0,Negative,5,"context, spelling variation, or possible label ambiguity"
+Aur Express walo k Neend kharab!,Neutral,1,1,0,0,0,0,Negative,6,informal expression or punctuation
+1 achi quality ka 2 lower quality ka hai,Neutral,1,1,2,0,2,0,Negative,9,"context, spelling variation, or possible label ambiguity"
+Oh wow.... Beautiful..... <3,Positive,2,1,1,1,1,1,Neutral,4,"context, spelling variation, or possible label ambiguity"
+Dekh bc ye Meri story bss isi lye iss Eid Socha rehn dy,Positive,2,1,0,0,0,0,Negative,13,"context, spelling variation, or possible label ambiguity"
+Haha Razzaque bhai ko b😂😂😂😂,Positive,2,1,1,1,1,1,Neutral,5,"context, spelling variation, or possible label ambiguity"
+really yar teri videos ty bari kamaal di ay,Positive,2,1,1,1,1,1,Neutral,9,"context, spelling variation, or possible label ambiguity"
+Apna title apny pas rakhyn😬,Neutral,1,1,2,2,2,2,Positive,5,"context, spelling variation, or possible label ambiguity"
+Cha geyi aunty,Positive,2,1,1,0,0,0,Negative,3,very short or ambiguous
+Zia Mohyeddin ne bachpan mein pehla drama apne walid ke zair e hidayat Devta ke naam se kiya,Neutral,1,1,1,2,1,2,Positive,18,"context, spelling variation, or possible label ambiguity"
+Hahahahah idea axhw h api,Positive,2,1,1,1,1,1,Neutral,5,"context, spelling variation, or possible label ambiguity"
+brtanya k ak rukn esembly ny clear likha hy k unhy continevesly reped in preson matlb unhy mutawatr ya aziat brdast krny parh rhi hy .,Negative,0,1,1,1,1,1,Neutral,26,"context, spelling variation, or possible label ambiguity"
+Aoa hazrat je ap s khasosi dua ki darkhwast h. Allaha ap ko jazay khair dy ameen,Negative,0,1,2,2,2,2,Positive,17,"context, spelling variation, or possible label ambiguity"
+Mlahon admi tuba,Negative,0,1,0,1,1,1,Neutral,3,very short or ambiguous
+you would be seeing same comment for your bachi... most probably! Bt dua hai k aaisaa na hee ho!,Negative,0,1,1,2,2,2,Positive,19,informal expression or punctuation
+Is doran press qawanin mein tarmim kar ke Nawa e waqat ka deceleration mansokh kar diya gaya,Neutral,1,1,2,0,0,0,Negative,17,Urdu-English code-switching
+100 dano wali aik tasbeeh hoty hai,Positive,2,1,1,1,1,1,Neutral,7,"context, spelling variation, or possible label ambiguity"
+True ...Allah hum sub ko hidayat aur taufeek dy ameen,Neutral,1,1,2,2,2,2,Positive,10,"context, spelling variation, or possible label ambiguity"
+Wak ni maa main badl gi hna,Negative,0,1,1,1,1,1,Neutral,7,"context, spelling variation, or possible label ambiguity"
+Eid hafte k din hai,Neutral,1,1,2,2,2,2,Positive,5,"context, spelling variation, or possible label ambiguity"
+aap kon sa nekh aadmi hy pasad ke jar,Neutral,1,1,0,0,0,0,Negative,9,"context, spelling variation, or possible label ambiguity"
+hamen to zaroort hi nhi prti😂😂,Neutral,1,1,0,0,0,0,Negative,6,"context, spelling variation, or possible label ambiguity"
+Na yd krwa yr bht he koi zalimana wqt tha wo,Negative,0,1,1,1,1,1,Neutral,11,"context, spelling variation, or possible label ambiguity"
+In Sha ALLAH next trophy.hamari,Neutral,1,1,2,2,2,2,Positive,5,"context, spelling variation, or possible label ambiguity"
+Hashim Khan ne Misr ke Mahmood Alkareem ko final mein hara ker aik dahmaka ker diya,Neutral,1,1,2,2,1,2,Positive,16,"context, spelling variation, or possible label ambiguity"
+Mere paas party ka koi auhda nahi.,Negative,0,1,1,1,1,1,Neutral,7,"context, spelling variation, or possible label ambiguity"
+Dehka end me honi tou daniyal ki hi hai,Neutral,1,1,1,0,0,0,Negative,9,"context, spelling variation, or possible label ambiguity"
+yh kis movie ka song ha plz plz sed me,Neutral,1,1,1,0,0,0,Negative,10,Urdu-English code-switching
+Tamam jahano k srdaar k dunia jis k liye bnai gai,Neutral,1,1,2,0,0,0,Negative,11,"context, spelling variation, or possible label ambiguity"
+Haha sakth londa hai yeai bol raha hoon,Negative,0,1,1,1,1,1,Neutral,8,"context, spelling variation, or possible label ambiguity"
+yarro yahi dosti ha junoon sa jo milli ha,Positive,2,1,1,0,2,0,Negative,9,"context, spelling variation, or possible label ambiguity"
+Aap ne 1971 ki jung ke doran Pakistani fojion ki shujaat aur bhaduri ke waqeyat ko apne fanparon ke zarye numayan kiya.,Neutral,1,1,2,2,0,2,Positive,22,"context, spelling variation, or possible label ambiguity"
+Roosi Wazir Dakhla ka Daura Turkey Multavi,Negative,0,1,1,1,1,1,Neutral,7,"context, spelling variation, or possible label ambiguity"
+Chief of Army General Asif Nawaz Jijuwa ki muat ki tehqiqati commotion mein shamil the jis ke sarbarah Justice Saif ur Rehman the,Positive,2,1,1,1,1,1,Neutral,23,Urdu-English code-switching
+Major Asif Haroon aur Lance Havaldar Mir Nawaz Major Muhammad Akram Shaheed ka jasd e khaki utha kar laye to sari company par sakta tari ho gaya,Negative,0,1,1,1,1,1,Neutral,27,"context, spelling variation, or possible label ambiguity"
+Dua farma dain meri sehat k luay aur meray baal girna band ho jaye 1 saal say be inteha gir rahay hain,Positive,2,1,2,0,0,0,Negative,22,"context, spelling variation, or possible label ambiguity"
+police mein pheli dafa pharhe likhe jawan larkon ki bharti merrit ki bunyad par ki gai,Positive,2,1,2,0,0,0,Negative,16,"context, spelling variation, or possible label ambiguity"
+Point class ka mara aunty ne,Positive,2,1,1,0,0,0,Negative,6,"context, spelling variation, or possible label ambiguity"
+Lajewab .......,Negative,0,1,1,1,1,1,Neutral,2,very short or ambiguous
+abnahi loot ne dain g Karachi ka pesa.,Positive,2,1,0,0,0,0,Negative,8,"context, spelling variation, or possible label ambiguity"
+Mother Teresa agar cha is duniya se ja chuki hain lekin un ke hathon shifa pane wale mariz aur un ke idare se nai zindagi ki naveed pa kar nikalne wale afrad unhein apni yadon mien hameshah zindah rakhein ge.,Positive,2,1,2,0,0,0,Negative,40,mixed or contrasting opinion
+Hahah wai I owe a special thankyou party to uncle n aunty then 😜,Positive,2,1,1,1,1,1,Neutral,14,"context, spelling variation, or possible label ambiguity"
+Apny dad k store ki kamayi khanay wali lol 😂,Negative,0,1,1,1,1,1,Neutral,10,"context, spelling variation, or possible label ambiguity"
+Ya shaheed hy ar ap hans rahy toba,Positive,2,1,0,0,0,0,Negative,8,"context, spelling variation, or possible label ambiguity"
+"Jin arkan ne apna haq e raidahi istamal nahi kiya in mein Mulana Azam Tariq, Owees Laghari, Raja Khalid aur AmanAbbasi shamil han",Negative,0,1,1,1,1,1,Neutral,23,"context, spelling variation, or possible label ambiguity"
+"Phir ye suna, kay, aap jayen",Positive,2,1,1,1,1,1,Neutral,6,"context, spelling variation, or possible label ambiguity"
+Majrooh to krgaii..,Negative,0,1,1,1,1,1,Neutral,3,very short or ambiguous
+"owsome editing baeeeeee , I m also Editer but ye wala takkar ka ta wow excellent Amazing work , Keep doing best or best , May Allah God bless u , Multi tellented and I told u , u are fakhr-e-Pakistan √ From iftikhar ( Himalaya Vynz)",Neutral,1,1,1,2,1,2,Positive,47,mixed or contrasting opinion
+Afsos karna hai unse k unki beti bohat manhoos 🙂,Neutral,1,1,0,0,0,0,Negative,10,"context, spelling variation, or possible label ambiguity"
+hmara farigh time ka kaam,Neutral,1,1,1,0,0,0,Negative,5,"context, spelling variation, or possible label ambiguity"
+kuch b ho banda pyar to karta hai ...... ab plyer hi ganday hon to wo kia karay,Neutral,1,1,0,0,0,0,Negative,18,"context, spelling variation, or possible label ambiguity"
+Hahahahahahahahahahhaha haso haso wanjo kri krto😁😁,Positive,2,1,1,1,1,1,Neutral,6,"context, spelling variation, or possible label ambiguity"
+Bus phir hamaray banday to alag ghar hi le k rahen ge :D,Neutral,1,1,1,0,2,0,Negative,13,"context, spelling variation, or possible label ambiguity"
+Itny pese khrxh krny k bd b aam hi lg rhi hy...shkl achi ho to insan kci b dress m khubsurt lg skta hy,Positive,2,1,0,0,0,0,Negative,24,"context, spelling variation, or possible label ambiguity"
+Tu tayari pakrle,Neutral,1,1,1,0,0,0,Negative,3,very short or ambiguous
+2012 mein Guinness World record ne inhe sab se ziyada muaawza 7 crore 50 lac dollar wasool karne wala actor qarar diya tha,Neutral,1,1,2,2,2,2,Positive,23,"context, spelling variation, or possible label ambiguity"
+Massage nai mill rahy,Negative,0,1,1,1,1,1,Neutral,4,"context, spelling variation, or possible label ambiguity"
+Bharat ke iss doure ke dauran unhein apni tehreek ke liye karoron rupay ki thalyan bhi pashe ki gayein,Neutral,1,1,1,2,0,2,Positive,19,"context, spelling variation, or possible label ambiguity"
+Fun e adakari ki nabz shanaas ban gai,Neutral,1,1,2,2,2,2,Positive,8,"context, spelling variation, or possible label ambiguity"
+Chap ho aur rahogi :p,Negative,0,1,1,1,1,1,Neutral,5,"context, spelling variation, or possible label ambiguity"
+Haha...mtlb main shareef nazar aati hun...😜😁,Positive,2,1,1,1,1,1,Neutral,6,"context, spelling variation, or possible label ambiguity"
+Tm mery bghair kesy raho gi saman😢 bs yhi soch kr ni mrti me 😂,Neutral,1,1,1,2,2,2,Positive,15,"context, spelling variation, or possible label ambiguity"
+No babe they are working....keep calm bcz you've not seen me yet 😂😂,Neutral,1,1,1,0,0,0,Negative,13,"context, spelling variation, or possible label ambiguity"
+Yahh karachi i hate khair bhaie hm toh chill h tm jeeto ya haro suno hmey tmsey pyar h bs yehi kehna h we luv u lahore,Neutral,1,1,2,2,2,2,Positive,27,"context, spelling variation, or possible label ambiguity"
+Bilkul sahi karwi haqeqat,Neutral,1,1,1,2,2,2,Positive,4,"context, spelling variation, or possible label ambiguity"
+Fairg hain issy liyay....,Negative,0,1,1,1,1,1,Neutral,4,"context, spelling variation, or possible label ambiguity"
+Picture abhi baki hai meray dost,Positive,2,1,1,1,1,1,Neutral,6,"context, spelling variation, or possible label ambiguity"
+ama aba h fb per? 😝,Negative,0,1,1,1,1,1,Neutral,6,informal expression or punctuation
+Apki batain hi apki zehni haalat ki nishandahi karti hain... Hamain koi hero bannay ki zarorat nahi hay majority employees jantay hain hamari karkardagi... Aur karkargadi se meri muraad facebook par batain karna nahi hay balkay on ground struggle hay. Dunya dekh rahi hay ap dekho ya na dekho koi farq nahi parta.,Positive,2,1,1,0,0,0,Negative,53,"context, spelling variation, or possible label ambiguity"
+K Electric Ka Boria Bistar Gol Kar Denge Rabta Committee Tarikh Day K Kab Dharna Den,Negative,0,1,1,1,1,1,Neutral,16,"context, spelling variation, or possible label ambiguity"
+Ye product bilkul b achi ni ti....jb ye mery pas pohnchi yo ye tooti hui ti..,Negative,0,1,1,2,0,2,Positive,16,"context, spelling variation, or possible label ambiguity"
+Hahaha .... ma zaror karu g,Positive,2,1,1,1,1,1,Neutral,6,"context, spelling variation, or possible label ambiguity"
+Hamain Allah ko Capital A se likhna chahiye.Agar UK 1 saal rehne ke baad bhi nahi hue to hamain apne spelling theek karne chahiye,Positive,2,1,1,0,2,0,Negative,24,"context, spelling variation, or possible label ambiguity"
+Chl kr a kay,Neutral,1,1,0,0,0,0,Negative,4,"context, spelling variation, or possible label ambiguity"
+Captain ne tajwiz kiya ke tez ball nahi karna balke leg break karna,Neutral,1,1,2,2,2,2,Positive,13,"context, spelling variation, or possible label ambiguity"
+In ki pesh goiyan aur siyasi tabsarey news papers namak mirch laga kar shaey karte the,Negative,0,1,1,1,1,1,Neutral,16,Urdu-English code-switching
+ye tha kal ka episode jo tm ne miss krdia,Neutral,1,1,1,0,0,0,Negative,10,"context, spelling variation, or possible label ambiguity"
+Wahan se MA aur PCL ki degrees hasil ki,Neutral,1,1,1,2,0,2,Positive,9,"context, spelling variation, or possible label ambiguity"
+Tumari shadi 2 saal baad hogi wo b achanak.... kisi czn se,Positive,2,1,1,1,1,1,Neutral,12,"context, spelling variation, or possible label ambiguity"
+120 gaz ka ghar na sirf Altaf Hussain ki rehayish gah balkay siasi sar garmiyoon ka markaz bhi hai,Neutral,1,1,2,2,2,2,Positive,19,"context, spelling variation, or possible label ambiguity"
+Achha hay. Asal naam kia hay aap ka? Aap hayn tau wese meethi si.,Positive,2,1,1,1,2,1,Neutral,14,informal expression or punctuation
+"Noon league is history, PTI is future",Neutral,1,1,1,0,0,0,Negative,7,Urdu-English code-switching
+Shaukat Azizka Ben ul aqwami maliyati adaron ke sath porana taluq hai aur un ka ye taluq Pakistan ke maliyati adaron ko nmusthekam bana sakta hai,Positive,2,1,1,1,1,1,Neutral,26,"context, spelling variation, or possible label ambiguity"
+Watan wapis aa kar aap ne Calcutta mein wakalat shuru ki aur siyasat mein amli hissa lena shuru kar diya,Neutral,1,1,1,0,1,0,Negative,20,"context, spelling variation, or possible label ambiguity"
+ali bhai apko election larna chahye,Positive,2,1,1,1,1,1,Neutral,6,"context, spelling variation, or possible label ambiguity"
+Still u r my buddy 😘,Positive,2,1,1,1,1,1,Neutral,6,"context, spelling variation, or possible label ambiguity"
+hahaha bilkul perfect naqsha khencha,Positive,2,1,1,1,1,1,Neutral,5,"context, spelling variation, or possible label ambiguity"
+shukriya jee,Positive,2,1,1,1,1,1,Neutral,2,very short or ambiguous
+Magar in ke walid Mustafa Sheikh profession ke lihaaz se lawyer the,Neutral,1,1,1,2,2,2,Positive,12,mixed or contrasting opinion
+Peoples party ke bohat se logon ne inhe apni saffon mein hamesha shukk ki nazar se dekha,Negative,0,1,2,2,1,2,Positive,17,"context, spelling variation, or possible label ambiguity"
+yahi tou kartai hai hum hamesha 😂😂😂,Neutral,1,1,0,0,0,0,Negative,7,"context, spelling variation, or possible label ambiguity"
+Awam nay inpar do martaba aitamad kartay hoye inhain muntakhab kia,Positive,2,1,1,0,0,0,Negative,11,"context, spelling variation, or possible label ambiguity"
+Ahmed Nadeem Qasmi iss waqt ke Badshahi masjid ke Imam Maulana Ghulam Murshid ke qaribi aziz they jo Ahmed Nadeem Qasmi Lahore laye aur unhien iss waqt ki shahar ki adbi shaksiyat Sufi Ghulam Mustafa Tabassum se motaraf karwaya,Positive,2,1,1,1,1,1,Neutral,39,"context, spelling variation, or possible label ambiguity"
+najeeb spot ke bahir concert,Neutral,1,1,0,0,0,0,Negative,5,"context, spelling variation, or possible label ambiguity"
+Ghussay mei Such bolna aur Taqat k hotay huay muaf karna Afzal tareen naikiyon me se h,Positive,2,1,1,0,2,0,Negative,17,"context, spelling variation, or possible label ambiguity"
+Ye Islam ki Nazmi tareekh ka ek record hai,Positive,2,1,2,1,1,1,Neutral,9,"context, spelling variation, or possible label ambiguity"
+Aur apka baar baar batana 😂😂😂,Neutral,1,1,1,2,2,2,Positive,6,"context, spelling variation, or possible label ambiguity"
+Allah hum hadyat de,Negative,0,1,2,2,2,2,Positive,4,"context, spelling variation, or possible label ambiguity"
+General Raheel Sharif Command Staff aur Instructional taqaruriyon ka wasi tajurba rakhte hain,Positive,2,1,1,1,1,1,Neutral,13,"context, spelling variation, or possible label ambiguity"
+"Legend Naami film mein 52 saala jagpati Babu aur 53 saala Nanda Mori ke muqabl ehm kirdar ada kareingi,saal e rawan mein Akshay Kumar aur Sanjay Dutt ke saath film ""Aasmam"" release hogi",Neutral,1,1,1,2,2,2,Positive,33,Urdu-English code-switching
+Ufff mery Allah,Neutral,1,1,2,2,2,2,Positive,3,very short or ambiguous
+Pir Ali Rashdi ne 14 March 1987 ko wafaat paai,Negative,0,1,1,1,1,1,Neutral,10,"context, spelling variation, or possible label ambiguity"
+Aik bnda idr army k khilaf bolra uski baton se esa lgta h k usko army ne reject krdia tha esliy dil ki bhras pages py nikalta h ab Army na ho na to bchy tmhry nawaz shareef mulk ko girvi rkh k bhag jy..,Neutral,1,1,0,0,0,0,Negative,45,"context, spelling variation, or possible label ambiguity"
+Amroz ke bad Ahmed Nadeem Qasmi Roznama Jang aur bad mein Karachi se nikalney waley Roznama Huriat mein colum likhtey rahey wafat ke bad se pehley tak woh Roznama Jang mein colum likh rahey they apni zindagi ke akhri 32 saal woh Lahore mein adbi adara majlis taraqi adab ke director rahey,Positive,2,1,1,1,0,1,Neutral,52,Urdu-English code-switching
+Dawa aur Dua Dono lazmi hen #saima,Neutral,1,1,1,2,2,2,Positive,7,"context, spelling variation, or possible label ambiguity"
+Mulk ki siasat kay haliya utar charaho aur unkay aqdamat ko daykha jaye to kaha jasakta hai kay inki maqbolyat anay walay aik taweel arsay tak barqarar rahay gi,Positive,2,1,0,0,0,0,Negative,29,"context, spelling variation, or possible label ambiguity"
+Jb ap wapis aein to zaroor Quetta say Loadhraan just ap say milnay k lye oun ga...,Positive,2,1,1,0,0,0,Negative,17,"context, spelling variation, or possible label ambiguity"
+Mtlb khd ko,Neutral,1,1,0,0,0,0,Negative,3,very short or ambiguous
+Nahi aay ga ab agly Monday,Neutral,1,1,1,0,0,0,Negative,6,"context, spelling variation, or possible label ambiguity"
+Yrr us ko bhi saloon ly jati khudh powder laga k goori hogae us ko aesahi bager mou dhulwaye tum shopping py ly gae,Neutral,1,1,0,0,0,0,Negative,24,"context, spelling variation, or possible label ambiguity"
+Mgr ab tu lrke bnte ja re hai,Neutral,1,1,1,0,0,0,Negative,8,"context, spelling variation, or possible label ambiguity"
+Aunty ki aisi ki taisi...,Negative,0,1,1,1,1,1,Neutral,5,"context, spelling variation, or possible label ambiguity"
+Inhe hotel mein kam darjey ka kamra diya jata,Negative,0,1,1,1,1,1,Neutral,9,"context, spelling variation, or possible label ambiguity"
+Hahaha tu murs h to aja kl k match p zalmi meri,Positive,2,1,1,1,1,1,Neutral,12,"context, spelling variation, or possible label ambiguity"
+Awww haye bichari :p,Negative,0,1,1,1,1,1,Neutral,4,"context, spelling variation, or possible label ambiguity"
+14 January 1954 ko Marilyn Monroe ne in se shadi kar li aur honey moon Japan mein guzara,Positive,2,1,1,0,0,0,Negative,18,"context, spelling variation, or possible label ambiguity"
+Mian Biwi Jan Bahaq,Negative,0,1,0,1,1,1,Neutral,4,"context, spelling variation, or possible label ambiguity"
+qadar karo hmari qadar,Positive,2,1,2,0,0,0,Negative,4,"context, spelling variation, or possible label ambiguity"
+Bacha Khan ko Foji officer ki wardi pehenne ka shuq tha,Positive,2,1,0,1,1,1,Neutral,11,"context, spelling variation, or possible label ambiguity"
+Akhir hi aalla dailogue thy aj,Positive,2,1,1,1,1,1,Neutral,6,"context, spelling variation, or possible label ambiguity"
+Gull g any time ap k liye to hmaisha sy well come ha,Positive,2,1,1,1,1,1,Neutral,13,"context, spelling variation, or possible label ambiguity"
+Bastard qyamat aane wali hai,Negative,0,1,1,1,1,1,Neutral,5,"context, spelling variation, or possible label ambiguity"
+Ustaad is pe to vote banta hai,Neutral,1,1,1,0,1,0,Negative,7,Urdu-English code-switching
+.ye sahi ha bai...gari thi ki k pani ki bottel itne aram se side kar lia,Positive,2,1,0,0,0,0,Negative,16,"context, spelling variation, or possible label ambiguity"
+Ek cheez bataa do achi jo pmln aur ppp ne ki ho achi pakistan ke liye ?,Neutral,1,1,2,2,2,2,Positive,17,informal expression or punctuation
+Bangal Se Aanay Wala Barish Ka System Kal Sunday Pakistan Me Dakhil Hoga Karachi Me 120mm Barish Ka Imkan,Positive,2,1,1,1,1,1,Neutral,19,"context, spelling variation, or possible label ambiguity"
+"Phir Babli aur hindi badshahon ki tafseel, baznatini aur Irani saltanaton ka haal, Yunan ke philosopher aur un ke nazariyat ki tashreeh, Chinese aur Misri hukmarano aur sikander aazam ke auhed ki tafseel di hai",Neutral,1,1,2,2,2,2,Positive,35,"context, spelling variation, or possible label ambiguity"
+Lekan Fuj Kisi B Larai K Lye Tayar Hy,Positive,2,1,0,0,0,0,Negative,9,"context, spelling variation, or possible label ambiguity"
+Usi baras Jerry Lewis ne apni zaati production Cinderella ki tayyari bhi shuru kar di,Neutral,1,1,1,0,0,0,Negative,15,"context, spelling variation, or possible label ambiguity"
+"A reference - at memory level, works same as a pointer. Paiwasta reh shajjar se umeed e bahaar rakh :D",Positive,2,1,1,0,0,0,Negative,20,"context, spelling variation, or possible label ambiguity"
+Porana foto shot hy uy hy na fawad ka to hashar huwa prda hy ab to,Negative,0,1,1,1,1,1,Neutral,16,"context, spelling variation, or possible label ambiguity"
+Kota hona chahiye kiyun k agar intikhabi amal say guzray tu shayad elect Na ho paayen is tarha in ko mehromi ka ehsas ho ga aur being a Pakistani Muslim main nai chahta k in ko mehromi ka ehsas ho,Positive,2,1,1,0,1,0,Negative,40,Urdu-English code-switching
+Lahore Allama Iqbal Airport Per Instrumental Landing System Ka Iftitah,Positive,2,1,1,1,1,1,Neutral,10,"context, spelling variation, or possible label ambiguity"
+Cheel parenda,Neutral,1,1,1,0,0,0,Negative,2,very short or ambiguous
+Kya baat hey Hazrat Hakeem Sahab key,Positive,2,1,2,1,1,1,Neutral,7,"context, spelling variation, or possible label ambiguity"
+Iss tarah Hashim ne British open khelne ki mansooba bandi ki,Neutral,1,1,2,2,2,2,Positive,11,"context, spelling variation, or possible label ambiguity"
+Kaash hum b parhay likhay hotayKabhi likhtay gulbadanKabhi likhtay Gulfeezan,Negative,0,1,1,1,0,1,Neutral,10,"context, spelling variation, or possible label ambiguity"
+Swat me aj Pti ka jalsa ha,Neutral,1,1,0,0,2,0,Negative,7,"context, spelling variation, or possible label ambiguity"
+Un k vote elag hony chahiay,Negative,0,1,1,1,1,1,Neutral,6,"context, spelling variation, or possible label ambiguity"
+Petnay k lia taiyar hoja,Neutral,1,1,0,0,0,0,Negative,5,"context, spelling variation, or possible label ambiguity"
+islami talimaat ky mutabiq hoona chaheay,Positive,2,1,1,1,2,1,Neutral,6,"context, spelling variation, or possible label ambiguity"
+Naya naya pesa nahe aaya uske paas.,Neutral,1,1,1,0,0,0,Negative,7,"context, spelling variation, or possible label ambiguity"
+jo apni makhsoos tarz-e-mazah aur do maeyne guftugo ke baiys maqbool aam hua aur 30 saal se ziyada arsey tak chalta raha,Positive,2,1,1,1,1,1,Neutral,22,"context, spelling variation, or possible label ambiguity"
+Hahaha sahi baat ha,Positive,2,1,1,1,1,1,Neutral,4,"context, spelling variation, or possible label ambiguity"
+"AlhamduAllah, massage mil rahay hain.",Positive,2,1,1,1,1,1,Neutral,5,"context, spelling variation, or possible label ambiguity"
+Crickter Hashim Amla Ka Indian Sahafi Larki Ko Saaf Jawab,Neutral,1,1,1,0,0,0,Negative,10,"context, spelling variation, or possible label ambiguity"
+Log dil thaam kar beth jate hain,Neutral,1,1,0,0,0,0,Negative,7,"context, spelling variation, or possible label ambiguity"
+"Rote hue aate hain sab, hansta hua jo jaega,,,",Positive,2,1,1,0,0,0,Negative,9,"context, spelling variation, or possible label ambiguity"
